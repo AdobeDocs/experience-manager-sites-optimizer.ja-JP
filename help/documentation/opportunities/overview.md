@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer商談ドキュメント
 description: 利用可能なすべての Site Optimizer の機会と、それらを使用してサイトのパフォーマンスを向上させる方法について説明します。
-source-git-commit: 76efc38b3f6bd3e1f5d63cf2396e443f7cb78762
+source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '758'
 ht-degree: 12%
 
 ---
@@ -96,12 +96,6 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
 * ./invalid-or-missing-metadata.md
   {title=Invalid or missing metadata}
   {image=../../assets/common/card-code.png}
-* ./low-conversions.md
-  {title=Low conversions}
-  {image=../../assets/common/card-bag.png}
-* ./low-views.md
-  {title=Low views}
-  {image=../../assets/common/card-bag.png}   
 * ./missing-alt-text.md
   {title=Missing alt text}
   {image=../../assets/common/card-arrows.png}
@@ -300,52 +294,6 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
                     <p class="is-size-6">無効な、または見つからないメタデータのオポチュニティと、そのオポチュニティを使用してトラフィック獲得を改善する方法について説明します。</p>
                 </div>
                 <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low conversions">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./low-conversions.md" title="低コンバージョン" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="低コンバージョン"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="低コンバージョン"> 低コンバージョン </a>
-                    </p>
-                    <p class="is-size-6">コンバージョンが低い機会と、それを使用して web サイトでのフォームエンゲージメントを向上させる方法について説明します。</p>
-                </div>
-                <a href="./low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low views">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./low-views.md" title="低ビュー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="低ビュー"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-views.md" target="_blank" rel="referrer" title="低ビュー"> 低ビュー </a>
-                    </p>
-                    <p class="is-size-6">ロービューの機会と、それを使用して web サイトでのフォームエンゲージメントを向上させる方法について説明します。</p>
-                </div>
-                <a href="./low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
