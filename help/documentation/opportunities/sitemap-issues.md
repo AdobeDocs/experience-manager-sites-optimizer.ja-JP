@@ -2,7 +2,7 @@
 title: サイトマップの問題の商談ドキュメント
 description: サイトマップの問題の機会と、それを使用してトラフィック獲得を改善する方法について説明します。
 badgeTrafficAcquisition: label="トラフィックの獲得" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="トラフィックの獲得"
-source-git-commit: d812a49e4b49d329717586b9f3c7a235aff3e69a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 1%
@@ -75,8 +75,9 @@ ht-degree: 1%
 
 候補には通常、サイトマップエントリを修正するための更新されたサイトパスが含まれています。 場合によっては、正しいリダイレクトターゲットの指定など、より詳細な手順が提供される場合もあります。
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![ サイトマップの問題を自動最適化 ](./assets/sitemap-issues/auto-optimize.png){align="center"}
 

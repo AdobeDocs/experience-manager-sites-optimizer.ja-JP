@@ -2,7 +2,7 @@
 title: クロスサイトスクリプティングの商談ドキュメント
 description: クロスサイトスクリプティングの機会について説明し、サイトセキュリティの脆弱性を特定して修正します。
 badgeSecurityPosture: label="セキュリティ態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="セキュリティ態勢"
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 4%
@@ -29,8 +29,9 @@ ht-degree: 4%
 
 * **修正候補** – 脆弱性の修正方法に関して AI が生成した提案。
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 >[!BEGINTABS]
 

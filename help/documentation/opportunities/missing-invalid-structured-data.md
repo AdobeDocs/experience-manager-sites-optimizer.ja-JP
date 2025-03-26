@@ -2,7 +2,7 @@
 title: 構造化データのドキュメントがないか無効です
 description: 見つからない構造化データのオポチュニティや無効な構造化データのオポチュニティについて、およびトラフィック獲得を向上させるために使用する方法について説明します。
 badgeTrafficAcquisition: label="トラフィックの獲得" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="トラフィックの獲得"
-source-git-commit: 0a333a4055e59c49d3266d8c3ed55d7e60771923
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 3%
@@ -41,8 +41,9 @@ ht-degree: 3%
 * **イシュー** – 問題の数と、すべての問題を一覧表示するドロップダウンメニューを含むフィールド。
 * **提案フィールド** - AI が生成した、適切な構造化データの更新に適した説明と提案。 下にスクロールして、その他の提案や問題を参照できます。
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![ 欠落している構造化データまたは無効な構造化データの候補の自動最適化 ](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
 

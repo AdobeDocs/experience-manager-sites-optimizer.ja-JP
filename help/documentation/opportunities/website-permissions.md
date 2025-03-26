@@ -2,7 +2,7 @@
 title: Web サイト権限の商談ドキュメント
 description: Web サイトの権限の機会と、それを使用して Web サイト上ののセキュリティを強化する方法について説明します。
 badgeSecurityPosture: label="セキュリティ態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="セキュリティ態勢"
-source-git-commit: 5d1ae616ddde74f69b73ba5b44297c14b2dea36b
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 2%
@@ -33,7 +33,9 @@ Web サイトの権限のオポチュニティは、安全で管理しやすいA
 
 自動提案では、「**推奨権限**」フィールドに AI によって生成されたレコメンデーションが提供され、フラグが設定された権限を安全な代替値に置き換えることができます。
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Web サイトの権限の自動最適化 ](./assets/website-permissions/auto-optimize.png){align="center"}
 

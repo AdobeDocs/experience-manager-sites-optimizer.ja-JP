@@ -2,7 +2,7 @@
 title: コンバージョンが少ない商談に関するドキュメント
 description: コンバージョンが低い機会と、それを使用して web サイトでのフォームエンゲージメントを向上させる方法について説明します。
 badgeFormOptimization: label="フォームの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="フォームの最適化"
-source-git-commit: f83926c9136e3d83be56faa403bc9609b2ee09df
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 1%
@@ -50,8 +50,9 @@ ht-degree: 1%
 
 >[!ENDTABS]
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![ 低コンバージョンの自動最適化 ](./assets/low-conversions/auto-optimize.png){align="center"}
 

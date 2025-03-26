@@ -2,7 +2,7 @@
 title: Core Web Vitals Opportunity ドキュメント
 description: Web の重要なオポチュニティと、それを使用してトラフィック獲得を改善する方法について説明します。
 badgeSiteHealth: label="サイトの健全性" type="Caution" url="../../opportunity-types/site-health.md" tooltip="サイトの健全性"
-source-git-commit: 81343812472477448fd0ee8be89bd6ae784a9e61
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 1%
@@ -42,8 +42,9 @@ Web の中心となる重要なオポチュニティは、AI が生成した修�
 
 各カテゴリには複数の問題を含めることができるので、下にスクロールして、問題と推奨事項の完全なリストを確認してください。  さらに、各指標に対して、モバイルとデスクトップの両方のパフォーマンスゲージが 2 つあります。
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![ コア Web バイタルの機会を自動最適化 ](./assets/core-web-vitals/auto-optimize.png){align="center"}
 

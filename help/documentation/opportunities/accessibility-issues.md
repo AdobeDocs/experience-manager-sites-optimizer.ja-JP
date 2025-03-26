@@ -2,7 +2,7 @@
 title: アクセシビリティの問題に関する商談ドキュメント
 description: アクセシビリティの問題のオポチュニティと、それを使用して web サイト上ののセキュリティを強化する方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
-source-git-commit: fd439ce1e5191005fd79c81aef790f3cc7550e94
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 2%
@@ -34,7 +34,9 @@ ht-degree: 2%
 
 自動提案では、AI によって生成されたレコメンデーションが「**問題の修正方法**」フィールドに表示され、問題の修正方法に関する規範的なガイダンスが提供されます。
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![ アクセシビリティの問題の自動最適化 ](./assets/accessibility-issues/auto-optimize.png){align="center"}
 

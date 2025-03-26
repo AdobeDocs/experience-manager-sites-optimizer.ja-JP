@@ -2,7 +2,7 @@
 title: 代替テキストのドキュメントがない
 description: 欠けている代替テキストの機会と、それを使用して web サイトでのエンゲージメントを向上させる方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
-source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -57,8 +57,9 @@ AI が生成した提案に同意しない場合は、**編集アイコン** を
 
 >[!ENDTABS]
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![ 見つからない代替テキストの自動最適化 ](./assets/missing-alt-text/auto-optimize.png){align="center"}
 

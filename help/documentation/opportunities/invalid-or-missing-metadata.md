@@ -2,7 +2,7 @@
 title: メタデータ商談ドキュメントが無効または見つかりません
 description: 無効な、または見つからないメタデータのオポチュニティと、そのオポチュニティを使用してトラフィック獲得を改善する方法について説明します。
 badgeTrafficAcquisition: label="トラフィックの獲得" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="トラフィックの獲得"
-source-git-commit: 850c1ed49d4ee117ece19c865a329f13b69bc8dc
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 2%
@@ -64,8 +64,9 @@ AI によって生成された提案に同意しない場合は、**編集アイ
 
 >[!ENDTABS]
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![ 提案された無効なメタデータまたは見つからないメタデータの自動最適化 ](./assets/missing-or-invalid-metadata/auto-optimize.png){align="center"}
 

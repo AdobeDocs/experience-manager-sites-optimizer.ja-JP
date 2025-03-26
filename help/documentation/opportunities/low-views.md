@@ -2,7 +2,7 @@
 title: 低ビューの商談ドキュメント
 description: ロービューの機会と、それを使用して web サイトでのフォームエンゲージメントを向上させる方法について説明します。
 badgeFormOptimization: label="フォームの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="フォームの最適化"
-source-git-commit: 258024606c732a4f4d4fe21a9ee36e1e2d3572f5
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 1%
@@ -50,8 +50,9 @@ ht-degree: 1%
 
 >[!ENDTABS]
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![ 低ビューの自動最適化 ](./assets/low-views/auto-optimize.png){align="center"}
 

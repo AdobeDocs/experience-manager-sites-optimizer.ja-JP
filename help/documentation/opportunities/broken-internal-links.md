@@ -2,7 +2,7 @@
 title: オポチュニティに関する内部リンクの破損のドキュメント
 description: リンク切れの機会と、それを使用して web サイトでのエンゲージメントを向上させる方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
-source-git-commit: 40ed1b3d60bd4eb1e5410c8c76a7d45856a3d79b
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
@@ -61,8 +61,9 @@ AI が生成した提案に同意しない場合は、**編集アイコン** を
 >[!ENDTABS]
 
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 <!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-links/auto-optimize.png){align="center"}-->
 

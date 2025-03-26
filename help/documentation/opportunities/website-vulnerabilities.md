@@ -2,7 +2,7 @@
 title: Web サイトの脆弱性の機会に関するドキュメント
 description: Web サイトの脆弱性の機会と、それを使用して Web サイト上ののセキュリティを強化する方法について説明します。
 badgeSecurityPosture: label="セキュリティ態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="セキュリティ態勢"
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 1%
@@ -52,7 +52,9 @@ Web サイトの脆弱性オポチュニティでは、ページの上部に次�
 >[!ENDTABS]
 
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Web サイトの脆弱性の自動最適化 ](./assets/website-vulnerabilities/auto-optimize.png){align="center"}
 

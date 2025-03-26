@@ -2,7 +2,7 @@
 title: CORS 設定商談ドキュメント
 description: CORS 設定の機会について、およびサイトのセキュリティの脆弱性を特定して修正する方法について説明します。
 badgeSecurityPosture: label="セキュリティ態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="セキュリティ態勢"
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 3%
@@ -32,9 +32,9 @@ Web アプリケーションを不正なデータアクセスから保護する�
 自動候補は、レビューの対象となる **アプリケーションコードファイル** およびその **行** を提供します。これにより、CORS ポリシーの設定が緩くなる可能性があります。
 
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
+## 自動最適化
 
-
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 >[!BEGINTABS]
 

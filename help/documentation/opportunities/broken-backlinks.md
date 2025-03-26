@@ -2,7 +2,7 @@
 title: オポチュニティに関するドキュメントのバックリンクの破損
 description: 壊れたバックリンクの機会と、それを使用してトラフィック獲得を改善する方法について説明します。
 badgeTrafficAcquisition: label="トラフィックの獲得" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="トラフィックの獲得"
-source-git-commit: d2f8df0515265f6bc983cf906e07e9bf7230becf
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 1%
@@ -60,9 +60,9 @@ AI が生成した提案に同意しない場合は、**編集アイコン** を
 
 >[!ENDTABS]
 
+## 自動最適化
 
-## [!BADGE Ultimate] を自動最適化{type=Positive tooltip="Ultimate"}
-
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![ 壊れたバックリンクの自動最適化 ](./assets/broken-backlinks/auto-optimize.png){align="center"}
 
