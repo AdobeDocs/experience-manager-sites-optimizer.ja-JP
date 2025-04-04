@@ -1,19 +1,19 @@
 ---
-title: Sites Optimizerでサイトの正常性を最適化する
-description: Sites Optimizerを使用してサイトのヘルスを向上させる方法を説明します。
+title: Sites Optimizer を使用したサイトの健全性の最適化
+description: Sites Optimizer を使用してサイトの健全性を向上させる方法について説明します。
 source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# サイト正常性の機会
+# サイトの健全性の機会
 
-![ サイトヘルスの機会 ](./assets/site-health/hero.png){align="center"}
+![サイトの健全性の機会](./assets/site-health/hero.png){align="center"}
 
-AEM Sites Optimizerのサイトヘルスを維持することは、高速で信頼性の高い、高パフォーマンスのデジタルエクスペリエンスを実現するために不可欠です。 Core Web Vitals など、改善の機会を特定することで、チームはページの速度、インタラクティブ性、視覚的安定性を最適化し、ユーザーエクスペリエンスと検索エンジンのランキングを強化できます。 適切に管理されたサイトにより、ナビゲーションがスムーズになり、エンゲージメントが向上し、全体的なパフォーマンスが向上します。 AEM Sites Optimizerのインサイトを活用することで、継続的なモニタリングと改善が可能になり、サイトは時間の経過と共に効率的かつ効果的なままになります。
+AEM Sites Optimizer でサイトの健全性を維持することは、高速で信頼性が高く、パフォーマンスの高いデジタルエクスペリエンスを提供するために不可欠です。コア web バイタルなどの改善の機会を特定することで、チームはページ速度、インタラクティブ機能、視覚的な安定性を最適化し、ユーザー エクスペリエンスと検索エンジンのランキングを向上させることができます。適切に管理されたサイトでは、よりスムーズなナビゲーション、より優れたエンゲージメント、全体的なパフォーマンスの向上が確保されます。AEM Sites Optimizer のインサイトを活用することで、継続的な監視と改良が可能になります。これにより、長期にわたってサイトの効率性と有効性を確保します。
 
 ## 機会
 
@@ -30,8 +30,8 @@ AEM Sites Optimizerのサイトヘルスを維持することは、高速で信�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/core-web-vitals.md" title="Core web vitals" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-performance.png" alt="Core web vitals"
+                    <a href="../documentation/opportunities/core-web-vitals.md" title="コア web バイタル" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-performance.png" alt="コア web バイタル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -39,9 +39,9 @@ AEM Sites Optimizerのサイトヘルスを維持することは、高速で信�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Core web vitals">Core web vitals</a>
+                        <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="コア web バイタル">コア web バイタル</a>
                     </p>
-                    <p class="is-size-6">Web の重要なオポチュニティと、それを使用してトラフィック獲得を改善する方法について説明します。</p>
+                    <p class="is-size-6">コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>

@@ -1,19 +1,19 @@
 ---
-title: Sites Optimizerによるフォームの最適化
-description: Sites Optimizerを使用したフォームの最適化について説明します。
+title: Sites Optimizer を使用したフォームの最適化
+description: Sites Optimizer を使用したフォームの最適化について説明します。
 source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# フォーム最適化の機会
+# フォームの最適化の機会
 
-![ フォーム最適化の機会 ](./assets/form-optimization/hero.png){align="center"}
+![フォームの最適化の機会](./assets/form-optimization/hero.png){align="center"}
 
-AEM Sites Optimizerでのフォームの最適化は、ユーザーインタラクションを改善し、コンバージョンを最大限に高めるために不可欠です。 チームは、フォームの低ビューや低コンバージョンなど、改善が必要な領域を特定することで、フォームのデザイン、プレースメント、コンテンツを調整し、エンゲージメントを強化できます。 最適化されたフォームにより、シームレスなユーザーエクスペリエンスが保証され、訪問者がアクションを完了してビジネス成果を促進しやすくなります。 AEM Sites Optimizerのインサイトを活用すると、マーケターは改善点を継続的に特定できるので、最終的に有効性が高まり、サイト全体のパフォーマンスが向上します。
+AEM Sites Optimizer でのフォームの最適化は、ユーザーインタラクションの改善とコンバージョン率の最大化に不可欠です。フォームの少ない閲覧数や低コンバージョンなど、改善すべき領域を特定することで、チームはフォームのデザイン、配置、コンテンツを改善し、エンゲージメントを強化できます。最適化されたフォームにより、シームレスなユーザーエクスペリエンスが確保され、訪問者はアクションを完了し、ビジネス成果を推進しやすくなります。AEM Sites Optimizer のインサイトを活用することで、マーケターは改善すべき領域を継続的に特定し、最終的に効果を高めてサイト全体のパフォーマンスを向上させることができます。
 
 ## 機会
 
@@ -33,8 +33,8 @@ AEM Sites Optimizerでのフォームの最適化は、ユーザーインタラ�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/low-views.md" title="低ビュー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="低ビュー"
+                    <a href="../documentation/opportunities/low-views.md" title="少ない閲覧数" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="少ない閲覧数"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -42,9 +42,9 @@ AEM Sites Optimizerでのフォームの最適化は、ユーザーインタラ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" title="低ビュー"> 低ビュー </a>
+                        <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" title="少ない閲覧数">少ない閲覧数</a>
                     </p>
-                    <p class="is-size-6">ロービューの機会と、それを使用して web サイトでのフォームエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">少ない閲覧数の機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -65,9 +65,9 @@ AEM Sites Optimizerでのフォームの最適化は、ユーザーインタラ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" title="低コンバージョン"> 低コンバージョン </a>
+                        <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" title="低コンバージョン">低コンバージョン</a>
                     </p>
-                    <p class="is-size-6">コンバージョンが低い機会と、それを使用して web サイトでのフォームエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">低コンバージョンの機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>

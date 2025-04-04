@@ -1,19 +1,19 @@
 ---
-title: Sites Optimizerでセキュリティの態勢を最適化
-description: Sites Optimizerを使用してサイトのセキュリティを向上させる方法を説明します。
+title: Sites Optimizer を使用したセキュリティ態勢の最適化
+description: Sites Optimizer を使用してサイトのセキュリティ態勢を向上させる方法について説明します。
 source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
-# セキュリティ対策の機会
+# セキュリティ態勢の機会
 
-![ セキュリティ態勢の好機 ](./assets/security-posture/hero.png){align="center"}
+![セキュリティ態勢の機会](./assets/security-posture/hero.png){align="center"}
 
-AEM Sites Optimizerで強力なセキュリティ体制を維持することは、デジタルエクスペリエンスとユーザーデータを保護するために重要です。 チームは、CORS 構成、クロスサイトスクリプティング、Web サイトの権限、Web サイトの脆弱性など、改善の機会を特定することにより、潜在的なセキュリティリスクにプロアクティブに対処し、ベストプラクティスに従ってコンプライアンスを確保することができます。 セキュリティ対策の強化は、機密情報を保護するだけでなく、ユーザーの信頼とサイトの信頼性を高めます。 AEM Sites Optimizerのインサイトを活用すると、組織はセキュリティスタンスを継続的に監視および改善し、リスクを軽減し、安全なデジタル環境を維持するのに役立ちます。
+AEM Sites Optimizer で強力なセキュリティ態勢を維持することは、デジタルエクスペリエンスとユーザーデータを保護する上で重要です。CORS 設定、クロスサイトスクリプティング、web サイト権限、web サイトの脆弱性などの改善の機会を特定することで、チームは潜在的なセキュリティリスクに積極的に対処し、ベストプラクティスへの準拠を確保できます。セキュリティ対策を強化すると、機密情報が保護されるだけでなく、ユーザーの信頼とサイトの信頼性も向上します。AEM Sites Optimizer のインサイトを活用することで、組織はセキュリティ態勢を継続的に監視および改善し、リスクを軽減して安全なデジタル環境を維持できます。
 
 ## 機会
 
@@ -51,7 +51,7 @@ AEM Sites Optimizerで強力なセキュリティ体制を維持することは�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/cors-configuration.md" target="_blank" rel="referrer" title="CORS 設定">CORS 設定</a>
                     </p>
-                    <p class="is-size-6">CORS 設定の機会について、およびサイトのセキュリティの脆弱性を特定して修正する方法について説明します。</p>
+                    <p class="is-size-6">CORS 設定の機会と、サイトのセキュリティの脆弱性を特定して修正する方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/cors-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -72,9 +72,9 @@ AEM Sites Optimizerで強力なセキュリティ体制を維持することは�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/cross-site-scripting.md" target="_blank" rel="referrer" title="クロスサイトスクリプティング"> クロスサイトスクリプティング </a>
+                        <a href="../documentation/opportunities/cross-site-scripting.md" target="_blank" rel="referrer" title="クロスサイトスクリプティング">クロスサイトスクリプティング</a>
                     </p>
-                    <p class="is-size-6">クロスサイトスクリプティングの機会について説明し、サイトセキュリティの脆弱性を特定して修正します。</p>
+                    <p class="is-size-6">クロスサイトスクリプティングの機会と、サイトのセキュリティの脆弱性を特定して修正する方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/cross-site-scripting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -95,9 +95,9 @@ AEM Sites Optimizerで強力なセキュリティ体制を維持することは�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/website-permissions.md" target="_blank" rel="referrer" title="Web サイト権限">Web サイトの権限 </a>
+                        <a href="../documentation/opportunities/website-permissions.md" target="_blank" rel="referrer" title="Web サイト権限">Web サイト権限</a>
                     </p>
-                    <p class="is-size-6">Web サイトの権限の機会と、それを使用して Web サイト上ののセキュリティを強化する方法について説明します。</p>
+                    <p class="is-size-6">Web サイト権限の機会と、これを使用して web サイトのセキュリティを強化する方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/website-permissions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -118,9 +118,9 @@ AEM Sites Optimizerで強力なセキュリティ体制を維持することは�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities//website-vulnerabilities.md" target="_blank" rel="referrer" title="Web サイトの脆弱性">Web サイトの脆弱性 </a>
+                        <a href="../documentation/opportunities//website-vulnerabilities.md" target="_blank" rel="referrer" title="Web サイトの脆弱性">Web サイトの脆弱性</a>
                     </p>
-                    <p class="is-size-6">Web サイトの脆弱性の機会と、それを使用して Web サイト上ののセキュリティを強化する方法について説明します。</p>
+                    <p class="is-size-6">Web サイトの脆弱性の機会と、これを使用して web サイトのセキュリティを強化する方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities//website-vulnerabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>

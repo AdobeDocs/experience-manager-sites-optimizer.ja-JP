@@ -1,19 +1,19 @@
 ---
-title: Sites Optimizerとのエンゲージメントの最適化
-description: Sites Optimizerとのエンゲージメントを向上させる方法について説明します。
+title: Sites Optimizer を使用したエンゲージメントの最適化
+description: Sites Optimizer を使用してエンゲージメントを向上させる方法について説明します。
 source-git-commit: 62909a9c65a62beb202896d98bb9ab058bcd984a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# エンゲージメントチャンス
+# エンゲージメントの機会
 
-![ エンゲージメントの機会 ](./assets/engagement/hero.png){align="center"}
+![エンゲージメントの機会](./assets/engagement/hero.png){align="center"}
 
-AEM Sites Optimizerでのエンゲージメントの機会は、ユーザーが web ページとやり取りする方法に関する実用的なインサイトを提供することで、デジタルエクスペリエンスを強化するために重要です。 アクセシビリティの問題、内部リンクの切断、高いバウンス率、代替テキストの欠落など、改善が必要な領域を特定することで、マーケターとコンテンツ作成者は、サイトを最適化してパフォーマンスとユーザーエンゲージメントを向上させることができます。 これらの機会により、コンテンツが効果的で、検索可能で、説得力のあるものになり、最終的にコンバージョンが高まり、よりシームレスなカスタマージャーニーが促進されます。 AEM Sites Optimizerのレコメンデーションを活用すると、チームはデジタル戦略を継続的に調整し、インパクトの高いエクスペリエンスを大規模に提供できます。
+AEM Sites Optimizer のエンゲージメントの機会は、ユーザーがどのように web ページを操作しているかについて施策につながるインサイトを提供し、デジタルエクスペリエンスを強化するために不可欠です。アクセシビリティの問題、破損した内部リンク、高バウンス率、欠落している代替テキストなど、改善すべき領域を特定することで、マーケターやコンテンツ作成者はサイトを最適化し、パフォーマンスとユーザーエンゲージメントを向上させることができます。これらの機会は、コンテンツが効果的で、見つけやすく、魅力的であることを確保し、最終的にはより高いコンバージョン率とよりシームレスなカスタマージャーニーを推進するのに役立ちます。 AEM Sites Optimizer のレコメンデーションを活用することで、チームはデジタル戦略を継続的に調整し、影響力の大きいエクスペリエンスを大規模に提供できます。
 
 
 ## 機会
@@ -50,9 +50,9 @@ AEM Sites Optimizerでのエンゲージメントの機会は、ユーザーが 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="アクセシビリティの問題"> アクセシビリティの問題 </a>
+                        <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="アクセシビリティの問題">アクセシビリティの問題</a>
                     </p>
-                    <p class="is-size-6">アクセシビリティの問題のオポチュニティと、それを使用して web サイト上ののセキュリティを強化する方法について説明します。</p>
+                    <p class="is-size-6">アクセシビリティの問題の機会と、これを使用して web サイトのセキュリティを強化する方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -64,8 +64,8 @@ AEM Sites Optimizerでのエンゲージメントの機会は、ユーザーが 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities//broken-internal-links.md" title="壊れた内部リンク" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-link.png" alt="壊れた内部リンク"
+                    <a href="../documentation/opportunities//broken-internal-links.md" title="破損した内部リンク" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-link.png" alt="破損した内部リンク"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -73,9 +73,9 @@ AEM Sites Optimizerでのエンゲージメントの機会は、ユーザーが 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" title="壊れた内部リンク"> 壊れた内部リンク </a>
+                        <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" title="破損した内部リンク">破損した内部リンク</a>
                     </p>
-                    <p class="is-size-6">リンク切れの機会と、それを使用して web サイトでのエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">破損したリンクの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -87,8 +87,8 @@ AEM Sites Optimizerでのエンゲージメントの機会は、ユーザーが 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities//high-bounce-rate.md" title="バウンス率が高い" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="バウンス率が高い"
+                    <a href="../documentation/opportunities//high-bounce-rate.md" title="高バウンス率" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="高バウンス率"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,9 +96,9 @@ AEM Sites Optimizerでのエンゲージメントの機会は、ユーザーが 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" title="バウンス率が高い"> 高バウンス率 </a>
+                        <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" title="高バウンス率">高バウンス率</a>
                     </p>
-                    <p class="is-size-6">ロービューの機会と、それを使用して web サイトでのフォームエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">少ない閲覧数の機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -110,8 +110,8 @@ AEM Sites Optimizerでのエンゲージメントの機会は、ユーザーが 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/missing-alt-text.md" title="代替テキストがありません" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="代替テキストがありません"
+                    <a href="../documentation/opportunities/missing-alt-text.md" title="欠落している代替テキスト" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="欠落している代替テキスト"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -119,9 +119,9 @@ AEM Sites Optimizerでのエンゲージメントの機会は、ユーザーが 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" title="代替テキストがありません"> 代替テキストがありません </a>
+                        <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" title="欠落している代替テキスト">欠落している代替テキスト</a>
                     </p>
-                    <p class="is-size-6">欠けている代替テキストの機会と、それを使用して web サイトでのエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">欠落している代替テキストの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
