@@ -1,21 +1,21 @@
 ---
-title: Sites Optimizer商談タイプ
-description: Sites Optimizerの主なオポチュニティタイプと、サイトのパフォーマンス向上にどう役立つかを説明します。
+title: Sites Optimizer 機会タイプ
+description: Sites Optimizer の主な機会タイプと、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。
 source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 13%
+ht-degree: 71%
 
 ---
 
 
-# 商談タイプ
+# 機会タイプ
 
-![ 商談タイプ ](./assets/overview/hero.png){align="center"}
+![商談タイプ](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizerは、web サイトのパフォーマンス、操作性、セキュリティを向上させるのに役立つ、貴重なインサイトと推奨事項を提供します。 これらのインサイトは、エンゲージメント、トラフィック獲得、セキュリティ態勢、サイトの正常性などの主要な商談領域にグループ化されます。 各カテゴリでは、訪問者とのやり取りを強化したり、検出性を向上させたり、セキュリティを強化したり、サイトの安定性を維持したりして、サイトを強化する特定の方法に焦点を当てます。
+AEM Sites Optimizer では、web サイトのパフォーマンス、使いやすさ、セキュリティを向上させるのに役立つ貴重なインサイトとレコメンデーションを提供します。これらのインサイトは、エンゲージメント、トラフィック獲得、セキュリティ態勢、サイトの正常性などの主要な商談領域にグループ化されます。 各カテゴリでは、訪問者とのやり取りを強化したり、検出性を向上させたり、セキュリティを強化したり、サイトの安定性を維持したりして、サイトを強化する特定の方法に焦点を当てます。
 
-これらの機会を活用することで、ユーザーエクスペリエンスが向上し、適切なオーディエンスを引き付け、サイトの安全性と信頼性を維持できます。 エンゲージメントとトラフィック獲得を強化することでインタラクションと可視性を高め、強力なセキュリティ態勢とサイトヘルスによって信頼と安定性を確保します。  以下のリンクを参照して、カテゴリ別に整理された商談を確認し、サイトを改善する方法を見つけます。
+これらの商談を活用することで、ユーザーエクスペリエンスが向上し、適切なユーザーを引き付け、サイトの安全性と信頼性が維持されます。エンゲージメントとトラフィック獲得を強化することでインタラクションと可視性を高め、強力なセキュリティ態勢とサイトヘルスによって信頼と安定性を確保します。  以下のリンクを探索して、カテゴリ別に整理された商談を確認し、サイトを改善する方法を見つけてください。
 
 ## 商談タイプ
 
@@ -46,9 +46,9 @@ AEM Sites Optimizerは、web サイトのパフォーマンス、操作性、セ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./engagement.md" target="_blank" rel="referrer" title="エンゲージメント"> 婚約 </a>
+                        <a href="./engagement.md" target="_blank" rel="referrer" title="エンゲージメント">エンゲージメント</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizerとのエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">Sites Optimizer を使用してエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./engagement.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -69,9 +69,9 @@ AEM Sites Optimizerは、web サイトのパフォーマンス、操作性、セ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./security-posture.md" target="_blank" rel="referrer" title="セキュリティ態勢"> セキュリティ体制 </a>
+                        <a href="./security-posture.md" target="_blank" rel="referrer" title="セキュリティ態勢">セキュリティ態勢</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizerを使用してサイトのセキュリティを向上させる方法を説明します。</p>
+                    <p class="is-size-6">Sites Optimizer を使用してサイトのセキュリティ態勢を向上させる方法について説明します。</p>
                 </div>
                 <a href="./security-posture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -92,9 +92,9 @@ AEM Sites Optimizerは、web サイトのパフォーマンス、操作性、セ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./site-health.md" target="_blank" rel="referrer" title="サイトの健全性"> サイトの正常性 </a>
+                        <a href="./site-health.md" target="_blank" rel="referrer" title="サイトの健全性">サイトの健全性</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizerを使用してサイトのヘルスを向上させる方法を説明します。</p>
+                    <p class="is-size-6">Sites Optimizer を使用してサイトの健全性を向上させる方法について説明します。</p>
                 </div>
                 <a href="./site-health.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -115,9 +115,9 @@ AEM Sites Optimizerは、web サイトのパフォーマンス、操作性、セ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="トラフィックの獲得"> トラフィック獲得 </a>
+                        <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="トラフィックの獲得">トラフィックの獲得</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizerを使用してトラフィック獲得を増やす方法を説明します。</p>
+                    <p class="is-size-6">Sites Optimizer を使用してトラフィック獲得を増やす方法について説明します。</p>
                 </div>
                 <a href="./traffic-acquisition.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>

@@ -1,50 +1,50 @@
 ---
-title: アクセシビリティの問題に関する商談ドキュメント
-description: アクセシビリティの問題のオポチュニティと、それを使用して web サイト上ののセキュリティを強化する方法について説明します。
+title: アクセシビリティの問題の機会ドキュメント
+description: アクセシビリティの問題の機会と、これを使用して web サイトのセキュリティを強化する方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
 source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 2%
+ht-degree: 96%
 
 ---
 
 
 # アクセシビリティの問題の機会
 
-![ アクセシビリティの問題の機会 ](./assets/accessibility-issues/hero.png){align="center"}
+![アクセシビリティの問題の機会](./assets/accessibility-issues/hero.png){align="center"}
 
-アクセシビリティの問題のオポチュニティは、web サイトが障害のあるユーザーのニーズにどの程度適合しているかを特定し、ユーザーが [web コンテンツアクセシビリティガイドライン（WCAG） ](https://www.w3.org/TR/WCAG21/) に従っているかどうかを特定します。 サイトが WCAG にどの程度準拠しているかを評価することで、包括的なオンラインエクスペリエンスを作成し、視覚、聴覚、認知、運動に障害があるユーザーがコンテンツを移動し、操作し、恩恵を受けられるようにします。 これは倫理上の理由から不可欠であるだけでなく、法的要件の遵守を促進し、SEO を向上させ、オーディエンスのリーチを増やし、ユーザーエクスペリエンスとビジネスパフォーマンスの両方を向上させることができます。
+アクセシビリティの問題の機会では、web サイトが障害のある人物のニーズにどの程度適合しているか、また [Web コンテンツアクセシビリティガイドライン（WCAG）](https://www.w3.org/TR/WCAG21/)に準拠しているかどうかを識別します。サイトが WCAG にどの程度準拠しているかを評価することで、視覚、聴覚、認知、運動機能に障害のある個人がコンテンツをナビゲート、操作し、そのメリットを受けることができる包括的なオンラインエクスペリエンスを実現するのに役立ちます。このことは、倫理的な理由から不可欠であるだけでなく、法的要件への準拠を促進し、SEO を改善し、オーディエンスのリーチを拡大して、ユーザーエクスペリエンスと業績の両方を向上できます。
 
-## 自動識別
+## 自動特定
 
-![ アクセシビリティの問題の自動識別 ](./assets/accessibility-issues/auto-identify.png){align="center"}
+![アクセシビリティの問題の自動特定](./assets/accessibility-issues/auto-identify.png){align="center"}
 
-**アクセシビリティの問題の機会** は、Web サイト上のアクセシビリティの問題を識別するもので、次のものが含まれます。
+**アクセシビリティの問題の機会**&#x200B;では、web サイトのアクセシビリティの問題が特定されます。次の内容が含まれます。
 
 * **問題** – 特定のアクセシビリティに関する問題が見つかりました。
-* **ガイドライン** - [WCAG Guidelines ID](https://www.w3.org/TR/WCAG21/) 問題が違反しています。
-* **ユーザーの影響** – 障害のあるユーザーに対する影響の評価。
-* **失敗した要素** - Web ページ上のHTML要素が問題の影響を受けます。
-* **ページ上の場所** - イシューの影響を受けるページ上の要素のHTML スニペット。
+* **ガイドライン** - 問題が違反している [WCAG ガイドライン ID](https://www.w3.org/TR/WCAG21/)。
+* **ユーザーへの影響** - 障害のあるユーザーへの影響の評価。
+* **失敗した要素** - 問題の影響を受ける web ページ上の HTML 要素。
+* **ページ上の位置** - 問題の影響を受けるページ上の要素の HTML スニペット。
 
-## 自動候補
+## 自動提案
 
-![ アクセシビリティの問題を自動提案 ](./assets/accessibility-issues/auto-suggest.png){align="center"}
+![アクセシビリティの問題の自動提案](./assets/accessibility-issues/auto-suggest.png){align="center"}
 
-自動提案では、AI によって生成されたレコメンデーションが「**問題の修正方法**」フィールドに表示され、問題の修正方法に関する規範的なガイダンスが提供されます。
+自動提案では、「**問題の解決方法**」フィールドに AI 生成レコメンデーションが提供され、問題を解決するための実行内容に関する規範的なガイダンスが提供されます。
 
 ## 自動最適化
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![ アクセシビリティの問題の自動最適化 ](./assets/accessibility-issues/auto-optimize.png){align="center"}
+![アクセシビリティの問題の自動最適化](./assets/accessibility-issues/auto-optimize.png){align="center"}
 
-Sites Optimizer Ultimateには、検出された脆弱性を自動最適化デプロイする機能が追加されています。
+Sites Optimizer Ultimate には、見つかった脆弱性に対して自動最適化をデプロイする機能が追加されています。
 
 >[!BEGINTABS]
 
->[!TAB  最適化のデプロイ ]
+>[!TAB 最適化のデプロイ]
 
 {{auto-optimize-deploy-optimization-slack}}
 

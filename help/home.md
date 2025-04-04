@@ -4,7 +4,7 @@ description: Sites Optimizerを使用して web サイトのパフォーマン�
 source-git-commit: 80d1bb016dedcff9b3b6293008b43070ff24867c
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 5%
+ht-degree: 87%
 
 ---
 
@@ -13,9 +13,9 @@ ht-degree: 5%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
-Adobe Experience Manager（AEM）Sites Optimizerは、AEMで構築された web サイトを分析してパフォーマンスを向上させるクラウドベースのサービスです。 ページの読み込み、コンポーネントの使用状況およびコンテンツ配信が改善される領域を特定し、web サイトのパフォーマンスの向上とメンテナンスおよび更新のコスト削減を支援します。 Sites Optimizerを使用すると、エンゲージメントとコンバージョンを維持する上で重要な、スムーズで信頼性の高いオンラインエクスペリエンスを確保できます。
+Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された web サイトのパフォーマンスを分析して向上させるクラウドベースのサービスです。ページの読み込み、コンポーネントの使用状況、コンテンツ配信を改善できる領域を特定し、web サイトのパフォーマンスを向上させ、メンテナンスおよび更新コストを削減するのに役立ちます。Sites Optimizer を使用すると、エンゲージメントとコンバージョン率の維持に重要な、スムーズで信頼性の高いオンラインエクスペリエンスを確保できます。
 
-## Sites Optimizerの概要
+## Sites Optimizer の基本を学ぶ
 
 <!-- CARDS 
 
@@ -33,8 +33,8 @@ Adobe Experience Manager（AEM）Sites Optimizerは、AEMで構築された web 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./opportunity-types/overview.md" title="商談タイプ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="opportunity-types/assets/overview/hero.png" alt="商談タイプ"
+                    <a href="./opportunity-types/overview.md" title="機会タイプ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="opportunity-types/assets/overview/hero.png" alt="機会タイプ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -42,9 +42,9 @@ Adobe Experience Manager（AEM）Sites Optimizerは、AEMで構築された web 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" title="商談タイプ"> 商談タイプ </a>
+                        <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" title="機会タイプ">機会タイプ</a>
                     </p>
-                    <p class="is-size-6">利用可能な Site Optimizer の機会と、それらを使用してサイトのパフォーマンスを向上させる方法について説明します。</p>
+                    <p class="is-size-6">使用可能な Site Optimizer の商談と、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -56,8 +56,8 @@ Adobe Experience Manager（AEM）Sites Optimizerは、AEMで構築された web 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./documentation/overview.md" title="ドキュメント化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="documentation/assets/overview/hero.png" alt="ドキュメント化"
+                    <a href="./documentation/overview.md" title="ドキュメント" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="documentation/assets/overview/hero.png" alt="ドキュメント"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -65,9 +65,9 @@ Adobe Experience Manager（AEM）Sites Optimizerは、AEMで構築された web 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./documentation/overview.md" target="_blank" rel="referrer" title="ドキュメント化">ドキュメント</a>
+                        <a href="./documentation/overview.md" target="_blank" rel="referrer" title="ドキュメント">ドキュメント</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizerのすべての機能については、ドキュメントを参照してください。</p>
+                    <p class="is-size-6">Sites Optimizer のドキュメントでは、そのすべての機能について説明します。</p>
                 </div>
                 <a href="./documentation/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>

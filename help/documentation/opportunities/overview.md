@@ -1,74 +1,74 @@
 ---
-title: Sites Optimizer商談ドキュメント
-description: 利用可能なすべての Site Optimizer の機会と、それらを使用してサイトのパフォーマンスを向上させる方法について説明します。
+title: Sites Optimizer 機会ドキュメント
+description: 使用可能なすべての Site Optimizer の機会と、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。
 source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
 source-wordcount: '758'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 
-# 商談ドキュメント
+# 機会ドキュメント
 
-![Sites Optimizerのオポチュニティ ](./assets/overview/hero.png){align="center"}
+![Sites Optimizer 機会](./assets/overview/hero.png){align="center"}
 
 
-Sites Optimizerは、Adobe AI を活用した、Web サイトの改善点を特定および提案するように設計された、増え続けるオポチュニティのセットとして構成されます。 オポチュニティごとに、潜在的なビジネス価値に関するインサイトが得られ、注意が必要な領域がハイライト表示され、最適化のための実用的な推奨事項が提示されます。 各オポチュニティをクリックして、特定された問題、提案された改善点、および web サイトのパフォーマンスとユーザーエクスペリエンスを向上させるためにこれらの変更を実装する方法を示すステップバイステップのガイダンスを確認します。
+Sites Optimizer は、Adobe AI を活用した増え続ける一連の機会で構成されており、web サイトの改善点を特定して提案するように設計されています。それぞれの機会では、潜在的なビジネス価値に関するインサイトが得られ、注意が必要な領域がハイライト表示され、最適化のための実用的な推奨事項を提供されます。各機会をクリックすると、特定された問題、提案された改善点、およびこれらの変更を実装して web サイトのパフォーマンスとユーザーエクスペリエンスを向上させる方法に関するステップバイステップのガイダンスを確認できます。
 
-商談は、**Site Optimizer の永続的なナビゲーション [ の** 商談 ](/help/documentation/basics.md#navigation) メニューオプションから利用できます。
+機会は、[Site Optimizer の永続的なナビゲーション](/help/documentation/basics.md#navigation)の&#x200B;**機会**&#x200B;メニューオプションから使用できます。
 
-## 商談ステータス
+## 機会ステータス
 
-上部のタブを使用して、商談をステータス別に整理およびフィルタリングできます。
+上部のタブを使用して、機会をステータス別に整理およびフィルタリングできます。
 
 >[!BEGINTABS]
 
->[!TAB  現在 ]
+>[!TAB 現在]
 
-![ 現在のオポチュニティ ](./assets/overview/current.png){align="center"}
+![現在の機会](./assets/overview/current.png){align="center"}
 
-現在保留中の商談です。
+現在保留中の機会。
 
->[!TAB  無視 ]
+>[!TAB 無視]
 
-![ 無視された商談 ](./assets/overview/ignored.png){align="center"}
+![無視された機会](./assets/overview/ignored.png){align="center"}
 
-無視された商談。 無視された商談は、このビューから復元できます。
+無視された機会。無視された機会は、このビューから復元できます。
 
->[!TAB  最適化 ]
+>[!TAB 最適化済み]
 
-最適化されたオポチュニティの過去のリスト。
+最適化された機会の過去のリスト。
 
 >[!ENDTABS]
 
 ## 機会
 
-[ 商談ステータス ](#opportunity-status) を選択すると、商談のリストを表示できます。 商談のリストは、次の方法でさらにフィルタリングできます。
+[機会ステータス](#opportunity-status)を選択すると、機会のリストを表示できます。 機会のリストは、次の方法でさらにフィルタリングできます。
 
-* **検索** - **キーワード、タグ、URL** で商談を検索します。
-* **商談タイプ** - **タイプ** ドロップダウンを使用して、[ 商談タイプ ](/help/opportunity-types/overview.md) で商談をフィルタリングできます。
+* **検索** - **キーワード、タグ、URL** で機会を検索します。
+* **機会タイプ** - **タイプ**&#x200B;ドロップダウンを使用して、[機会タイプ](/help/opportunity-types/overview.md)別に機会をフィルタリングできます。
 
-### オポチュニティの詳細
+### 機会の詳細
 
-![ オポチュニティの詳細 ](/help/documentation/opportunities/assets/overview/opportunity-details.png){align="center"}
+![機会の詳細](/help/documentation/opportunities/assets/overview/opportunity-details.png){align="center"}
 
-オポチュニティごとに、問題の簡単な説明、サイトに与える可能性のある影響、詳細へのリンクが提供されます。 ステータスも確認でき、最適化されているかどうかや、まだ保留中かどうかを示します。
+各機会には、問題の簡単な説明、サイトへの潜在的な影響、詳細へのリンクが提供されます。また、最適化されたか、まだ保留中かを示すステータスも確認できます。
 
-* **オポチュニティのタイトル** – 問題の概要と、サイトのパフォーマンスに対する潜在的な影響。
-* **最終更新日** – 商談が最後にSites Optimizerによって新しいデータで更新された日付。
-* **問題数** - サイトで識別された問題のインスタンスの数。
-* **商談タイプ** – この商談は、[ 商談のタイプ ](/help/opportunity-types/overview.md) の一部です（トラフィック獲得、エンゲージメント、サイトの正常性など）。
+* **機会タイトル** - 問題の概要と、サイトのパフォーマンスに対する潜在的な影響。
+* **最終更新日** - Sites Optimizer によって新しいデータで機会が最後に更新された日付。
+* **問題数** - サイト上で特定された問題のインスタンスの数。
+* **機会タイプ** - トラフィック獲得、エンゲージメント、サイトの健全性など、この機会が含まれる[機会のタイプ](/help/opportunity-types/overview.md)。
 
-各オポチュニティの概要情報はタイプによって異なり、収益への影響、トラフィック、ユーザーエンゲージメント、セキュリティの脅威に関する詳細が含まれる場合があります。
+各機会の概要情報はタイプによって異なり、収益への影響、トラフィック、ユーザーエンゲージメント、セキュリティの脅威に関する詳細が含まれる場合があります。
 
-商談の詳細を表示するには、「**詳細**」ボタンをクリックします。
+機会の詳細を表示するには、「**詳細**」ボタンをクリックします。
 
-Sites Optimizerのダッシュボードからオポチュニティを除外するには、「**無視**」ボタンをクリックします。  このアクションにより、オポチュニティが [**無視** タブ ](#opportunity-status) に移動します。
+Sites Optimizer ダッシュボードから機会を除外するには、「**無視**」ボタンをクリックします。このアクションにより、機会は「[**無視**」タブ](#opportunity-status)に移動します。
 
-## すべての商談
+## すべての機会
 
-Sites Optimizerで利用可能なすべてのオポチュニティを紹介します。
+Sites Optimizer で使用可能なすべての機会を探索します。
 
 <!-- CARDS
 
@@ -128,9 +128,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./accessibility-issues.md" target="_blank" rel="referrer" title="アクセシビリティの問題"> アクセシビリティの問題 </a>
+                        <a href="./accessibility-issues.md" target="_blank" rel="referrer" title="アクセシビリティの問題">アクセシビリティの問題</a>
                     </p>
-                    <p class="is-size-6">アクセシビリティの問題のオポチュニティと、それを使用して web サイト上ののセキュリティを強化する方法について説明します。</p>
+                    <p class="is-size-6">アクセシビリティの問題の機会と、これを使用して web サイトのセキュリティを強化する方法について説明します。</p>
                 </div>
                 <a href="./accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -151,9 +151,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./broken-backlinks.md" target="_blank" rel="referrer" title="破損したバックリンク"> 壊れたバックリンク </a>
+                        <a href="./broken-backlinks.md" target="_blank" rel="referrer" title="破損したバックリンク">破損したバックリンク</a>
                     </p>
-                    <p class="is-size-6">壊れたバックリンクの機会と、それを使用してトラフィック獲得を改善する方法について説明します。</p>
+                    <p class="is-size-6">破損したバックリンクの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -165,8 +165,8 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./broken-internal-links.md" title="壊れた内部リンク" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-link.png" alt="壊れた内部リンク"
+                    <a href="./broken-internal-links.md" title="破損した内部リンク" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-link.png" alt="破損した内部リンク"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -174,9 +174,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./broken-internal-links.md" target="_blank" rel="referrer" title="壊れた内部リンク"> 壊れた内部リンク </a>
+                        <a href="./broken-internal-links.md" target="_blank" rel="referrer" title="破損した内部リンク">破損した内部リンク</a>
                     </p>
-                    <p class="is-size-6">リンク切れの機会と、それを使用して web サイトでのエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">破損したリンクの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -199,7 +199,7 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./cors-configuration.md" target="_blank" rel="referrer" title="CORS 設定">CORS 設定</a>
                     </p>
-                    <p class="is-size-6">CORS 設定の機会について、およびサイトのセキュリティの脆弱性を特定して修正する方法について説明します。</p>
+                    <p class="is-size-6">CORS 設定の機会と、サイトのセキュリティの脆弱性を特定して修正する方法について説明します。</p>
                 </div>
                 <a href="./cors-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -211,8 +211,8 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./core-web-vitals.md" title="Core web vitals" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-performance.png" alt="Core web vitals"
+                    <a href="./core-web-vitals.md" title="コア web バイタル" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-performance.png" alt="コア web バイタル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -220,9 +220,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="Core web vitals">Core web vitals</a>
+                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="コア web バイタル">コア web バイタル</a>
                     </p>
-                    <p class="is-size-6">Web の重要なオポチュニティと、それを使用してトラフィック獲得を改善する方法について説明します。</p>
+                    <p class="is-size-6">コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -243,9 +243,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./cross-site-scripting.md" target="_blank" rel="referrer" title="クロスサイトスクリプティング"> クロスサイトスクリプティング </a>
+                        <a href="./cross-site-scripting.md" target="_blank" rel="referrer" title="クロスサイトスクリプティング">クロスサイトスクリプティング</a>
                     </p>
-                    <p class="is-size-6">クロスサイトスクリプティングの機会について説明し、サイトセキュリティの脆弱性を特定して修正します。</p>
+                    <p class="is-size-6">クロスサイトスクリプティングの機会と、サイトのセキュリティの脆弱性を特定して修正する方法について説明します。</p>
                 </div>
                 <a href="./cross-site-scripting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -257,8 +257,8 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./high-bounce-rate.md" title="バウンス率が高い" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="バウンス率が高い"
+                    <a href="./high-bounce-rate.md" title="高バウンス率" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="高バウンス率"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -266,9 +266,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./high-bounce-rate.md" target="_blank" rel="referrer" title="バウンス率が高い"> 高バウンス率 </a>
+                        <a href="./high-bounce-rate.md" target="_blank" rel="referrer" title="高バウンス率">高バウンス率</a>
                     </p>
-                    <p class="is-size-6">ロービューの機会と、それを使用して web サイトでのフォームエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">少ない閲覧数の機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -280,8 +280,8 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./invalid-or-missing-metadata.md" title="メタデータが無効または欠落しています" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-code.png" alt="メタデータが無効または欠落しています"
+                    <a href="./invalid-or-missing-metadata.md" title="無効または欠落しているメタデータ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-code.png" alt="無効または欠落しているメタデータ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -289,9 +289,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="メタデータが無効または欠落しています"> メタデータが無効または見つかりません </a>
+                        <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="無効または欠落しているメタデータ">無効または欠落しているメタデータ</a>
                     </p>
-                    <p class="is-size-6">無効な、または見つからないメタデータのオポチュニティと、そのオポチュニティを使用してトラフィック獲得を改善する方法について説明します。</p>
+                    <p class="is-size-6">無効または欠落しているメタデータの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -303,8 +303,8 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./missing-alt-text.md" title="代替テキストがありません" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="代替テキストがありません"
+                    <a href="./missing-alt-text.md" title="欠落している代替テキスト" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="欠落している代替テキスト"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -312,9 +312,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./missing-alt-text.md" target="_blank" rel="referrer" title="代替テキストがありません"> 代替テキストがありません </a>
+                        <a href="./missing-alt-text.md" target="_blank" rel="referrer" title="欠落している代替テキスト">欠落している代替テキスト</a>
                     </p>
-                    <p class="is-size-6">欠けている代替テキストの機会と、それを使用して web サイトでのエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">欠落している代替テキストの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -326,8 +326,8 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./missing-invalid-structured-data.md" title="構造化データが欠落している、または無効です" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="構造化データが欠落している、または無効です"
+                    <a href="./missing-invalid-structured-data.md" title="欠落しているまたは無効な構造化データ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="欠落しているまたは無効な構造化データ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -335,9 +335,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" title="構造化データが欠落している、または無効です"> 構造化データがないか無効です </a>
+                        <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" title="欠落しているまたは無効な構造化データ">欠落しているまたは無効な構造化データ</a>
                     </p>
-                    <p class="is-size-6">見つからない構造化データのオポチュニティや無効な構造化データのオポチュニティについて、およびトラフィック獲得を向上させるために使用する方法について説明します。</p>
+                    <p class="is-size-6">欠落しているまたは無効な構造化データの機会と、それを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -358,9 +358,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./sitemap-issues.md" target="_blank" rel="referrer" title="サイトマップの問題"> サイトマップの問題 </a>
+                        <a href="./sitemap-issues.md" target="_blank" rel="referrer" title="サイトマップの問題">サイトマップの問題</a>
                     </p>
-                    <p class="is-size-6">サイトマップの問題の機会と、それを使用してトラフィック獲得を改善する方法について説明します。</p>
+                    <p class="is-size-6">サイトマップの問題の機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./sitemap-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -381,9 +381,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./website-permissions.md" target="_blank" rel="referrer" title="Web サイト権限">Web サイトの権限 </a>
+                        <a href="./website-permissions.md" target="_blank" rel="referrer" title="Web サイト権限">Web サイト権限</a>
                     </p>
-                    <p class="is-size-6">Web サイトの権限の機会と、それを使用して Web サイト上ののセキュリティを強化する方法について説明します。</p>
+                    <p class="is-size-6">Web サイト権限の機会と、これを使用して web サイトのセキュリティを強化する方法について説明します。</p>
                 </div>
                 <a href="./website-permissions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -404,9 +404,9 @@ Sites Optimizerで利用可能なすべてのオポチュニティを紹介し�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" title="Web サイトの脆弱性">Web サイトの脆弱性 </a>
+                        <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" title="Web サイトの脆弱性">Web サイトの脆弱性</a>
                     </p>
-                    <p class="is-size-6">Web サイトの脆弱性の機会と、それを使用して Web サイト上ののセキュリティを強化する方法について説明します。</p>
+                    <p class="is-size-6">Web サイトの脆弱性の機会と、これを使用して web サイトのセキュリティを強化する方法について説明します。</p>
                 </div>
                 <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
