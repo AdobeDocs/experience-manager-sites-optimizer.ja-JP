@@ -3,9 +3,9 @@ title: CORS 設定の機会ドキュメント
 description: CORS 設定の機会と、サイトのセキュリティの脆弱性を特定して修正する方法について説明します。
 badgeSecurityPosture: label="セキュリティ態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="セキュリティ態勢"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 

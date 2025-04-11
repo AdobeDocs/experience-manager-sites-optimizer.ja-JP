@@ -3,9 +3,9 @@ title: 高バウンス率の機会ドキュメント
 description: 少ない閲覧数の機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

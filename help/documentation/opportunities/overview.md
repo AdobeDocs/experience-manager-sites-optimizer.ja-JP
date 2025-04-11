@@ -2,7 +2,7 @@
 title: Sites Optimizer 機会ドキュメント
 description: 使用可能なすべての Site Optimizer の機会と、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。
 source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '758'
 ht-degree: 100%
 

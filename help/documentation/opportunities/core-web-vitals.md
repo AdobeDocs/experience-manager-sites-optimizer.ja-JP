@@ -3,9 +3,9 @@ title: コア web バイタルの機会ドキュメント
 description: コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。
 badgeSiteHealth: label="サイトの健全性" type="Caution" url="../../opportunity-types/site-health.md" tooltip="サイトの健全性"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

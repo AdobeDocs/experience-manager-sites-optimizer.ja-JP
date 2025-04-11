@@ -3,9 +3,9 @@ title: アクセシビリティの問題の機会ドキュメント
 description: アクセシビリティの問題の機会と、これを使用して web サイトのセキュリティを強化する方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
 source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
 
 **アクセシビリティの問題の機会**&#x200B;では、web サイトのアクセシビリティの問題が特定されます。次の内容が含まれます。
 
-* **問題** – 特定のアクセシビリティに関する問題が見つかりました。
+* **問題** - 特定のアクセシビリティの問題が見つかった。
 * **ガイドライン** - 問題が違反している [WCAG ガイドライン ID](https://www.w3.org/TR/WCAG21/)。
 * **ユーザーへの影響** - 障害のあるユーザーへの影響の評価。
 * **失敗した要素** - 問題の影響を受ける web ページ上の HTML 要素。
