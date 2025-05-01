@@ -2,15 +2,15 @@
 title: 破損した内部リンクの機会ドキュメント
 description: 破損したリンクの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '448'
-ht-degree: 100%
+source-git-commit: c2bd3f7dc998b103ecdd02c239b1ea0312db20f1
+workflow-type: tm+mt
+source-wordcount: '447'
+ht-degree: 99%
 
 ---
 
 
-# 無効または欠落しているメタデータの機会
+# 壊れた内部リンクの商談
 
 ![破損した内部リンクの機会](./assets/broken-internal-links/hero.png){align="center"}
 
