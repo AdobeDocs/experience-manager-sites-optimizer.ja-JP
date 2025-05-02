@@ -3,14 +3,14 @@ title: 破損した内部リンクの機会ドキュメント
 description: 破損したリンクの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
 source-git-commit: c2bd3f7dc998b103ecdd02c239b1ea0312db20f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '447'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# 壊れた内部リンクの商談
+# 破損した内部リンクの機会
 
 ![破損した内部リンクの機会](./assets/broken-internal-links/hero.png){align="center"}
 
