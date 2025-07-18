@@ -2,9 +2,9 @@
 title: 低コンバージョンの機会ドキュメント
 description: 低コンバージョンの機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。
 badgeFormOptimization: label="フォームの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="フォームの最適化"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '343'
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '342'
 ht-degree: 100%
 
 ---

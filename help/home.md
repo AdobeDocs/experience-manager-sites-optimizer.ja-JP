@@ -1,19 +1,19 @@
 ---
 title: AEM Sites Optimizer
-description: Sites Optimizer で web サイトのパフォーマンスを向上 - 速度を改善し、コストを削減し、信頼性を高めてエンゲージメントを向上させます。
-source-git-commit: 80d1bb016dedcff9b3b6293008b43070ff24867c
-workflow-type: ht
+description: Sites Optimizerを使用して web サイトのパフォーマンスを高め、速度の向上、コストの削減、信頼性の向上を実現し、エンゲージメントを向上させます。
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 100%
+ht-degree: 69%
 
 ---
 
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455086/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
-Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された web サイトのパフォーマンスを分析して向上させるクラウドベースのサービスです。ページの読み込み、コンポーネントの使用状況、コンテンツ配信を改善できる領域を特定し、web サイトのパフォーマンスを向上させ、メンテナンスおよび更新コストを削減するのに役立ちます。Sites Optimizer を使用すると、エンゲージメントとコンバージョン率の維持に重要な、スムーズで信頼性の高いオンラインエクスペリエンスを確保できます。
+Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された web サイトのパフォーマンスを分析して向上させるクラウドベースのサービスです。ページの読み込み、コンポーネントの使用状況、コンテンツ配信に関して、改善が必要な領域を特定します。 この機能は、Web サイトのパフォーマンスを向上させつつ、メンテナンスや更新のコストを削減するのに役立ちます。 Sites Optimizer を使用すると、エンゲージメントとコンバージョン率の維持に重要な、スムーズで信頼性の高いオンラインエクスペリエンスを確保できます。
 
 ## Sites Optimizer の基本を学ぶ
 
