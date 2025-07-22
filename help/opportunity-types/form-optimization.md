@@ -1,19 +1,25 @@
 ---
-title: Sites Optimizer を使用したフォームの最適化
-description: Sites Optimizer を使用したフォームの最適化について説明します。
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+title: Forms Optimizer とSites Optimizer
+description: Sites OptimizerでのForms Optimizer について説明します。
+hide: true
+hidefromtoc: true
+source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 86%
+source-wordcount: '211'
+ht-degree: 11%
 
 ---
 
 
-# フォームの最適化の機会
+# Formsの最適化の機会
 
-![フォームの最適化の機会](./assets/form-optimization/hero.png){align="center"}
+<span class="preview"> Forms Optimizer 機能は、早期アクセスプログラムで利用できます。 公式メール ID からaem-forms-ea@adobe.comに書き込んで、早期アクセスプログラムに参加し、機能へのアクセスをリクエストできます。</span>
 
-AEM Sites Optimizer でのフォームの最適化は、ユーザーインタラクションの改善とコンバージョン率の最大化に不可欠です。フォームの少ない閲覧数や低コンバージョンなど、改善すべき領域を特定することで、チームはフォームのデザイン、配置、コンテンツを改善し、エンゲージメントを強化できます。最適化されたフォームにより、シームレスなユーザーエクスペリエンスが確保され、訪問者はアクションを完了し、ビジネス成果を推進しやすくなります。AEM Sites Optimizerのインサイトを使用すると、マーケターは改善点を継続的に特定し、最終的に有効性を高め、サイト全体のパフォーマンスを向上させることができます。
+>[!VIDEO](https://video.tv.adobe.com/v/3469472/)
+
+<!-- ![Forms Optimization opportunities](./assets/form-optimization/hero.png){align="center"} -->
+
+Formsを最適化する機会を利用すると、組織はユーザーインタラクションを体系的に改善し、フォームのコンバージョンを増やすことができます。 低いビュー、低いコンバージョン、低いナビゲーション率などの問題を検出することで、チームはフォームのデザイン、配置、コンテンツに対してデータ駆動型の調整を行うことができます。 これらの最適化により、ユーザーエクスペリエンスが合理化され、訪問者がフォームを完成して目的の結果を得やすくなります。 Forms Optimizer のインサイトを活用すると、パフォーマンスギャップの継続的な特定と解決がサポートされ、より効果的なフォームとビジネス成果の向上につながります。
 
 ## 機会
 
@@ -44,7 +50,7 @@ AEM Sites Optimizer でのフォームの最適化は、ユーザーインタラ
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" title="少ない閲覧数">少ない閲覧数</a>
                     </p>
-                    <p class="is-size-6">少ない閲覧数の機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">ロービューの機会と、それを使用して web サイトでの Forms エンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -67,9 +73,32 @@ AEM Sites Optimizer でのフォームの最適化は、ユーザーインタラ
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" title="低コンバージョン">低コンバージョン</a>
                     </p>
-                    <p class="is-size-6">低コンバージョンの機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">コンバージョンが少ない機会と、それを使用して web サイトでの Forms エンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low navigation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../documentation/opportunities/low-navigation.md" title="低ナビゲーション" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="低ナビゲーション"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" title="アクセシビリティの問題"> 低ナビゲーション </a>
+                    </p>
+                    <p class="is-size-6">低ナビゲーションの機会と、それを使用して web サイトでの Forms エンゲージメントを向上させる方法について説明します。</p>
+                </div>
+                <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>

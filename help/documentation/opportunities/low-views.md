@@ -1,32 +1,36 @@
 ---
 title: 少ない閲覧数の機会ドキュメント
-description: 少ない閲覧数の機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。
-badgeFormOptimization: label="フォームの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="フォームの最適化"
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+description: ロービューの機会と、それを使用して web サイトでの Forms エンゲージメントを向上させる方法について説明します。
+badgeFormOptimization: label="Forms Optimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimizer"
+hide: true
+hidefromtoc: true
+source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 100%
+source-wordcount: '323'
+ht-degree: 32%
 
 ---
 
 
-# 少ない閲覧数の機会
+# Formsの低視聴率のオポチュニティ
+
+<span class="preview"> Forms Optimizer 機能は、早期アクセスプログラムで利用できます。 公式メール ID からaem-forms-ea@adobe.comに書き込んで、早期アクセスプログラムに参加し、機能へのアクセスをリクエストできます。</span>
 
 ![少ない閲覧数の機会](./assets/low-views/hero.png){align="center"}
 
-少ない閲覧数の機会では、閲覧数が少ない web サイト上のフォームを特定します。この機会により、パフォーマンスが低いフォームを把握し、エンゲージメント率を向上させる方法に関する提案を得ることができます。フォームの閲覧数を最適化することで、フォームの送信数を増やし、web サイト全体のパフォーマンスを向上させることができます。
+少ない閲覧数の機会では、閲覧数が少ない web サイト上のフォームを特定します。この機会タイプは、パフォーマンスの低いフォームを理解するのに役立ち、エンゲージメント率を向上させる方法に関する提案を提供します。
 
 ## 自動特定
 
 ![少ない閲覧数の自動特定](./assets/low-views/auto-identify.png){align="center"}
 
-少ない閲覧数のフォームを含む各 web ページは、独自の&#x200B;**少ない閲覧数**&#x200B;の機会として一覧表示されます。機会の簡単な概要と AI の論理的根拠が、機会ページの上部に表示されます。
+ビューの少ないフォームを含む各 web ページは、独自の **低ビュー** オポチュニティとしてリストされます。 オポチュニティと理由の簡単な概要が、オポチュニティ・ページの上部に表示されます。
 
 ## 自動提案
 
 ![少ない閲覧数の自動提案](./assets/low-views/auto-suggest.png){align="center"}
 
-自動提案は、フォームの閲覧数を増やすように設計された、AI 生成の web ページのバリエーションを提供します。各バリエーションでは、フォームのエンゲージメントを向上させる可能性に基づいて&#x200B;**プロジェクトのコンバージョン率の増加**&#x200B;が表示されるので、最も効果的な提案を優先するのに役立ちます。
+自動候補表示は、フォームのビューを増やすために設計された、AI によって生成されたフォームのバリエーションを提供します。 各バリエーションには、フォームのエンゲージメントを向上させる可能性に基づいて **予測コンバージョン率の増加** が表示され、最も効果的な提案に優先順位を付けることができます。
 
 >[!BEGINTABS]
 
@@ -34,41 +38,46 @@ ht-degree: 100%
 
 ![コントロールバリエーション](./assets/low-views/control-variation.png){align="center"}
 
-コントロールバリエーションは、現在 web サイトで公開されている元のフォームです。このバリエーションは、提案されたバリエーションのパフォーマンスを比較するベースラインとして使用されます。
+コントロールバリエーションは、現在 Web サイト上に存在する元のフォームです。 このバリエーションは、提案されたバリエーションのパフォーマンスを比較するベースラインとして使用されます。
 
 >[!TAB 提案されたバリエーション]
 
 ![提案されたバリエーション](./assets/low-views/suggested-variations.png){align="center"}
 
-提案されたバリエーションは、フォームのビュー数を増やすように設計された、AI 生成の web ページのバリエーションです。各バリエーションでは、フォームのエンゲージメントを向上させる可能性に基づいて&#x200B;**見込みコンバージョン率の増加**&#x200B;が表示されるので、最も効果的な提案を優先するのに役立ちます。
+推奨されるバリエーションは、フォームのビューを増やすために設計された、AI が生成したフォームバリエーションです。 各バリエーションには、フォームのエンゲージメントを向上させる可能性に基づいて **予測コンバージョン率の増加** が表示され、最も効果的な提案に優先順位を付けることができます。
 
 各バリエーションをクリックすると、画面の右側でプレビューが表示されます。プレビューの上部には、次のアクションと情報が表示されます。
 
 * **変更点** - **コントロール**&#x200B;バリエーションからこのバリエーションに変更された点の簡単な概要。
-* **見込みコンバージョン率増加** - このバリエーションを実装した場合のフォームエンゲージメントの推定増加数。
+* **予測コンバージョン率増加** – このバリエーションが実装されている場合の、フォームエンゲージメントの推定増加。
 * **編集** - クリックして、AEM オーサリングのバリエーションを編集します。
 
 >[!ENDTABS]
 
-## 自動最適化
+<!-- 
+
+## Auto-optimize
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![少ない閲覧数の自動最適化](./assets/low-views/auto-optimize.png){align="center"}
+![Auto-optimize low views](./assets/low-views/auto-optimize.png){align="center"}
 
-Sites Optimizer Ultimate には、少ない閲覧数の機会によって検出された問題に対して自動最適化をデプロイする機能が追加されています。
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the low views opportunity.
 
 >[!BEGINTABS]
 
->[!TAB 複数のテスト]
+>[!TAB Test multiple]
 
 
->[!TAB 選択された公開]
+>[!TAB Publish selected]
 
 {{auto-optimize-deploy-optimization-slack}}
 
->[!TAB 承認のリクエスト]
+>[!TAB Request approval]
 
 {{auto-optimize-request-approval}}
 
 >[!ENDTABS]
+
+-->
+
