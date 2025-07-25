@@ -2,9 +2,9 @@
 title: Sites Optimizer ドキュメント
 description: Experience Manager Sites Optimizer ドキュメント。
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 87%
 
 ![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
-このたびは、Sites Optimizer ドキュメントをご利用いただき、誠にありがとうございます。ここでは、Sites Optimizerを使用してAEM サイトを最適化する方法について説明します。
+このたびは、Sites Optimizer ドキュメントをご利用いただき、誠にありがとうございます。ここでは、Sites Optimizer を使用して AEM Sites を最適化する方法について説明します。
 
 ## Site Optimizer の基本
 

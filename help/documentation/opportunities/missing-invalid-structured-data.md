@@ -3,9 +3,9 @@ title: 欠落しているまたは無効な構造化データに関するドキ�
 description: 欠落しているまたは無効な構造化データの機会と、それを使用してトラフィックの獲得を向上させる方法について説明します。
 badgeTrafficAcquisition: label="トラフィックの獲得" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="トラフィックの獲得"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '360'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 欠落しているまたは無効な構造化データの機会では、ページで検出されたすべての問題が一覧表示され、次のカテゴリが含まれています。
 
-* **問題が発生したページ** – 無効な構造化データまたは欠落した構造化データが含まれているページ。
+* **問題のあるページ** - 無効なまたは欠落している構造化データを含んだページ。
 * **問題および AI が提案した修正** - ページに影響を与える構造化データの問題のタイプを示します。
 * **提案** - 構造化データの適切な更新について AI が生成した提案。詳しくは、以下の節を参照してください。
 

@@ -2,9 +2,9 @@
 title: Sites Optimizer の設定
 description: Sites Optimizer を設定し、他のツールと統合する方法について説明します。
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 87%
 
 ![Sites Optimizer の設定](./assets/settings/hero.png){align="center"}
 
-Site Optimizer の設定は、Sites Optimizer エクスペリエンスを設定するための中心的なハブです。
+Sites Optimizer の設定は、Sites Optimizer エクスペリエンスを設定するための中心的なハブです。
 
 ## Google Search Console
 

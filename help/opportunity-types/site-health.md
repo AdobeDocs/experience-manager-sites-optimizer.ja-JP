@@ -2,9 +2,9 @@
 title: Sites Optimizer を使用したサイトの健全性の最適化
 description: Sites Optimizer を使用してサイトの健全性を向上させる方法について説明します。
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 72%
 
 ![サイトの健全性の機会](./assets/site-health/hero.png){align="center"}
 
-AEM Sites Optimizer でサイトの健全性を維持することは、高速で信頼性が高く、パフォーマンスの高いデジタルエクスペリエンスを提供するために不可欠です。コア web バイタルなどの改善の機会を特定することで、チームはページ速度、インタラクティブ機能、視覚的な安定性を最適化し、ユーザー エクスペリエンスと検索エンジンのランキングを向上させることができます。適切に管理されたサイトでは、よりスムーズなナビゲーション、より優れたエンゲージメント、全体的なパフォーマンスの向上が確保されます。AEM Sites Optimizerのインサイトを使用すると、継続的なモニタリングと絞り込みが可能になり、サイトが時間の経過と共に効率的かつ効果的であることを確認できます。
+AEM Sites Optimizer でサイトの健全性を維持することは、高速で信頼性が高く、パフォーマンスの高いデジタルエクスペリエンスを提供するために不可欠です。コア web バイタルなどの改善の機会を特定することで、チームはページ速度、インタラクティブ機能、視覚的な安定性を最適化し、ユーザー エクスペリエンスと検索エンジンのランキングを向上させることができます。適切に管理されたサイトでは、よりスムーズなナビゲーション、より優れたエンゲージメント、全体的なパフォーマンスの向上が確保されます。AEM Sites Optimizer のインサイトを使用することで、継続的な監視と改善が可能になります。これにより、長期にわたってサイトの効率性と有効性を確保します。
 
 ## 機会
 
@@ -41,7 +41,7 @@ AEM Sites Optimizer でサイトの健全性を維持することは、高速で
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="コア web バイタル">コア web バイタル</a>
                     </p>
-                    <p class="is-size-6">Core Web Vitals のオポチュニティと、それを使用してトラフィック獲得を改善する方法について説明します。</p>
+                    <p class="is-size-6">コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
