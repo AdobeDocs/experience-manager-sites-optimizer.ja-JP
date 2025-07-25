@@ -1,10 +1,10 @@
 ---
 title: ナビゲーションの機会の少ないドキュメント
 description: 低ナビゲーションの機会と、それを使用して web サイトでの Forms エンゲージメントを向上させる方法について説明します。
-badgeFormOptimization: label="Forms Optimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimizer"
+badgeFormOptimization: label="Formsの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formsの最適化"
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 23%
@@ -14,7 +14,7 @@ ht-degree: 23%
 
 # Formsのナビゲーションの機会の低さ
 
-<span class="preview"> Forms Optimizer 機能は、早期アクセスプログラムで利用できます。 公式メール ID からaem-forms-ea@adobe.comに書き込んで、早期アクセスプログラムに参加し、機能へのアクセスをリクエストできます。</span>
+<span class="preview"> Formsの最適化機能は、早期アクセスプログラムで利用できます。 公式メール ID からaem-forms-ea@adobe.comに書き込んで、早期アクセスプログラムに参加し、機能へのアクセスをリクエストできます。</span>
 
 ![ ナビゲーションの機会が少ない ](./assets/low-navigation/hero.png){align="center"}
 

@@ -1,11 +1,11 @@
 ---
-title: Forms Optimizer とSites Optimizer
-description: Sites OptimizerでのForms Optimizer について説明します。
+title: Sites OptimizerによるFormsの最適化
+description: Sites Optimizerを使用したFormsの最適化について説明します。
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 11%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 11%
 
 # Formsの最適化の機会
 
-<span class="preview"> Forms Optimizer 機能は、早期アクセスプログラムで利用できます。 公式メール ID からaem-forms-ea@adobe.comに書き込んで、早期アクセスプログラムに参加し、機能へのアクセスをリクエストできます。</span>
+<span class="preview"> Formsの最適化機能は、早期アクセスプログラムで利用できます。 公式メール ID からaem-forms-ea@adobe.comに書き込んで、早期アクセスプログラムに参加し、機能へのアクセスをリクエストできます。</span>
 
->[!VIDEO](https://video.tv.adobe.com/v/3469472/)
+<!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
-<!-- ![Forms Optimization opportunities](./assets/form-optimization/hero.png){align="center"} -->
+![Forms最適化の機会 ](./assets/form-optimization/hero.png){align="center"}
 
-Formsを最適化する機会を利用すると、組織はユーザーインタラクションを体系的に改善し、フォームのコンバージョンを増やすことができます。 低いビュー、低いコンバージョン、低いナビゲーション率などの問題を検出することで、チームはフォームのデザイン、配置、コンテンツに対してデータ駆動型の調整を行うことができます。 これらの最適化により、ユーザーエクスペリエンスが合理化され、訪問者がフォームを完成して目的の結果を得やすくなります。 Forms Optimizer のインサイトを活用すると、パフォーマンスギャップの継続的な特定と解決がサポートされ、より効果的なフォームとビジネス成果の向上につながります。
+Formsを最適化する機会を利用すると、組織はユーザーインタラクションを体系的に改善し、フォームのコンバージョンを増やすことができます。 低いビュー、低いコンバージョン、低いナビゲーション率などの問題を検出することで、チームはフォームのデザイン、配置、コンテンツに対してデータ駆動型の調整を行うことができます。 これらの最適化により、ユーザーエクスペリエンスが合理化され、訪問者がフォームを完成して目的の結果を得やすくなります。 Forms Optimization のインサイトを活用することで、パフォーマンスギャップの継続的な特定と解決をサポートし、より効果的なフォームとビジネス成果の向上を実現します。
 
 ## 機会
 
@@ -40,7 +40,7 @@ Formsを最適化する機会を利用すると、組織はユーザーインタ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-views.md" title="少ない閲覧数" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="少ない閲覧数"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="少ない閲覧数"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,7 +63,7 @@ Formsを最適化する機会を利用すると、組織はユーザーインタ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-conversions.md" title="低コンバージョン" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="低コンバージョン"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="低コンバージョン"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +86,7 @@ Formsを最適化する機会を利用すると、組織はユーザーインタ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-navigation.md" title="低ナビゲーション" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="低ナビゲーション"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="低ナビゲーション"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

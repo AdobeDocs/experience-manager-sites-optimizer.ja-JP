@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer 機会タイプ
 description: Sites Optimizer の主な機会タイプと、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 48%
@@ -38,7 +38,7 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
 * ./traffic-acquisition.md
    { title = Traffic acquisition }
 * ./form-optimization.md
-   { title = Forms Optimizer }
+   { title = Forms Optimization }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -150,7 +150,7 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Formsの最適化">Formsの最適化 </a>
                     </p>
-                    <p class="is-size-6">Forms Optimizer を使用してフォームのコンバージョンを向上させる方法について説明します。</p>
+                    <p class="is-size-6">Formsの最適化を使用してフォームのコンバージョンを向上させる方法について説明します。</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -173,7 +173,7 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Formsのアクセシビリティ">Formsへのアクセス </a>
                     </p>
-                    <p class="is-size-6">Forms Optimizer でフォームのアクセシビリティを向上させる方法について説明します。</p>
+                    <p class="is-size-6">Forms Optimization を使用してフォームのアクセシビリティを向上させる方法について説明します。</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>

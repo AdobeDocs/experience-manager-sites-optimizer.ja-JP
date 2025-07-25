@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer 機会ドキュメント
 description: 使用可能なすべての Site Optimizer の機会と、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
 workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 78%
@@ -310,7 +310,7 @@ Sites Optimizer で使用可能なすべての機会を探索します。
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-conversions.md" title="Formsの低コンバージョン" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Formsの低コンバージョン"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Formsの低コンバージョン"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -333,7 +333,7 @@ Sites Optimizer で使用可能なすべての機会を探索します。
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-views.md" title="Formsの低ビュー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="少ない閲覧数"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="少ない閲覧数"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -356,7 +356,7 @@ Sites Optimizer で使用可能なすべての機会を探索します。
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-navigation.md" title="Formsの低ナビゲーション" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Formsの低ナビゲーション"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Formsの低ナビゲーション"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -379,7 +379,7 @@ Sites Optimizer で使用可能なすべての機会を探索します。
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./forms-accessibility-issues.md" title="Formsのアクセシビリティの問題" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Formsのアクセシビリティの問題"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Formsのアクセシビリティの問題"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
