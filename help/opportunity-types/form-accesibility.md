@@ -3,15 +3,17 @@ title: Sites OptimizerによるFormsの最適化
 description: Sites Optimizerを使用したFormsの最適化について説明します。
 hide: true
 hidefromtoc: true
-source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
+source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '149'
 ht-degree: 2%
 
 ---
 
 
 # Formsのアクセシビリティに関するオポチュニティ
+
+<span class="preview"> Formsの最適化機能は、早期アクセスプログラムで利用できます。 公式メール ID からaem-forms-ea@adobe.comに書き込んで、早期アクセスプログラムに参加し、機能へのアクセスをリクエストできます。</span>
 
 ![Formsのアクセシビリティに関するオポチュニティ ](./assets/form-accesibility/hero.png){align="center"}
 

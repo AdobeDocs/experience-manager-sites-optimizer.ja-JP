@@ -4,15 +4,17 @@ description: コンバージョンが少ない機会と、それを使用して 
 badgeFormOptimization: label="Formsの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formsの最適化"
 hide: true
 hidefromtoc: true
-source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
+source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 30%
+source-wordcount: '323'
+ht-degree: 27%
 
 ---
 
 
 # Formsの低コンバージョンの機会
+
+<span class="preview"> Formsの最適化機能は、早期アクセスプログラムで利用できます。 公式メール ID からaem-forms-ea@adobe.comに書き込んで、早期アクセスプログラムに参加し、機能へのアクセスをリクエストできます。</span>
 
 ![低コンバージョンの機会](./assets/low-conversions/hero.png){align="center"}
 
