@@ -2,9 +2,9 @@
 title: Sites Optimizer 機会タイプ
 description: Sites Optimizer の主な機会タイプと、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '300'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -139,8 +139,8 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./form-optimization.md" title="Formsの最適化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Formsの最適化"
+                    <a href="./form-optimization.md" title="フォームの最適化" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="フォームの最適化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -148,9 +148,9 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Formsの最適化">Formsの最適化 </a>
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="フォームの最適化">フォームの最適化</a>
                     </p>
-                    <p class="is-size-6">Formsの最適化を使用してフォームのコンバージョンを向上させる方法について説明します。</p>
+                    <p class="is-size-6">フォームの最適化を使用してフォームのコンバージョンを向上させる方法について説明します。</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -162,8 +162,8 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./form-optimization.md" title="Formsのアクセシビリティ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Formsのアクセシビリティ"
+                    <a href="./form-optimization.md" title="フォームのアクセシビリティ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="フォームのアクセシビリティ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -171,9 +171,9 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Formsのアクセシビリティ">Formsへのアクセス </a>
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="フォームのアクセシビリティ">フォームのアクセシビリティ</a>
                     </p>
-                    <p class="is-size-6">Forms Optimization を使用してフォームのアクセシビリティを向上させる方法について説明します。</p>
+                    <p class="is-size-6">フォームの最適化を使用してフォームのアクセシビリティを向上させる方法について説明します。</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -185,4 +185,4 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<span class="preview"> Formsの最適化およびFormsのアクセシビリティ機能は、早期アクセスプログラムで利用できます。 公式メール ID からaem-forms-ea@adobe.comに書き込んで、早期アクセスプログラムに参加し、機能へのアクセスをリクエストできます。</span>
+<span class="preview">フォームの最適化機能とフォームのアクセシビリティ機能は、早期アクセスプログラムで利用できます。早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>

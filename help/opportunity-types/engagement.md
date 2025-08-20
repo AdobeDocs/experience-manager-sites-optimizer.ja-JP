@@ -2,9 +2,9 @@
 title: Sites Optimizer を使用したエンゲージメントの最適化
 description: Sites Optimizer を使用してエンゲージメントを向上させる方法について説明します。
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '237'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -98,7 +98,7 @@ AEM Sites Optimizer のエンゲージメントの機会は、ユーザーがど
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" title="高バウンス率">高バウンス率</a>
                     </p>
-                    <p class="is-size-6">ロービューの機会と、それを使用して web サイトでの Forms エンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">少ない閲覧数の機会と、これを使用して web サイト上のフォームのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>

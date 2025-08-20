@@ -3,9 +3,9 @@ title: アクセシビリティの問題の機会ドキュメント
 description: アクセシビリティの問題の機会と、これを使用して web サイトのセキュリティを強化する方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -56,4 +56,4 @@ Sites Optimizer Ultimate には、見つかった脆弱性に対して自動最�
 
 ## 関連トピック
 
-[Formsのアクセシビリティの問題のオポチュニティ](/help/documentation/opportunities/forms-accessibility-issues.md)
+[フォームのアクセシビリティの問題の機会](/help/documentation/opportunities/forms-accessibility-issues.md)

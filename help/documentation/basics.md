@@ -2,9 +2,9 @@
 title: Site Optimizer の基本
 description: Sites Optimizer の基本とその操作方法について説明します。
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '511'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -62,7 +62,7 @@ Sites Optimizer ダッシュボードには、サイトのパフォーマンス�
 * **機会タイトル** - 問題の概要と、サイトのパフォーマンスに対する潜在的な影響。
 * **最終更新日** - Sites Optimizer では、この日付で新しいデータを使用して機会が最後に更新されました。
 * **問題数** - サイト上で特定された問題のインスタンスの数。
-* **商談タイプ** – この商談が含まれる [ 商談のタイプ ](../opportunity-types/overview.md) - トラフィック獲得、エンゲージメント、コンバージョン、サイトの正常性など。
+* **機会タイプ** - トラフィック獲得、エンゲージメント、コンバージョン、サイトの健全性など、この機会が含まれる[機会のタイプ](../opportunity-types/overview.md)。
 
 各機会の概要情報はタイプによって異なり、収益への影響、トラフィック、ユーザーエンゲージメント、セキュリティの脅威に関する詳細が含まれる場合があります。
 
