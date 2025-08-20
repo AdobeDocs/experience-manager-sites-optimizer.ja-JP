@@ -1,42 +1,42 @@
 ---
-title: Forms Accessibility Issues Opportunity ドキュメント
-description: Forms のアクセシビリティの問題のオポチュニティと、それを使用して Web サイト上での Forms のアクセシビリティとユーザーエクスペリエンスを向上させる方法について説明します。
-badgeFormOptimization: label="Formsの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Formsの最適化"
+title: フォームのアクセシビリティの問題の機会ドキュメント
+description: フォームのアクセシビリティの問題の機会と、これを使用して web サイトのフォームのアクセシビリティとユーザーエクスペリエンスを向上させる方法について説明します。
+badgeFormOptimization: label="フォームの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="フォームの最適化"
 hide: true
 hidefromtoc: true
 source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Formsのアクセシビリティの問題のオポチュニティ
+# フォームのアクセシビリティの問題の機会
 
-<span class="preview"> Formsの最適化機能は、早期アクセスプログラムで利用できます。 公式メール ID からaem-forms-ea@adobe.comに書き込んで、早期アクセスプログラムに参加し、機能へのアクセスをリクエストできます。</span>
+<span class="preview">フォームの最適化機能は、早期アクセスプログラムで利用できます。早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>
 
-![Formsのアクセシビリティの問題のオポチュニティ ](./assets/forms-accessibility-issues/hero.png){align="center"}
+![フォームのアクセシビリティの問題の機会](./assets/forms-accessibility-issues/hero.png){align="center"}
 
-フォームアクセシビリティの問題のオポチュニティは、フォームが障害のあるユーザーのニーズにどの程度適合しているかを特定し、そのフォームが [Web コンテンツアクセシビリティガイドライン（WCAG） ](https://www.w3.org/TR/WCAG21/) に従っているかどうかを特定します。 フォームが WCAG にどの程度適合しているかを評価することで、包括的なフォームエクスペリエンスの作成に役立ち、視覚、聴覚、認知、運動に障害を持つユーザーがフォームを移動して、操作し、正常に完了できるようになります。 これは、倫理上の理由から不可欠なだけでなく、法的要件の遵守を促進し、フォームの完了率を向上させ、オーディエンスのリーチを向上させ、ユーザーエクスペリエンスとビジネスパフォーマンスの両方を向上させることができます。
+フォームのアクセシビリティの問題の機会では、フォームが障害のある人物のニーズにどの程度適合しているか、また [Web コンテンツアクセシビリティガイドライン（WCAG）](https://www.w3.org/TR/WCAG21/)に準拠しているかどうかを識別します。フォームが WCAG にどの程度準拠しているかを評価することで、視覚、聴覚、認知、運動機能に障害のある個人がフォームをナビゲート、操作し、正常に完了できる包括的なフォームエクスペリエンスを実現するのに役立ちます。このことは、倫理的な理由から不可欠であるだけでなく、法的要件への準拠を促進し、フォームの完了率を改善し、オーディエンスのリーチを拡大して、ユーザーエクスペリエンスと業績の両方を向上できます。
 
 ## 自動特定
 
-![ フォームのアクセシビリティの問題の自動識別 ](./assets/forms-accessibility-issues/auto-identify.png){align="center"}
+![フォームのアクセシビリティの問題の自動特定](./assets/forms-accessibility-issues/auto-identify.png){align="center"}
 
-**Formsのアクセシビリティの問題のオポチュニティ** は、フォーム内でアクセシビリティの問題を特定します。次が含まれます。
+**フォームのアクセシビリティの問題の機会**&#x200B;では、フォーム内のアクセシビリティの問題が具体的に特定されます。次の内容が含まれます。
 
 * **問題** - フォームで見つかった特定のアクセシビリティの問題。
-* **WCAG 条件** - [WCAG Guidelines ID](https://www.w3.org/TR/WCAG21/) フォームの問題がに違反しています。
-* **レベル** - イシューの [ 適合レベル ](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels)。
-* **推奨事項** - フォームのアクセシビリティの問題を修正する方法に関する具体的なガイダンス（コード例やベストプラクティスなど）。
-* **Source HTML** - イシューの影響を受けるページ上のフォーム要素のHTML スニペット。
+* **WCAG ガイドライン** - フォームの問題が違反している [WCAG ガイドライン ID](https://www.w3.org/TR/WCAG21/)。
+* **レベル** - 問題の[適合レベル](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels)。
+* **レコメンデーション** - コード例やベストプラクティスなど、フォームのアクセシビリティの問題を修正する方法に関する特定のガイダンス。
+* **ソース HTML** - 問題の影響を受けるページ上のフォーム要素の HTML スニペット。
 
 ## 自動提案
 
-![ フォームのアクセシビリティの問題を自動提案 ](./assets/forms-accessibility-issues/auto-suggest.png){align="center"}
+![フォームのアクセシビリティの問題の自動提案](./assets/forms-accessibility-issues/auto-suggest.png){align="center"}
 
-自動提案では、AI によって生成されたレコメンデーションが「**提案**」フィールドに表示され、フォームのアクセシビリティの問題を修正するために行うべきことについて、規範的なガイダンスが提供されます。
+自動提案では、「**提案**」フィールドに AI 生成レコメンデーションが提供され、フォームのアクセシビリティの問題を解決するための実行内容に関する規範的なガイダンスが提供されます。
 
 <!-- 
 
