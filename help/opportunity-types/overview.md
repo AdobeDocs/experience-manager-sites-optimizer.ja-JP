@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 機会タイプ
 description: Sites Optimizer の主な機会タイプと、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
-workflow-type: ht
-source-wordcount: '300'
-ht-degree: 100%
+source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
+workflow-type: tm+mt
+source-wordcount: '343'
+ht-degree: 80%
 
 ---
 
@@ -20,10 +20,11 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
 * トラフィックの獲得
 * セキュリティ態勢
 * サイトの健全性
+* プリフライト
 
-各カテゴリでは、サイトを強化する様々な方法がハイライト表示されます。1 つのカテゴリでは、訪問者のインタラクションが増加する場合があります。もう 1 つでは、検出性を向上させる場合があります。その他には、セキュリティの強化やサイトの安定性の維持に焦点を当てています。
+各カテゴリでは、サイトを強化する様々な方法がハイライト表示されます。1 つのカテゴリでは、訪問者のインタラクションが増加する場合があります。もう 1 つでは、検出性を向上させる場合があります。また、セキュリティの強化やサイトの安定性の維持に重点を置いています。 プリフライトは、ページを公開する前に分析および最適化するのに役立ちます。
 
-これらの機会を使用することで、ユーザーエクスペリエンスが向上し、適切なユーザーを引き付け、サイトの安全性と信頼性が維持されます。エンゲージメントとトラフィック獲得を強化することでインタラクションと表示が向上し、強力なセキュリティ態勢とサイトの健全性によって信頼性と安定性が確保されます。以下のリンクを探索して、カテゴリ別に整理された商談を確認し、サイトを改善する方法を見つけてください。
+これらの機会を使用することで、ユーザーエクスペリエンスが向上し、適切なオーディエンスを引き付け、サイトの安全性と信頼性が維持されます。エンゲージメントとトラフィック獲得を強化することでインタラクションと可視性を高め、強力なセキュリティ態勢とサイトヘルスによって信頼と安定性を確保します。 プリフライト分析により、運用開始前にコンテンツが最適化されます。 以下のリンクを探索して、カテゴリ別に整理された商談を確認し、サイトを改善する方法を見つけてください。
 
 ## 商談タイプ
 
@@ -39,6 +40,8 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
    { title = Traffic acquisition }
 * ./form-optimization.md
    { title = Forms Optimization }
+* ./preflight.md
+   { title = Preflight }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -181,7 +184,30 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
             </div>
         </div>
     </div>
-
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./preflight.md" title="プリフライト" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/preflight/hero.png" alt="プリフライト"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./preflight.md" target="_blank" rel="referrer" title="プリフライト"> プリフライト </a>
+                    </p>
+                    <p class="is-size-6">プリフライト分析と、Sites Optimizerでプリフライトの機会を設定する方法について説明します。</p>
+                </div>
+                <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                </a>
+            </div>
+        </div>
+    </div>
+ </br>   
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
