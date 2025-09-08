@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer を使用したエンゲージメントの最適化
 description: Sites Optimizer を使用してエンゲージメントを向上させる方法について説明します。
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: ht
-source-wordcount: '237'
-ht-degree: 100%
+source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
+workflow-type: tm+mt
+source-wordcount: '285'
+ht-degree: 83%
 
 ---
 
@@ -15,9 +15,7 @@ ht-degree: 100%
 
 AEM Sites Optimizer のエンゲージメントの機会は、ユーザーがどのように web ページを操作しているかについて施策につながるインサイトを提供し、デジタルエクスペリエンスを強化するために不可欠です。アクセシビリティの問題、破損した内部リンク、高バウンス率、欠落している代替テキストなど、改善すべき領域を特定することで、マーケターやコンテンツ作成者はサイトを最適化し、パフォーマンスとユーザーエンゲージメントを向上させることができます。これらの機会は、コンテンツが効果的で、見つけやすく、魅力的であることを確保し、最終的にはより高いコンバージョン率とよりシームレスなカスタマージャーニーを推進するのに役立ちます。 AEM Sites Optimizer のレコメンデーションを使用することで、チームはデジタル戦略を継続的に調整し、影響力の大きいエクスペリエンスを大規模に提供できます。
 
-
 ## 機会
-
 
 <!-- CARDS
 
@@ -30,6 +28,9 @@ AEM Sites Optimizer のエンゲージメントの機会は、ユーザーがど
 * ../documentation/opportunities//high-bounce-rate.md
   {title=High bounce rate}
   {image=../assets/common/card-arrows.png}
+* ../documentation/opportunities/high-traffic-page-has-low-ctr.md
+  {title=High traffic page has low CTR}
+  {image=../assets/common/card-browser.png}
 * ../documentation/opportunities/missing-alt-text.md  
   {title=Missing alt text}
   {image=../assets/common/card-arrows.png}
@@ -101,6 +102,29 @@ AEM Sites Optimizer のエンゲージメントの機会は、ユーザーがど
                     <p class="is-size-6">少ない閲覧数の機会と、これを使用して web サイト上のフォームのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="High traffic page has low CTR">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="高トラフィックページは低 CTR です" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="高トラフィックページは低 CTR です"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="高トラフィックページは低 CTR です"> 高トラフィックページの CTR が低い </a>
+                    </p>
+                    <p class="is-size-6">高トラフィックのページは CTR の機会が低く、それを使用して web サイトでのエンゲージメントを増やす方法について説明します。</p>
+                </div>
+                <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>

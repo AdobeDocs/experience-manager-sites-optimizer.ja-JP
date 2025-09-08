@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: これは、ランディングページに表示されるユーザーガイドの説明です。
-source-git-commit: fcdda7414b56f40ec0feaa9cdbfbe896643d0556
+source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 97%
+source-wordcount: '105'
+ht-degree: 92%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 97%
       + [CORS 設定](/help/documentation/opportunities/cors-configuration.md)
       + [クロスサイトスクリプティング](/help/documentation/opportunities/cross-site-scripting.md)
       + [高バウンス率](/help/documentation/opportunities/high-bounce-rate.md)
+      + [高トラフィックページは低 CTR です](/help/documentation/opportunities/high-traffic-page-has-low-ctr.md)
       + [無効または欠落しているメタデータ](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [欠落しているまたは無効な構造化データ](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [欠落している代替テキスト](/help/documentation/opportunities/missing-alt-text.md)
