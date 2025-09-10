@@ -2,9 +2,9 @@
 title: Sites Optimizer 機会タイプ
 description: Sites Optimizer の主な機会タイプと、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。
 source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
 * サイトの健全性
 * プリフライト
 
-各カテゴリでは、サイトを強化する様々な方法がハイライト表示されます。1 つのカテゴリでは、訪問者のインタラクションが増加する場合があります。もう 1 つでは、検出性を向上させる場合があります。また、セキュリティの強化やサイトの安定性の維持に重点を置いています。 プリフライトは、ページを公開する前に分析および最適化するのに役立ちます。
+各カテゴリでは、サイトを強化する様々な方法がハイライト表示されます。1 つのカテゴリでは、訪問者のインタラクションが増加する場合があります。もう 1 つでは、検出性を向上させる場合があります。セキュリティの強化やサイトの安定性の維持に焦点を当てるものもあります。プリフライトは、ページを公開する前に分析および最適化するのに役立ちます。
 
-これらの機会を使用することで、ユーザーエクスペリエンスが向上し、適切なオーディエンスを引き付け、サイトの安全性と信頼性が維持されます。エンゲージメントとトラフィック獲得を強化することでインタラクションと可視性を高め、強力なセキュリティ態勢とサイトヘルスによって信頼と安定性を確保します。 プリフライト分析により、運用開始前にコンテンツが最適化されます。 以下のリンクを探索して、カテゴリ別に整理された商談を確認し、サイトを改善する方法を見つけてください。
+これらの機会を使用することで、ユーザーエクスペリエンスが向上し、適切なオーディエンスを引き付け、サイトの安全性と信頼性が維持されます。エンゲージメントとトラフィック獲得を強化することでインタラクションと表示が向上し、強力なセキュリティ態勢とサイトの健全性によって信頼性と安定性が確保されます。プリフライト分析により、運用開始前にコンテンツが最適化されることが確保されます。以下のリンクを探索して、カテゴリ別に整理された商談を確認し、サイトを改善する方法を見つけてください。
 
 ## 商談タイプ
 
@@ -197,9 +197,9 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./preflight.md" target="_blank" rel="referrer" title="プリフライト"> プリフライト </a>
+                        <a href="./preflight.md" target="_blank" rel="referrer" title="プリフライト">プリフライト</a>
                     </p>
-                    <p class="is-size-6">プリフライト分析と、Sites Optimizerでプリフライトの機会を設定する方法について説明します。</p>
+                    <p class="is-size-6">プリフライト分析と、Sites Optimizer でプリフライトの機会を設定する方法について説明します。</p>
                 </div>
                 <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>

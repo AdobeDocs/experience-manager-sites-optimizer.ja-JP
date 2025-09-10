@@ -1,19 +1,19 @@
 ---
-title: AEM Sites Optimizer - プリフライトオンボーディングガイド
-description: プリフライトの機会と、AEM Sites Optimizerでプリフライト分析を設定する方法について説明します。
+title: AEM Sites Optimizer - プリフライトのオンボーディングガイド
+description: プリフライトを使用する機会と、AEM Sites Optimizer でプリフライト分析を設定する方法について説明します。
 source-git-commit: 0a6ddcdfd369253500067b31617facfb7f38b656
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '488'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
 # プリフライトの機会
 
-![ プリフライトの機会 ](./assets/preflight/hero.png){align="center"}
+![プリフライトの機会](./assets/preflight/hero.png){align="center"}
 
-<span class="preview">AEM Sites Optimizer Preflight は、ページの技術的データおよびパフォーマンスデータを分析し、公開前にオポチュニティを予測および検出します。 生成 AI を使用して最適化を提案します。</span>
+<span class="preview">AEM Sites Optimizer のプリフライトは、ページの技術データとパフォーマンスデータを分析し、公開前に機会を予測および検出します。生成 AI を使用して最適化を提案します。</span>
 
 ## 機会
 
@@ -51,9 +51,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="正規"> 正規 </a>
+                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="正規">正規</a>
                     </p>
-                    <p class="is-size-6">正規の機会と、その機会を使用して SEO を向上させ、コンテンツの重複の問題を防ぐ方法について説明します。</p>
+                    <p class="is-size-6">正規化の機会と、これを使用して SEO を向上させ、重複コンテンツの問題を防ぐ方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -74,9 +74,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" title="壊れた内部リンク"> 壊れた内部リンク </a>
+                        <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" title="壊れた内部リンク">壊れた内部リンク</a>
                     </p>
-                    <p class="is-size-6">リンク切れの内部リンクの機会と、それを使用して web サイト上のリンク切れまたは問題のあるリンクを識別して修正する方法について説明します。</p>
+                    <p class="is-size-6">壊れた内部リンクを使用する機会と、これを使用して web サイト上の壊れたリンクや問題のあるリンクを特定および修正する方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -97,9 +97,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="メタタグ"> メタタグ </a>
+                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="メタタグ">メタタグ</a>
                     </p>
-                    <p class="is-size-6">メタタグの機会と、それを使用してページのメタデータを最適化し、SEO パフォーマンスを向上させる方法について説明します。</p>
+                    <p class="is-size-6">メタタグの機会と、これを使用してページのメタデータを最適化し、SEO パフォーマンスを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -111,8 +111,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/invalid-or-missing-metadata.md" title="H1 数" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="H1 数"
+                    <a href="../documentation/opportunities/invalid-or-missing-metadata.md" title="H1 カウント" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="H1 カウント"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,9 +120,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="H1 数">H1 カウント </a>
+                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="H1 カウント">H1 カウント</a>
                     </p>
-                    <p class="is-size-6">H1 カウントの機会と、その機会を使用して適切な見出し構造と SEO の最適化を確保する方法について説明します。</p>
+                    <p class="is-size-6">H1 カウントの機会と、これを使用して適切な見出し構造と SEO 最適化を確保する方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -145,7 +145,7 @@ ht-degree: 6%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="アクセシビリティ">アクセシビリティ</a>
                     </p>
-                    <p class="is-size-6">アクセシビリティの機会と、それを使用してすべてのユーザーが web サイトにアクセスできるようにする方法について説明します。</p>
+                    <p class="is-size-6">アクセシビリティの機会と、これを使用してすべてのユーザーが web サイトにアクセスできるようにする方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -161,18 +161,18 @@ ht-degree: 6%
 
 ### ユニバーサルエディターの設定
 
-1. URL https://experience.adobe.com/#/@org/aem/extension-manager/universal-editorからExtension Managerに移動します。
-2. AEM Sites Optimizer Preflight 拡張機能を選択し、有効にするようリクエストします
+1. https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor の URL から Extension Manager に移動します
+2. AEM Sites Optimizer プリフライト拡張機能を選択し、有効化をリクエストします
 3. AEM チームが組織の拡張機能を有効にします
-4. その後、ユニバーサルエディターでhttps://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.htmlなどのページを開きます。
-5. Preflight 拡張機能がサイドレールに表示されます
-6. サイドパネルでプリフライト拡張機能をクリックすると、現在のページのプリフライト監査が開始されます
+4. 完了したら、ユニバーサルエディターで https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html などのページを開きます
+5. プリフライト拡張機能がサイドパネルに表示されます
+6. サイドパネルからプリフライト拡張機能をクリックすると、現在のページのプリフライト監査が開始されます
 
 ### ドキュメントベースのプレビュー設定
 
-#### 手順 1:「プリフライト」ボタンを使用してSidekickを有効にする
+#### 手順 1：「プリフライト」ボタンを使用して Sidekick を有効にする
 
-次の設定を GitHub リポジトリの `/tools/sidekick/config.json` に追加します。
+GitHub リポジトリの `/tools/sidekick/config.json` に次の設定を追加します。
 
 ```json
 {
@@ -189,9 +189,9 @@ ht-degree: 6%
 }
 ```
 
-#### 手順 2:Sidekick統合スクリプトの作成
+#### 手順 2：Sidekick 統合スクリプトを作成
 
-次の内容の `/tools/sidekick/aem-sites-optimizer-preflight.js` を作成します。
+次の内容の `/tools/sidekick/aem-sites-optimizer-preflight.js` ファイルを作成します。
 
 ```javascript
 (function () {
@@ -238,9 +238,9 @@ ht-degree: 6%
 }());
 ```
 
-#### 手順 3：スクリプトファイルの更新
+#### 手順 3：スクリプトファイルを更新
 
-次に示すように、プレビュー URL 用の `loadLazy()` の `/scripts/scripts.js` 関数に次の import 文を追加します。
+次に示すように、プレビュー URL の `/scripts/scripts.js` の `loadLazy()` 関数に次の import 文を追加します。
 
 ```javascript
 if (window.location.href.includes('.aem.page')) {
@@ -248,19 +248,19 @@ if (window.location.href.includes('.aem.page')) {
 }
 ```
 
-これで、Sidekickに「プリフライト」ボタンが表示されます。
+これで、Sidekick に「プリフライト」ボタンが表示されます。
 
-#### 手順 4：監査の実行
+#### 手順 4：監査を実行
 
-監査対象ページのプレビュー URL （*.aem.page）を開きます。 Sidekickの「プリフライト」ボタンをクリックします。
+監査対象ページのプレビュー URL（*.aem.page）を開きます。Sidekick の「プリフライト」ボタンをクリックします。
 
-### AEM Cloud Service のセットアップ
+### AEM Cloud Service の設定
 
-ブックマークレットオプションを使用して、AEM Cloud Service のページエディターとサンドボックス環境でプリフライトをテストできます。
+ブックマークレットオプションを使用して、AEM Cloud Service ページエディターおよびサンドボックス環境でプリフライトをテストできます。
 
 <!-- Drag the button below to your Bookmarks Bar to get started. -->
 
-**Ctrl + Shift + B** （Windows）または **Cmd + Shift + B** （Mac）を押して、ブックマークバーを表示します。 ブックマークバーを右クリックし、「新しいページ」または「ブックマークを追加」を選択します。 住所フィールドで、以下のコードをコピーします。
+**Ctrl + Shift + B** キー（Windows）または **Cmd + Shift + B** キー（Mac）を押して、ブックマークバーを表示します。ブックマークバーを右クリックし、「新規ページ」または「ブックマークを追加」を選択します。アドレスフィールドで、次のコードをコピーします。
 
 <!-- **Drag this link to your Bookmarks Bar:**
 
@@ -272,13 +272,13 @@ if (window.location.href.includes('.aem.page')) {
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-ブックマークレットを追加したら、監査対象ページのプレビュー URL （*.aem.page）を開きます。 Preflight ブックマークをクリックして、Preflight 監査を開始します。
+ブックマークレットを追加したら、監査対象ページのプレビュー URL（*.aem.page）を開きます。プリフライトブックマークをクリックして、プリフライト監査を開始します。
 
 ## ベストプラクティス
 
-プリフライトを使用する際は、次の点に注意してください。
+プリフライトを使用する場合は、次に注意してください。
 
-* 公開する前に、すべてのステージング/プレビューページでプリフライト監査を実行します。
-* 最初に影響の大きい問題（リンク切れ、H1 タグの欠落、安全でないリンク）に対処します。
+* 公開前に、すべてのステージング／プレビューページでプリフライト監査を実行します。
+* 最初に影響の大きい問題（壊れたリンク、H1 タグの欠落、安全でないリンク）に対処します。
 * 保護されたステージング環境の認証を有効にします。
-* SEO のパフォーマンスを向上させるために、メタタグの提案を確認し、実装します。
+* SEO のパフォーマンスを向上させるために、メタタグの提案を確認および実装します。
