@@ -2,7 +2,7 @@
 title: 高トラフィックページに低 CTR の機会に関するドキュメントがある
 description: 高トラフィックのページは CTR の機会が低く、それを使用して web サイトでのエンゲージメントを増やす方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
-source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
+source-git-commit: 5c3b4eb9941c82273c017602202b74d7911f7cc5
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 4%
@@ -10,9 +10,9 @@ ht-degree: 4%
 ---
 
 
-# トラフィックが多いページで CTR の機会が少ない
+# 高トラフィックページは CTR の機会が少ない
 
-![ 高トラフィックページにより、CTR オポチュニティが低い ](./assets/high-traffic-page-has-low-ctr/hero.png){align="center"}
+![ トラフィックが多いページほど、CTR オポチュニティが少ない ](./assets/high-traffic-page-has-low-ctr/hero.png){align="center"}
 
 高トラフィックのページには、低い CTR オポチュニティがあり、大量のトラフィックを受信したがクリックスルー率（CTR）が低い、web サイト上のページを識別します。 これらのページを分析すると、ユーザーエンゲージメントを妨げる可能性のある問題を明らかにし、パフォーマンスを向上させる手順を実行できます。 この機会は、web サイトのコンテンツとレイアウトを最適化するために不可欠で、最終的にコンバージョン率の向上とユーザーエクスペリエンスの向上につながります。
 
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 ![ 高トラフィックの自動識別ページに低 CTR の問題がある ](./assets/high-traffic-page-has-low-ctr/auto-identify.png){align="center"}
 
-**高トラフィックページには低 CTR の機会があります** は、web サイト上で低 CTR の高トラフィックページを識別します。次が含まれます。
+**高トラフィックのページには低 CTR の機会があります** は、web サイト上で低 CTR の高トラフィックのページを識別します。次が含まれます。
 
 * **推奨事項** - ページの CTR を改善するための推奨アクション。
 * **Insight** - ページの CTR が低い理由。
