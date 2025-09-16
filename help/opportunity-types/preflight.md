@@ -1,10 +1,10 @@
 ---
-title: AEM Sites Optimizer - プリフライトのオンボーディングガイド
-description: プリフライトを使用する機会と、AEM Sites Optimizer でプリフライト分析を設定する方法について説明します。
-source-git-commit: 0a6ddcdfd369253500067b31617facfb7f38b656
-workflow-type: ht
-source-wordcount: '488'
-ht-degree: 100%
+title: AEM Sites Optimizerによるプリフライトの最適化
+description: AEM Sites Optimizerによるプリフライトの機会について説明します。
+source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+workflow-type: tm+mt
+source-wordcount: '659'
+ht-degree: 23%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![プリフライトの機会](./assets/preflight/hero.png){align="center"}
 
-<span class="preview">AEM Sites Optimizer のプリフライトは、ページの技術データとパフォーマンスデータを分析し、公開前に機会を予測および検出します。生成 AI を使用して最適化を提案します。</span>
+AEM Sites Optimizerのプリフライトの機会は、運用開始前に、web ページがパフォーマンス、SEO、ユーザーエクスペリエンスに最適化されていることを確認するのに役立ちます。 リンクの破損、メタタグの欠落、アクセシビリティの問題などの潜在的な問題を特定することで、プリフライトチェックを使用して、コンテンツ作成者やマーケターが公開プロセスの早い段階でこれらの問題に対処できます。 このプロアクティブなアプローチにより、最適でないコンテンツを公開するリスクを最小限に抑え、サイト品質を向上させ、全体的なデジタルプレゼンスを向上させます。 プリフライトの機会を利用すると、ワークフローがスムーズになり、公開後の修正が減り、検索エンジンのランキングとユーザー満足度が向上します。
 
 ## 機会
 
@@ -157,128 +157,141 @@ ht-degree: 100%
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## 設定方法
+## 設定
 
-### ユニバーサルエディターの設定
+AEM Sites Optimizerのプリフライトのオポチュニティを特定するには、ページが公開される前にプリフライト監査を実行するために、ユニバーサルエディター、ドキュメントベースのプレビュー、AEM Cloud Service のいずれかでプリフライト拡張機能を設定する必要があります。
 
-1. https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor の URL から Extension Manager に移動します
-2. AEM Sites Optimizer プリフライト拡張機能を選択し、有効化をリクエストします
-3. AEM チームが組織の拡張機能を有効にします
-4. 完了したら、ユニバーサルエディターで https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html などのページを開きます
-5. プリフライト拡張機能がサイドパネルに表示されます
-6. サイドパネルからプリフライト拡張機能をクリックすると、現在のページのプリフライト監査が開始されます
+## ユーザーアクセスを有効にする
 
-### ドキュメントベースのプレビュー設定
+Preflight 拡張機能を使用するには、[Adobe Admin Console](https://adminconsole.adobe.com) でユーザーが次のAEM Sites Optimizer製品プロファイルの少なくとも 1 つに割り当てられていることを確認します。
 
-#### 手順 1：「プリフライト」ボタンを使用して Sidekick を有効にする
+* AEM Sites Optimizer - ユーザーの自動候補
+* AEM Sites Optimizer - ユーザーを自動最適化
 
-GitHub リポジトリの `/tools/sidekick/config.json` に次の設定を追加します。
+## Preflight 拡張機能の有効化
 
-```json
-{
-  "plugins": [
-    {
-      "id": "preflight",
-      "titleI18n": {
-        "en": "Preflight"
-      },
-      "environments": ["preview"],
-      "event": "preflight"
-    }
-  ]
-}
-```
+>[!BEGINTABS]
 
-#### 手順 2：Sidekick 統合スクリプトを作成
+>[!TAB ユニバーサルエディター]
 
-次の内容の `/tools/sidekick/aem-sites-optimizer-preflight.js` ファイルを作成します。
+ユニバーサルエディターでプリフライトを設定するには、次の手順に従います。
+
+1. 次の場所で **Extension Manager** を開きます。
+   [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
+1. **AEM Sites Optimizer Preflight 拡張機能を見つけて** 有効にするリクエストを送信します。
+1. **Adobe AEM チーム** が拡張機能を確認し、組織に対して有効にします。
+1. 拡張機能を有効にした後で、**ユニバーサルエディター** でページを開きます。例：
+   `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
+1. **Preflight 拡張機能** が **サイドパネル** に表示されます。
+1. サイドパネルから **プリフライト拡張** を選択して、現在のページの **プリフライト監査** を開始します。
+
+>[!TAB ドキュメントベースのオーサリング]
+
+ドキュメントベースのオーサリング用にプリフライトを設定するには、次の手順に従います。
+
+1. 次の設定をEdge Delivery Services プロジェクトの GitHub リポジトリの `/tools/sidekick/config.json` に追加します。
+
+   ```json
+   {
+     "plugins": [
+       {
+         "id": "preflight",
+         "titleI18n": {
+           "en": "Preflight"
+         },
+         "environments": ["preview"],
+         "event": "preflight"
+       }
+     ]
+   }
+   ```
+
+1. `/tools/sidekick/aem-sites-optimizer-preflight.js` に新しいファイルを作成し、次の内容を追加します。
+
+   ```javascript
+   (function () {
+     let isAEMSitesOptimizerPreflightAppLoaded = false;
+     function loadAEMSitesOptimizerPreflightApp() {
+       const script = document.createElement('script');
+       script.src = 'https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=plugin';
+       script.onload = function () {
+         isAEMSitesOptimizerPreflightAppLoaded = true;
+       };
+       script.onerror = function () {
+         console.error('Error loading AEMSitesOptimizerPreflightApp.');
+       };
+       document.head.appendChild(script);
+     }
+   
+     function handlePluginButtonClick() {
+       if (!isAEMSitesOptimizerPreflightAppLoaded) {
+         loadAEMSitesOptimizerPreflightApp();
+       }
+     }
+   
+     // Sidekick V1 extension support
+     const sidekick = document.querySelector('helix-sidekick');
+     if (sidekick) {
+       sidekick.addEventListener('custom:preflight', handlePluginButtonClick);
+     } else {
+       document.addEventListener('sidekick-ready', () => {
+         document.querySelector('helix-sidekick')
+           .addEventListener('custom:preflight', handlePluginButtonClick);
+       }, { once: true });
+     }
+   
+     // Sidekick V2 extension support
+     const sidekickV2 = document.querySelector('aem-sidekick');
+     if (sidekickV2) {
+       sidekickV2.addEventListener('custom:preflight', handlePluginButtonClick);
+     } else {
+       document.addEventListener('sidekick-ready', () => {
+         document.querySelector('aem-sidekick')
+           .addEventListener('custom:preflight', handlePluginButtonClick);
+       }, { once: true });
+     }
+   }());
+   ```
+
+1. プレビュー URL 用の Preflight スクリプトを読み込む `loadLazy()` は、`/scripts/scripts.js` 関数を更新します。
+
+   ```javascript
+   if (window.location.href.includes('.aem.page')) {
+      import('../tools/sidekick/aem-sites-optimizer-preflight.js');
+   }
+   ```
+
+1. 監査するページのプレビュー URL （`*.aem.page`）を開きます。
+1. **Sidekick** で「**Preflight**」ボタンをクリックして、現在のページの監査を開始します。
+
+>[!TAB AEM Sitesページエディター ]
+
+AEM Sitesページエディターで Preflight を使用するには、web ブラウザーでブックマークレットを作成します。 次の手順に従います。
+
+1. Web ブラウザーに **ブックマークバー** を表示します。
+
+   * **Ctrl + Shift + B** （Windows）または **Cmd + Shift + B** （Mac）を押します。
+
+!. ブラウザーに新しいブックマークを作成します。
+
+* ブックマークバーを右クリックし、**新規ページ** または **ブックマークを追加** を選択します。
+* **アドレス（URL）** フィールドに、次のコードをペーストします。
 
 ```javascript
-(function () {
-  let isAEMSitesOptimizerPreflightAppLoaded = false;
-  function loadAEMSitesOptimizerPreflightApp() {
-    const script = document.createElement('script');
-    script.src = 'https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=plugin';
-    script.onload = function () {
-      isAEMSitesOptimizerPreflightAppLoaded = true;
-    };
-    script.onerror = function () {
-      console.error('Error loading AEMSitesOptimizerPreflightApp.');
-    };
-    document.head.appendChild(script);
-  }
-
-  function handlePluginButtonClick() {
-    if (!isAEMSitesOptimizerPreflightAppLoaded) {
-      loadAEMSitesOptimizerPreflightApp();
-    }
-  }
-
-  // Sidekick V1 extension support
-  const sidekick = document.querySelector('helix-sidekick');
-  if (sidekick) {
-    sidekick.addEventListener('custom:preflight', handlePluginButtonClick);
-  } else {
-    document.addEventListener('sidekick-ready', () => {
-      document.querySelector('helix-sidekick')
-        .addEventListener('custom:preflight', handlePluginButtonClick);
-    }, { once: true });
-  }
-
-  // Sidekick V2 extension support
-  const sidekickV2 = document.querySelector('aem-sidekick');
-  if (sidekickV2) {
-    sidekickV2.addEventListener('custom:preflight', handlePluginButtonClick);
-  } else {
-    document.addEventListener('sidekick-ready', () => {
-      document.querySelector('aem-sidekick')
-        .addEventListener('custom:preflight', handlePluginButtonClick);
-    }, { once: true });
-  }
-}());
-```
-
-#### 手順 3：スクリプトファイルを更新
-
-次に示すように、プレビュー URL の `/scripts/scripts.js` の `loadLazy()` 関数に次の import 文を追加します。
-
-```javascript
-if (window.location.href.includes('.aem.page')) {
-   import('../tools/sidekick/aem-sites-optimizer-preflight.js');
-}
-```
-
-これで、Sidekick に「プリフライト」ボタンが表示されます。
-
-#### 手順 4：監査を実行
-
-監査対象ページのプレビュー URL（*.aem.page）を開きます。Sidekick の「プリフライト」ボタンをクリックします。
-
-### AEM Cloud Service の設定
-
-ブックマークレットオプションを使用して、AEM Cloud Service ページエディターおよびサンドボックス環境でプリフライトをテストできます。
-
-<!-- Drag the button below to your Bookmarks Bar to get started. -->
-
-**Ctrl + Shift + B** キー（Windows）または **Cmd + Shift + B** キー（Mac）を押して、ブックマークバーを表示します。ブックマークバーを右クリックし、「新規ページ」または「ブックマークを追加」を選択します。アドレスフィールドで、次のコードをコピーします。
-
-<!-- **Drag this link to your Bookmarks Bar:**
-
-<a href="javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();">Preflight</a> -->
-
-**このコードをコピーして、新しいブックマークを作成します。**
-
-```
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-ブックマークレットを追加したら、監査対象ページのプレビュー URL（*.aem.page）を開きます。プリフライトブックマークをクリックして、プリフライト監査を開始します。
+1. ブックマークに **Preflight** という名前（または任意の名前）を付けます。
+1. `*.aem.page`AEM Sites ページエディター **で、監査するページのプレビュー URL （**）を開きます。
+1. ブックマークバーの **Preflight** ブックマークをクリックして、現在のページの監査を開始します。
+
+>[!ENDTABS]
 
 ## ベストプラクティス
 
-プリフライトを使用する場合は、次に注意してください。
+プリフライト監査を実行する場合は、次のガイドラインに留意してください。
 
-* 公開前に、すべてのステージング／プレビューページでプリフライト監査を実行します。
-* 最初に影響の大きい問題（壊れたリンク、H1 タグの欠落、安全でないリンク）に対処します。
-* 保護されたステージング環境の認証を有効にします。
-* SEO のパフォーマンスを向上させるために、メタタグの提案を確認および実装します。
+* 実稼動環境に公開する前に、必ず **ステージングページまたはプレビューページ** で監査を実行します。
+* リンクの破損、H1 タグの欠落、安全でないリンクなど **影響の大きい問題** の解決を優先順位付けします。
+* 監査を実行する前に、保護されたステージング環境で **認証が有効** になっていることを確認してください。
+* SEO のパフォーマンスを向上させるために、**メタタグのレコメンデーション** を確認して適用します。

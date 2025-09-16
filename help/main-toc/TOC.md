@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: これは、ランディングページに表示されるユーザーガイドの説明です。
-source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
+source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 94%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 94%
    + [セキュリティ態勢](/help/opportunity-types/security-posture.md)
    + [フォームの最適化](/help/opportunity-types/form-optimization.md)
    + [フォームのアクセシビリティ](/help/opportunity-types/form-accesibility.md)
-   + [プリフライトの機会](/help/opportunity-types/preflight.md)
+   + [プリフライト](/help/opportunity-types/preflight.md)
 + ドキュメント{#documentation}
    + [概要](/help/documentation/overview.md)
    + [基本](/help/documentation/basics.md)
