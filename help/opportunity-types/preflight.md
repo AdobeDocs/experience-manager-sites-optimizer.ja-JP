@@ -1,7 +1,7 @@
 ---
 title: AEM Sites Optimizerによるプリフライトの最適化
 description: AEM Sites Optimizerによるプリフライトの機会について説明します。
-source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+source-git-commit: cae186f8a953fd9d4e9d68653dd5eb2a4bd14152
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 23%
@@ -161,14 +161,14 @@ AEM Sites Optimizerのプリフライトの機会は、運用開始前に、web 
 
 AEM Sites Optimizerのプリフライトのオポチュニティを特定するには、ページが公開される前にプリフライト監査を実行するために、ユニバーサルエディター、ドキュメントベースのプレビュー、AEM Cloud Service のいずれかでプリフライト拡張機能を設定する必要があります。
 
-## ユーザーアクセスを有効にする
+### ユーザーアクセスを有効にする
 
 Preflight 拡張機能を使用するには、[Adobe Admin Console](https://adminconsole.adobe.com) でユーザーが次のAEM Sites Optimizer製品プロファイルの少なくとも 1 つに割り当てられていることを確認します。
 
 * AEM Sites Optimizer - ユーザーの自動候補
 * AEM Sites Optimizer - ユーザーを自動最適化
 
-## Preflight 拡張機能の有効化
+### Preflight 拡張機能の有効化
 
 >[!BEGINTABS]
 
