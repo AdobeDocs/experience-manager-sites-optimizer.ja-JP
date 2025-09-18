@@ -1,17 +1,17 @@
 ---
 title: AEM Sites Optimizer
 description: Sites Optimizer で web サイトのパフォーマンスを向上 - 速度を改善し、コストを削減し、信頼性を高めてエンゲージメントを向上させます。
-source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+source-git-commit: 96fc971f592120b2fc82ee9db5d765c94940f63f
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 56%
+source-wordcount: '214'
+ht-degree: 61%
 
 ---
 
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455086/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
 Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された web サイトのパフォーマンスを分析して向上させるクラウドベースのサービスです。Sites Optimizerは、ページの読み込み、コンポーネントの使用状況、コンテンツ配信に関して改善すべき領域を特定します。 この機能は、web サイトのパフォーマンスを向上させながら、メンテナンスと更新のコストを削減するのに役立ちます。Sites Optimizer を使用すると、エンゲージメントとコンバージョン率の維持に重要な、スムーズで信頼性の高いオンラインエクスペリエンスを確保できます。
 
@@ -20,8 +20,8 @@ Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された
 <!-- CARDS 
 
 * ./opportunity-types/overview.md
-   {title=Opportunity types}
-   {description = Learn about the available Site Optimizer opportunities and how to use them to improve your site's performance.}
+    * {title=Opportunity types}
+    * {description = Learn about the available Site Optimizer opportunities and how to use them to improve your site's performance.}
 * ./documentation/overview.md
   * {title=Documentation}
   * {description=Explore the Sites Optimizer documentation to learn about all its capabilities.}
@@ -81,25 +81,27 @@ Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された
 ## Sites Optimizerの詳細情報
 
 <!-- CARDS 
-    * https://helpx.adobe.com/jp/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
-        {title=Packages and licensing}
-        {description=Learn about AEM Sites Optimizer packages and licensing.}
-        {image=https://business.adobe.com/products/experience-manager/sites/media_17296346c44dba1976d5fbac060205b5ec7df0164.png?width=2000&format=webply&optimize=medium}
-        {cta=Learn more}
-    * https://business.adobe.com/products/experience-manager/sites/optimizer.html
-        {title=Explore the capabilities of AEM Sites Optimizer}
-        {description=Learn what AEM Site Optimizer can do for your company.}
-        {target=_blank}
-        {cta=Learn more}
+* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+    {title=Packages and licensing}
+    {description=Learn about AEM Sites Optimizer packages and licensing.}
+    {image=./assets/home/licensing.png}
+    {target=_blank}
+    {cta=Learn more}
+* https://business.adobe.com/products/experience-manager/sites/optimizer.html
+    {title=Explore the capabilities of AEM Sites Optimizer}
+    {description=Learn what AEM Site Optimizer can do for your company.}
+    {image=./assets/home/business-adobe-com.png}
+    {target=_blank}
+    {cta=Learn more}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Explore the capabilities of AEM Sites Optimizer">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Packages and licensing">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://helpx.adobe.com/jp/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" title="AEM Sites Optimizerの機能を探索" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://business.adobe.com/products/experience-manager/sites/media_17296346c44dba1976d5fbac060205b5ec7df0164.png?width=400&format=webply&optimize=medium" alt="AEM Sites Optimizerの機能を探索"
+                    <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" title="パッケージとライセンス" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="./assets/home/licensing.png" alt="パッケージとライセンス"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,11 +109,11 @@ Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://helpx.adobe.com/jp/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" title="AEM Sites Optimizerの機能を探索">AEM Sites Optimizerの機能を見る </a>
+                        <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" title="パッケージとライセンス"> パッケージとライセンス </a>
                     </p>
-                    <p class="is-size-6">AEM Site Optimizer が会社に何を提供できるかを説明します。</p>
+                    <p class="is-size-6">AEM Sites Optimizer パッケージとライセンスについて説明します。</p>
                 </div>
-                <a href="https://helpx.adobe.com/jp/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -122,7 +124,7 @@ Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" title="AEM Sites Optimizerの機能を探索" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://business.adobe.com/products/experience-manager/sites/media_134c5e6db48bfd903d3b7e7c8432b7d0f0c238dd9.png?width=400&format=pjpg&optimize=medium" alt="AEM Sites Optimizerの機能を探索"
+                        <img class="is-bordered-r-small" src="./assets/home/business-adobe-com.png" alt="AEM Sites Optimizerの機能を探索"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
