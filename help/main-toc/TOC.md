@@ -5,7 +5,7 @@ user-guide-description: これは、ランディングページに表示され�
 source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 94%
       + [CORS 設定](/help/documentation/opportunities/cors-configuration.md)
       + [クロスサイトスクリプティング](/help/documentation/opportunities/cross-site-scripting.md)
       + [高バウンス率](/help/documentation/opportunities/high-bounce-rate.md)
-      + [高トラフィックページは低 CTR です](/help/documentation/opportunities/high-traffic-page-has-low-ctr.md)
+      + [トラフィックが多いページで CTR が低い](/help/documentation/opportunities/high-traffic-page-has-low-ctr.md)
       + [無効または欠落しているメタデータ](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [欠落しているまたは無効な構造化データ](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [欠落している代替テキスト](/help/documentation/opportunities/missing-alt-text.md)
