@@ -2,9 +2,9 @@
 title: Sites Optimizer を使用したエンゲージメントの最適化
 description: Sites Optimizer を使用してエンゲージメントを向上させる方法について説明します。
 source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -111,8 +111,8 @@ AEM Sites Optimizer のエンゲージメントの機会は、ユーザーがど
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="高トラフィックページは低 CTR です" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="高トラフィックページは低 CTR です"
+                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="トラフィックが多いページで CTR が低い" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="トラフィックが多いページで CTR が低い"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,9 +120,9 @@ AEM Sites Optimizer のエンゲージメントの機会は、ユーザーがど
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="高トラフィックページは低 CTR です"> 高トラフィックページの CTR が低い </a>
+                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="トラフィックが多いページで CTR が低い">トラフィックが多いページで CTR が低い</a>
                     </p>
-                    <p class="is-size-6">高トラフィックのページは CTR の機会が低く、それを使用して web サイトでのエンゲージメントを増やす方法について説明します。</p>
+                    <p class="is-size-6">トラフィックが多いページで CTR が低い機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
