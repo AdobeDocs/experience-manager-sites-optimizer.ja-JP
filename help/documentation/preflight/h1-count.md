@@ -1,16 +1,16 @@
 ---
-title: プリフライト H1 カウントオポチュニティ
-description: Sites Optimizerでのプリフライトのアクセシビリティの機会について説明します。
+title: プリフライトの H1 カウントの機会
+description: Sites Optimizer でのプリフライトのアクセシビリティの機会について説明します。
 source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# プリフライト H1 カウントオポチュニティ
+# プリフライトの H1 カウントの機会
 
-![ プリフライト H1 カウントオポチュニティ ](./assets/h1-count/hero.png){align="center"}
+![プリフライトの H1 カウントの機会](./assets/h1-count/hero.png){align="center"}
 
-Sites Optimizerでのプリフライト H1 のカウントは、web サイトでの H1 見出しの使用に関連する問題を特定し、対処するのに役立ちます。 このオポチュニティは、サイトの構造の評価に焦点を当て、改善のための実用的な推奨事項を提供します。
+Sites Optimizer のプリフライト（H1 カウント）オポチュニティは、web サイトでの H1 見出しの使用に関連する問題を特定して対処するのに役立ちます。この機会では、サイトの構造の評価に焦点を当て、改善のための実用的なレコメンデーションを提供します。

@@ -1,16 +1,16 @@
 ---
-title: プリフライトリンクの商談
-description: Sites Optimizerでのプレフライトリンクのオポチュニティについて説明します。
+title: プリフライトのリンクの機会
+description: Sites Optimizer でのプリフライトのリンクの機会について説明します。
 source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# プリフライトリンクの機会
+# プリフライトのリンクの機会
 
-![ プリフライトリンクの商談 ](./assets/links/hero.png){align="center"}
+![プリフライトのリンクの機会](./assets/links/hero.png){align="center"}
 
-Sites Optimizerのプレフライトリンクのオポチュニティは、web サイトでのリンクの使用に関連する問題を特定し、解決するのに役立ちます。 このオポチュニティは、サイトのリンク構造の評価に焦点を当て、改善のための実用的な推奨事項を提供します。
+Sites Optimizer でのプリフライトのリンクの機会は、web サイトでのリンクの使用に関連する問題を特定して対処するのに役立ちます。このオポチュニティでは、サイトのリンク構造の評価に焦点を当て、改善のための実用的なレコメンデーションを提供します。
