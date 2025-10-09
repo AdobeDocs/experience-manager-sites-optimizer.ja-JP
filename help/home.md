@@ -84,7 +84,7 @@ Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された
 ## Sites Optimizer の詳細
 
 <!-- CARDS 
-* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+* https://helpx.adobe.com/jp/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
