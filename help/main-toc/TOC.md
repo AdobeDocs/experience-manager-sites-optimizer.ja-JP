@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: これは、ランディングページに表示されるユーザーガイドの説明です。
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 100%
+source-wordcount: '118'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 100%
 + ドキュメント{#documentation}
    + [概要](/help/documentation/overview.md)
    + [基本](/help/documentation/basics.md)
+   + 設定{#set-up}
+      + [Onboard users](/help/documentation/setup/onboard-users.md)
    + 機会{#opportunities}
       + [概要](/help/documentation/opportunities/overview.md)
       + [アクセシビリティの問題](/help/documentation/opportunities/accessibility-issues.md)

@@ -1,8 +1,8 @@
 ---
 title: プリフライト設定
 description: AEM Sites Optimizer のプリフライト拡張機能を設定する方法について説明します。
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: ht
+source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
+workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 100%
 
@@ -124,14 +124,14 @@ AEM Sites ページエディターでプリフライトを使用するには、w
 
    * **Ctrl + Shift + B** キー（Windows）または **Cmd + Shift + B** キー（Mac）を押します。
 
-!. ブラウザーに新しいブックマークを作成します。
+1. ブラウザーに新しいブックマークを作成します。
 
-* ブックマークバーを右クリックし、「**新規ページ**」または「**ブックマークを追加**」を選択します。
-* 「**アドレス（URL）**」フィールドに次のコードを貼り付けます。
+   * ブックマークバーを右クリックし、「**新規ページ**」または「**ブックマークを追加**」を選択します。
+   * 「**アドレス（URL）**」フィールドに次のコードを貼り付けます。
 
-```javascript
-javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
-```
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
+   ```
 
 1. ブックマークに「**プリフライト**」という名前（または任意の名前）を付けます。
 1. **AEM Sites ページエディター**&#x200B;で、監査するページのプレビュー URL（`*.aem.page`）を開きます。
