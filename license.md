@@ -1,7 +1,7 @@
 ---
-source-git-commit: a714cb379634bd5c1e7467b156310468d69400b6
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 100%
 
 ---
@@ -9,15 +9,9 @@ ht-degree: 100%
 
 © Copyright 2025 Adobe.All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the &quot;Software&quot;), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license grants permission, free of charge, to any person who obtains a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction.This license includes without limitation the rights to use, copy, edit, merge, publish, distribute, sublicense, and/or sell copies of the Software.And, to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

@@ -4,21 +4,22 @@ description: 低ナビゲーションの機会と、これを使用してフォ�
 badgeFormOptimization: label="フォームの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="フォームの最適化"
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
-workflow-type: ht
-source-wordcount: '330'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '323'
+ht-degree: 90%
 
 ---
 
 
 # フォームの低ナビゲーションの機会
 
-<span class="preview">フォームの最適化機能は、早期アクセスプログラムで利用できます。早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>
+<span class="preview"> Formsの最適化機能は、早期アクセスプログラムで利用できます。 早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>
 
 ![低ナビゲーションの機会](./assets/low-navigation/hero.png){align="center"}
 
-低ナビゲーションの機会は、低ナビゲーション率の web サイト上のフォームを特定します。この機会タイプにより、ユーザーによって発見またはアクセスされていないフォームを把握し、検出性を向上させる方法に関する提案を得ることができます。
+低ナビゲーションの機会は、低ナビゲーション率の web サイト上のフォームを特定します。このオポチュニティタイプは、ユーザーが検出またはアクセスできないフォームを特定し、検出性を向上させる方法を提案します。
+
 
 ## 自動特定
 

@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizerへのユーザーのオンボード
 description: AEM Sites Optimizerにユーザーをオンボーディングする方法を説明します。
-source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '36'
 ht-degree: 2%
 
 ---

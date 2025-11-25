@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 機会ドキュメント
 description: 使用可能なすべての Site Optimizer の機会と、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。
-source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
-workflow-type: ht
-source-wordcount: '885'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '883'
+ht-degree: 96%
 
 ---
 
@@ -366,7 +366,7 @@ Sites Optimizer で使用可能なすべての機会を探索します。
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./low-navigation.md" target="_blank" rel="referrer" title="フォームの低ナビゲーション">フォームの低ナビゲーション</a>
                     </p>
-                    <p class="is-size-6">フォームの低ナビゲーションの機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">低ナビゲーションの機会と、それを使用して web サイトでのフォームエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -389,7 +389,7 @@ Sites Optimizer で使用可能なすべての機会を探索します。
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="フォームのアクセシビリティの問題">フォームのアクセシビリティの問題</a>
                     </p>
-                    <p class="is-size-6">フォームのアクセシビリティの問題の機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">Formsのアクセシビリティの問題と、それを使用して web サイトでのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>

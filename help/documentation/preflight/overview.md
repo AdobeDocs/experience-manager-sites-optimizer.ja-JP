@@ -1,10 +1,10 @@
 ---
 title: プリフライトのオポチュニティ
-description: Sites Optimizer のプリフライトオポチュニティに関するドキュメント。
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: ht
+description: Sites Optimizerでのプリフライトの機会に関するドキュメント。
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 100%
+ht-degree: 81%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![プリフライトの機会](./assets/overview/hero.png){align="center"}
 
-Sites Optimizer のプリフライトの機会は、web ページの公開前に web サイトのコンテンツと構造の様々な側面を分析する一連の評価で構成されます。これらの評価は、潜在的な問題を特定し、サイトの全体的な品質とパフォーマンスを向上させるための実用的なレコメンデーションを提供するのに役立ちます。
+Sites Optimizer プリフライトの機会は、web ページの公開前に web サイトのコンテンツや構造のさまざまな側面を分析する一連の評価で構成されます。 これらの評価は、潜在的な問題を特定し、サイトの全体的な品質とパフォーマンスを向上させるための実用的なレコメンデーションを提供するのに役立ちます。
 
 ## プリフライト設定
 
