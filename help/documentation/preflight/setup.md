@@ -1,10 +1,10 @@
 ---
 title: プリフライト設定
 description: AEM Sites Optimizer のプリフライト拡張機能を設定する方法について説明します。
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: e39930ebe2213dcca17209934173a7b521b34dbc
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 67%
+source-wordcount: '573'
+ht-degree: 63%
 
 ---
 
@@ -32,7 +32,7 @@ Preflight 拡張機能を使用するには、[Adobe Admin Console](https://admi
    [https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer プリフライト拡張機能**&#x200B;を見つけて、有効にするリクエストを送信します。
 1. **Adobe AEM チーム** は、組織の拡張機能をレビューし、有効にします。
-1. 拡張機能を有効にした後で、**ユニバーサルエディター**&#x200B;でページを開きます。例：
+1. 拡張機能を有効にした後で、**ユニバーサルエディター**でページを開きます。例：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **Preflight 拡張機能** が **サイドパネル** に表示されます。
 1. 現在のページの&#x200B;**プリフライト監査**&#x200B;を開始するには、サイドパネルから&#x200B;**プリフライト拡張機能**&#x200B;を選択します。
@@ -135,6 +135,31 @@ AEM Sites ページエディターでプリフライトを使用するには、w
 
 1. ブックマークに「**プリフライト**」という名前（または任意の名前）を付けます。
 1. `*.aem.page`AEM Sites ページエディター **で、監査するページのプレビュー URL （**）を開きます。
+1. ブックマークバーの&#x200B;**プリフライト**&#x200B;ブックマークをクリックして、現在のページの監査を開始します。
+
+>[!TAB AdobeManaged Services]
+
+>[!IMPORTANT]
+>
+>Adobe オーサーの認証にAdobeの ID プロバイダー（IMS）を使用するAEM Managed Services（AMS）環境のみがサポートされます。 組織が AMS 認証に他の ID プロバイダーを使用している場合、プリフライトは機能しません。
+
+AMS 環境でAEM Sites ページエディターの Preflight を使用するには、次の手順に従って、web ブラウザーでブックマークレットを作成します。
+
+1. Web ブラウザーに&#x200B;**ブックマークバー**&#x200B;を表示します。
+
+   * **Ctrl + Shift + B** キー（Windows）または **Cmd + Shift + B** キー（Mac）を押します。
+
+1. ブラウザーに新しいブックマークを作成します。
+
+   * ブックマークバーを右クリックし、「**新規ページ**」または「**ブックマークを追加**」を選択します。
+   * 「**アドレス（URL）**」フィールドに次のコードを貼り付けます。
+
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=ams';document.head.appendChild(script);})();
+   ```
+
+1. ブックマークに「**プリフライト**」という名前（または任意の名前）を付けます。
+1. 監査するページを **AEM Sites ページエディター** で開きます。
 1. ブックマークバーの&#x200B;**プリフライト**&#x200B;ブックマークをクリックして、現在のページの監査を開始します。
 
 >[!ENDTABS]
