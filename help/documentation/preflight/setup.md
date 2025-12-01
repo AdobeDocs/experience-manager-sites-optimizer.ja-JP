@@ -32,7 +32,7 @@ Preflight 拡張機能を使用するには、[Adobe Admin Console](https://admi
    [https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer プリフライト拡張機能**&#x200B;を見つけて、有効にするリクエストを送信します。
 1. **Adobe AEM チーム** は、組織の拡張機能をレビューし、有効にします。
-1. 拡張機能を有効にした後で、**ユニバーサルエディター**でページを開きます。例：
+1. 拡張機能を有効にした後で、**ユニバーサルエディター**&#x200B;でページを開きます。例：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **Preflight 拡張機能** が **サイドパネル** に表示されます。
 1. 現在のページの&#x200B;**プリフライト監査**&#x200B;を開始するには、サイドパネルから&#x200B;**プリフライト拡張機能**&#x200B;を選択します。
