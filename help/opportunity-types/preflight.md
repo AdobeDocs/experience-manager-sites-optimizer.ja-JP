@@ -1,9 +1,9 @@
 ---
 title: AEM Sites Optimizer によるプリフライトの最適化
 description: AEM Sites Optimizer によるプリフライトの機会について説明します。
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 79%
 
 ---
@@ -13,11 +13,13 @@ ht-degree: 79%
 
 ![プリフライトの機会](./assets/preflight/hero.png){align="center"}
 
-AEM Sites Optimizer の[プリフライトオポチュニティ](../documentation/preflight/overview.md)は、運用開始前に、web ページがパフォーマンス、SEO、ユーザーエクスペリエンスに最適化されていることを確認するのに役立ちます。リンクの破損、メタタグの欠落、アクセシビリティの問題などの潜在的な問題を特定することで、プリフライトチェックを使用して、コンテンツ作成者やマーケターが公開プロセスの早い段階でこれらの問題に対処できます。このプロアクティブなアプローチにより、最適でないコンテンツを公開するリスクを最小限に抑え、サイト品質を向上させ、全体的なデジタルプレゼンスを向上させます。 プリフライトの機会を使用すると、ワークフローがスムーズになり、公開後の修正が減り、検索エンジンのランキングとユーザー満足度が向上します。
+AEM Sites Optimizer の[プリフライトオポチュニティ](../documentation/preflight/overview.md)は、運用開始前に、web ページがパフォーマンス、SEO、ユーザーエクスペリエンスに最適化されていることを確認するのに役立ちます。 リンクの破損、メタタグの欠落、アクセシビリティの問題などの潜在的な問題を特定することで、プリフライトチェックを使用して、コンテンツ作成者やマーケターが公開プロセスの早い段階でこれらの問題に対処できます。 このプロアクティブなアプローチにより、最適でないコンテンツを公開するリスクを最小限に抑え、サイト品質を向上させ、全体的なデジタルプレゼンスを向上させます。 プリフライトの機会を使用すると、ワークフローがスムーズになり、公開後の修正が減り、検索エンジンのランキングとユーザー満足度が向上します。
 
 ## 機会
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/preflight/accessibility.md
   {title=Accessibility}

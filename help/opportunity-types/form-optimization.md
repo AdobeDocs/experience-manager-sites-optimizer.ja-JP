@@ -3,10 +3,10 @@ title: Sites Optimizer を使用したフォームの最適化
 description: Sites Optimizer を使用したフォームの最適化について説明します。
 hide: true
 hidefromtoc: true
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 66%
+source-wordcount: '219'
+ht-degree: 67%
 
 ---
 
@@ -19,11 +19,13 @@ ht-degree: 66%
 
 ![フォームの最適化の機会](./assets/form-optimization/hero.png){align="center"}
 
-Formsを最適化するオポチュニティを活用すると、組織はユーザーインタラクションを体系的に改善し、フォームのコンバージョンを増やすことができます。 低いビュー、低いコンバージョン、低いナビゲーション率などの問題を検出することで、チームはフォームのデザイン、配置、コンテンツに対してデータ駆動型の調整を行うことができます。 これらの最適化により、ユーザーエクスペリエンスが効率化され、訪問者がフォームを完了して目的の結果を達成しやすくなります。Forms Optimization のインサイトを使用すると、パフォーマンスギャップの継続的な特定と解決がサポートされ、より効果的なフォームとビジネス成果の向上につながります。
+Formsを最適化するオポチュニティを活用すると、組織はユーザーインタラクションを体系的に改善し、フォームのコンバージョンを増やすことができます。 低いビュー、低いコンバージョン、低いナビゲーション率などの問題を検出することで、チームはフォームのデザイン、配置、コンテンツに対してデータ駆動型の調整を行うことができます。 これらの最適化により、ユーザーエクスペリエンスが効率化され、訪問者がフォームを完了して目的の結果を達成しやすくなります。 Forms Optimization のインサイトを使用すると、パフォーマンスギャップの継続的な特定と解決がサポートされ、より効果的なフォームとビジネス成果の向上につながります。
 
 ## 機会
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/low-views.md
   {title=Low views}
@@ -32,7 +34,7 @@ Formsを最適化するオポチュニティを活用すると、組織はユー
   {title=Low conversions}
   {image=../assets/common/card-bag.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low views">

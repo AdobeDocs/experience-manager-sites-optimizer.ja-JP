@@ -3,10 +3,10 @@ title: Sites Optimizer を使用したフォームの最適化
 description: Sites Optimizer を使用したフォームの最適化について説明します。
 hide: true
 hidefromtoc: true
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 59%
+source-wordcount: '154'
+ht-degree: 60%
 
 ---
 
@@ -18,11 +18,13 @@ ht-degree: 59%
 ![フォームのアクセシビリティの機会](./assets/form-accesibility/hero.png){align="center"}
 
 
-フォームのアクセシビリティの機会は、ユーザーインタラクションを強化し、コンバージョンを増やすために重要です。Web コンテンツアクセシビリティガイドライン（WCAG）への準拠に関するフォームの評価は、視覚、聴覚、認知、運動機能に障害があるユーザーの包括的なエクスペリエンスを確保するのに役立ちます。 この機能は、倫理的および法的要件を満たすだけでなく、フォームの完了率を向上させ、オーディエンスを広げることで、ユーザーエクスペリエンスの向上とより強いビジネス成果をもたらします。
+フォームのアクセシビリティの機会は、ユーザーインタラクションを強化し、コンバージョンを増やすために重要です。 Web コンテンツアクセシビリティガイドライン（WCAG）への準拠に関するフォームの評価は、視覚、聴覚、認知、運動機能に障害があるユーザーの包括的なエクスペリエンスを確保するのに役立ちます。 この機能は、倫理的および法的要件を満たすだけでなく、フォームの完了率を向上させ、オーディエンスを広げることで、ユーザーエクスペリエンスの向上とより強いビジネス成果をもたらします。
 
 ## 機会
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/low-views.md
   {title=Low views}
@@ -31,7 +33,7 @@ ht-degree: 59%
   {title=Low conversions}
   {image=../assets/common/card-bag.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms Accessibility issues">

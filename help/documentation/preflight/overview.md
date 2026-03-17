@@ -1,7 +1,7 @@
 ---
 title: プリフライトのオポチュニティ
 description: Sites Optimizerでのプリフライトの機会に関するドキュメント。
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 81%
@@ -21,7 +21,9 @@ Web サイトでプリフライト拡張機能を設定するには、[プリフ
 
 ## プリフライトのオポチュニティ
 
-<!-- CARDS
+<!--
+CARDS
+
 * ./accessibility.md
 * ./h1-count.md
 * ./links.md

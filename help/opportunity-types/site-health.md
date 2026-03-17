@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer を使用したサイトの健全性の最適化
 description: Sites Optimizer を使用してサイトの健全性を向上させる方法について説明します。
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '126'
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+workflow-type: tm+mt
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
@@ -13,11 +13,13 @@ ht-degree: 100%
 
 ![サイトの健全性の機会](./assets/site-health/hero.png){align="center"}
 
-AEM Sites Optimizer でサイトの健全性を維持することは、高速で信頼性が高く、パフォーマンスの高いデジタルエクスペリエンスを提供するために不可欠です。コア web バイタルなどの改善の機会を特定することで、チームはページ速度、インタラクティブ機能、視覚的な安定性を最適化し、ユーザー エクスペリエンスと検索エンジンのランキングを向上させることができます。適切に管理されたサイトでは、よりスムーズなナビゲーション、より優れたエンゲージメント、全体的なパフォーマンスの向上が確保されます。AEM Sites Optimizer のインサイトを使用することで、継続的な監視と改善が可能になります。これにより、長期にわたってサイトの効率性と有効性を確保します。
+AEM Sites Optimizer でサイトの健全性を維持することは、高速で信頼性が高く、パフォーマンスの高いデジタルエクスペリエンスを提供するために不可欠です。 コア web バイタルなどの改善の機会を特定することで、チームはページ速度、インタラクティブ機能、視覚的な安定性を最適化し、ユーザー エクスペリエンスと検索エンジンのランキングを向上させることができます。 適切に管理されたサイトでは、よりスムーズなナビゲーション、より優れたエンゲージメント、全体的なパフォーマンスの向上が確保されます。 AEM Sites Optimizer のインサイトを使用することで、継続的な監視と改善が可能になります。これにより、長期にわたってサイトの効率性と有効性を確保します。
 
 ## 機会
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/opportunities/core-web-vitals.md
   {title=Core web vitals}

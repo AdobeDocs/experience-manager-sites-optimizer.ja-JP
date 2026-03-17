@@ -1,8 +1,8 @@
 ---
 title: Sites Optimizer を使用したトラフィック獲得の最適化
 description: Sites Optimizer を使用してトラフィック獲得を増やす方法について説明します。
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -13,11 +13,13 @@ ht-degree: 100%
 
 ![トラフィック獲得の商談](./assets/traffic-acquisition/hero.png){align="center"}
 
-トラフィック獲得により、潜在的な顧客が web サイトに誘導され、販売やリード獲得の機会が生まれます。 検索エンジン最適化（SEO）などの戦略を使用することで、企業は検索での表示を向上させ、ユーザーがコンテンツを見つけやすくすることができます。訪問者が安定的に流入することで、ブランド認知度が高まり、信頼が構築されます。また、ユーザーの行動に関する貴重なインサイトも得られます。これらのインサイトは、チームがオファーを調整し、全体的なエクスペリエンスを強化するのに役立ちます。AEM Sites Optimizer のインサイトを使用することで、継続的な最適化が可能になり、時間の経過と共に持続的な成長とコンバージョン率の向上が確保されます。
+トラフィック獲得により、潜在的な顧客が web サイトに誘導され、販売やリード獲得の機会が生まれます。 検索エンジン最適化（SEO）などの戦略を使用することで、企業は検索での表示を向上させ、ユーザーがコンテンツを見つけやすくすることができます。 訪問者が安定的に流入することで、ブランド認知度が高まり、信頼が構築されます。 また、ユーザーの行動に関する貴重なインサイトも得られます。 これらのインサイトは、チームがオファーを調整し、全体的なエクスペリエンスを強化するのに役立ちます。 AEM Sites Optimizer のインサイトを使用することで、継続的な最適化が可能になり、時間の経過と共に持続的な成長とコンバージョン率の向上が確保されます。
 
 ## 機会
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/broken-backlinks.md
   {title=Broken backlinks}
@@ -32,7 +34,7 @@ ht-degree: 100%
   {title=Sitemap issues}
   {image=../assets/common/card-relationship.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Broken backlinks">
