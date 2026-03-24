@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: これは、ランディングページに表示されるユーザーガイドの説明です。
-source-git-commit: b73458e4d575547ccb9220105a5f72090431221c
+source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 98%
+source-wordcount: '123'
+ht-degree: 94%
 
 ---
 
@@ -21,12 +21,11 @@ ht-degree: 98%
    + [セキュリティ態勢](/help/opportunity-types/security-posture.md)
    + [フォームの最適化](/help/opportunity-types/form-optimization.md)
    + [フォームのアクセシビリティ](/help/opportunity-types/form-accesibility.md)
-   + [プリフライト](/help/opportunity-types/preflight.md)
 + ドキュメント{#documentation}
    + [概要](/help/documentation/overview.md)
    + [基本](/help/documentation/basics.md)
    + 設定{#set-up}
-      + [Onboard users](/help/documentation/setup/onboard-users.md)
+      + [ユーザーのオンボード](/help/documentation/setup/onboard-users.md)
    + 機会{#opportunities}
       + [概要](/help/documentation/opportunities/overview.md)
       + [アクセシビリティの問題](/help/documentation/opportunities/accessibility-issues.md)
@@ -47,13 +46,16 @@ ht-degree: 98%
       + [サイトマップの問題](/help/documentation/opportunities/sitemap-issues.md)
       + [Web サイト権限](/help/documentation/opportunities/website-permissions.md)
       + [Web サイトの脆弱性](/help/documentation/opportunities/website-vulnerabilities.md)
-   + プリフライトのオポチュニティ{#preflight-opportunities}
+   + プリフライト{#preflight}
       + [概要](/help/documentation/preflight/overview.md)
-      + [基本](/help/documentation/preflight/basics.md)
       + [セットアップ](/help/documentation/preflight/setup.md)
-      + [アクセシビリティ](/help/documentation/preflight/accessibility.md)
-      + [H1 カウント](/help/documentation/preflight/h1-count.md)
-      + [リンク](/help/documentation/preflight/links.md)
-      + [メタデータ](/help/documentation/preflight/meta-data.md)
-      + [読みやすさ](/help/documentation/preflight/readability.md)
+      + [プリフライトにアクセス](/help/documentation/preflight/access-preflight.md)
+      + [監査](/help/documentation/preflight/audits.md)
+      + [監査結果](/help/documentation/preflight/audit-results.md)
+      + 機会{#preflight-opportunities}
+         + [アクセシビリティ](/help/documentation/preflight/opportunities/accessibility.md)
+         + [H1 カウント](/help/documentation/preflight/opportunities/h1-count.md)
+         + [リンク](/help/documentation/preflight/opportunities/links.md)
+         + [メタデータ](/help/documentation/preflight/opportunities/meta-data.md)
+         + [読みやすさ](/help/documentation/preflight/opportunities/readability.md)
    + [設定](/help/documentation/settings.md)
