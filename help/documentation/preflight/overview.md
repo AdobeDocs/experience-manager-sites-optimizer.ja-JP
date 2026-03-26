@@ -1,7 +1,7 @@
 ---
 title: AEM Sites Optimizer Preflight
 description: プリフライトと、公開前に評価される商談タイプについて説明します。
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 40%
@@ -28,7 +28,8 @@ Preflightの使い方は簡単です。 Preflightを設定し、オーサリン�
 
 ## プリフライトのオポチュニティ
 
-<!-- CARDS
+<!--
+CARDS
 
 * ./opportunities/accessibility.md
 * ./opportunities/h1-count.md

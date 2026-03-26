@@ -1,7 +1,7 @@
 ---
 title: AEM Sites Optimizer
 description: Sites Optimizer で web サイトのパフォーマンスを向上 - 速度を改善し、コストを削減し、信頼性を高めてエンゲージメントを向上させます。
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 84%
@@ -17,7 +17,8 @@ Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された
 
 ## Sites Optimizer の基本を学ぶ
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * ./opportunity-types/overview.md
     * {title=Opportunity types}
