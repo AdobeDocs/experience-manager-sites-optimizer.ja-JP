@@ -1,7 +1,7 @@
 ---
 title: AEM Sites Optimizer Preflight
 description: プリフライトと、公開前に評価される商談タイプについて説明します。
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 40%
@@ -21,14 +21,15 @@ AEM Sites Optimizerのプリフライト機能は、コンテンツと構造を�
 
 Preflightの使い方は簡単です。 Preflightを設定し、オーサリング環境で開いて、ページの監査を実行するだけで、Preflightが残りの作業を行います。
 
-1. [&#x200B; プリフライトの設定](./setup.md) - AEM インスタンスにプリフライトを設定する方法について説明します
-1. [&#x200B; プリフライトへのアクセス &#x200B;](./access-preflight.md) - オーサリング環境でプリフライトが表示される場所を確認します
+1. [ プリフライトの設定](./setup.md) - AEM インスタンスにプリフライトを設定する方法について説明します
+1. [ プリフライトへのアクセス ](./access-preflight.md) - オーサリング環境でプリフライトが表示される場所を確認します
 1. [監査の実行](./audits.md) - プリフライト監査を開始する方法を説明します
 1. [監査結果と商談](./audit-results.md) – 監査結果の解釈方法について説明します
 
 ## プリフライトのオポチュニティ
 
-<!-- CARDS
+<!--
+CARDS
 
 * ./opportunities/accessibility.md
 * ./opportunities/h1-count.md

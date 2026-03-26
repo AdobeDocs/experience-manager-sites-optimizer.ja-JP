@@ -1,7 +1,7 @@
 ---
 title: AEM Sites Optimizer
 description: Sites Optimizer で web サイトのパフォーマンスを向上 - 速度を改善し、コストを削減し、信頼性を高めてエンゲージメントを向上させます。
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 84%
@@ -11,13 +11,14 @@ ht-degree: 84%
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455086/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
 Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された web サイトのパフォーマンスを分析して向上させるクラウドベースのサービスです。 Sites Optimizer により、ページの読み込み、コンポーネントの使用、コンテンツの配信での改善領域が特定されます。 この機能は、web サイトのパフォーマンスを向上させながら、メンテナンスと更新のコストを削減するのに役立ちます。 Sites Optimizer を使用すると、エンゲージメントとコンバージョン率の維持に重要な、スムーズで信頼性の高いオンラインエクスペリエンスを確保できます。
 
 ## Sites Optimizer の基本を学ぶ
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * ./opportunity-types/overview.md
     * {title=Opportunity types}
@@ -108,13 +109,13 @@ Adobe Experience Manager（AEM）Sites Optimizer は、AEM 上に作成された
 
 <!--
 CARDS 
-* https://helpx.adobe.com/jp/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
     {target=_blank}
     {cta=Learn more}
-* https://business.adobe.com/jp/products/experience-manager/sites/optimizer.html
+* https://business.adobe.com/products/experience-manager/sites/optimizer.html
     {title=Explore the capabilities of AEM Sites Optimizer}
     {description=Learn what AEM Site Optimizer can do for your company.}
     {image=./assets/home/business-adobe-com.png}
