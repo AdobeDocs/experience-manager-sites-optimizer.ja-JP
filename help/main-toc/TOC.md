@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: これは、ランディングページに表示されるユーザーガイドの説明です。
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 94%
+ht-degree: 91%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 94%
    + [エンゲージメント](/help/opportunity-types/engagement.md)
    + [サイトの健全性](/help/opportunity-types/site-health.md)
    + [セキュリティ態勢](/help/opportunity-types/security-posture.md)
-   + [フォームの最適化](/help/opportunity-types/form-optimization.md)
-   + [フォームのアクセシビリティ](/help/opportunity-types/form-accesibility.md)
+   + {hide-from-toc}[フォームの最適化](/help/opportunity-types/form-optimization.md)
+   + {hide-from-toc}[フォームのアクセシビリティ](/help/opportunity-types/form-accesibility.md)
 + ドキュメント{#documentation}
    + [概要](/help/documentation/overview.md)
    + [基本](/help/documentation/basics.md)
@@ -39,10 +39,10 @@ ht-degree: 94%
       + [無効または欠落しているメタデータ](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [欠落しているまたは無効な構造化データ](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [欠落している代替テキスト](/help/documentation/opportunities/missing-alt-text.md)
-      + [フォームの低コンバージョン](/help/documentation/opportunities/low-conversions.md)
-      + [フォームの少ない閲覧数](/help/documentation/opportunities/low-views.md)
-      + [フォームの低ナビゲーション](/help/documentation/opportunities/low-navigation.md)
-      + [フォームのアクセシビリティの問題](/help/documentation/opportunities/forms-accessibility-issues.md)
+      + {hide-from-toc}[フォームの低コンバージョン](/help/documentation/opportunities/low-conversions.md)
+      + {hide-from-toc}[フォームの少ない閲覧数](/help/documentation/opportunities/low-views.md)
+      + {hide-from-toc}[フォームの低ナビゲーション](/help/documentation/opportunities/low-navigation.md)
+      + {hide-from-toc}[Formsのアクセシビリティに関する問題](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [サイトマップの問題](/help/documentation/opportunities/sitemap-issues.md)
       + [Web サイト権限](/help/documentation/opportunities/website-permissions.md)
       + [Web サイトの脆弱性](/help/documentation/opportunities/website-vulnerabilities.md)
