@@ -22,7 +22,7 @@ AEM Sites Optimizerは、これらの問題の影響を受けるページを検�
 
 ![コア web バイタルの自動特定](./assets/core-web-vitals/auto-identify.png){align="center"}
 
-AEM Sites Optimizerは、[運用テレメトリ ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)を使用して、LCP （Largest Contentful Paint）、CLS （Cumulative Layout Shift）、INP （Interaction to Next Paint）などのCore Web Vitals指標のリグレッションを検出し、サイトパフォーマンスを継続的に監視します。 実際の利用者データを利用して、パフォーマンスの回帰を特定し、ユーザーエクスペリエンスへの影響にもとづいて問題の優先順位を付けます。
+AEM Sites Optimizerは、[運用テレメトリ &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)を使用して、LCP （Largest Contentful Paint）、CLS （Cumulative Layout Shift）、INP （Interaction to Next Paint）などのCore Web Vitals指標のリグレッションを検出し、サイトパフォーマンスを継続的に監視します。 実際の利用者データを利用して、パフォーマンスの回帰を特定し、ユーザーエクスペリエンスへの影響にもとづいて問題の優先順位を付けます。
 
 AEM Sites Optimizerには、現在のすべての問題のリストが、モバイルとデスクトップで詳細に表示されます。 **ページ**&#x200B;列は、影響を受けるページのエントリを示し、問題はLCP、INP、CLSによって分類されます。
 
