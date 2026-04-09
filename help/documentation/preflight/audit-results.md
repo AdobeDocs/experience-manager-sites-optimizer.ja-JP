@@ -24,13 +24,13 @@ AEMのプリフライトダイアログの上部には、全体的な監査結�
 * **2/3より多い完了**&#x200B;の緑
 * 監査がまだ&#x200B;**実行中**&#x200B;の間は青
 
-使用可能な商談タイプの完全なリストと、それらの対応方法を参照してください](./overview.md#preflight-opportunities)。[
+使用可能な商談タイプの完全なリストと、それらの対応方法を参照してください[&#128279;](./overview.md#preflight-opportunities)。
 
 ## 問題に移動し、提案を適用します
 
 監査が完了したら、特定された問題にすばやく移動し、AIが生成した提案をプレビューで直接適用できます。
 
-![ プリフライトプレビューのハイライト表示とAIの提案パネル ](./assets/audit-results/highlight-issue.png){align="center"}
+![&#x200B; プリフライトプレビューのハイライト表示とAIの提案パネル &#x200B;](./assets/audit-results/highlight-issue.png){align="center"}
 
 ### イシューに移動
 
