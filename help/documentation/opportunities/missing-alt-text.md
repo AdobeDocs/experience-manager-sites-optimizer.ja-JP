@@ -2,10 +2,10 @@
 title: 欠落している代替テキストドキュメント
 description: 欠落している代替テキストの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: ba3f15903a3f551bd64351a3bb002b43cf5cb2cd
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 36%
+source-wordcount: '694'
+ht-degree: 37%
 
 ---
 
@@ -67,8 +67,20 @@ AI 生成の提案に同意できない場合は、**編集アイコン** を選
 
 更新は、サポートされているバージョンで管理され、可視性とロールバック容量が提供されます。 これにより、代替テキストの更新が正確に適用され、既存の実装に沿って、ガバナンスおよびアクセシビリティ標準に準拠して行われるようになります。
 
-AEM Sites Optimizerでは、設定に基づいて代替テキストの更新が自動的に適用されます。
+AEM Sites Optimizerでは、次のように、設定に基づいて代替テキストの更新が自動的に適用されます。
 
-* **Edge Delivery Services** - ソースドキュメント（Google DocsやSharePointなど）を更新します。
-* **AEM as a Cloud Service** - バージョン管理とフォールバックのサポートを利用して、Content API経由で直接更新を書き込みます。
-* **デジタルアセット管理（オプション）** – 該当する場合は、アセットレベルの代替テキストを更新します。
+>[!BEGINTABS]
+
+>[!TAB Edge Delivery Services]
+
+ソースドキュメント（Google DocsやSharePointなど）を更新します。
+
+>[!TAB AEM as a Cloud Service]
+
+バージョン管理とフォールバックのサポートにより、Content APIで直接更新を書き込みます。
+
+>[!TAB  デジタルアセット管理（オプション） ]
+
+該当する場合、アセットレベルの代替テキストを更新します。
+
+>[!ENDTABS]
