@@ -3,7 +3,7 @@ title: フォームのアクセシビリティの問題の機会ドキュメン�
 description: フォームのアクセシビリティの問題の機会と、これを使用して web サイトのフォームのアクセシビリティとユーザーエクスペリエンスを向上させる方法について説明します。
 badgeFormOptimization: label="フォームの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="フォームの最適化"
 hide: true
-source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
+source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 65%
