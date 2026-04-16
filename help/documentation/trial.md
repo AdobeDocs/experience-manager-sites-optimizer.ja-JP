@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer体験版
 description: 既存のAEM Sitesのお客様向けのAEM Sites Optimizer体験版を開始します。
-source-git-commit: 0c9acea024f436166c467d55a3d3697f3eaf08b6
+source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 15%
@@ -23,7 +23,7 @@ ht-degree: 15%
 
 体験版を開始するには、次の手順に従います。
 
-1. AEM Sites IMS組織IDを使用して[www.sitesoptimizer.now](https://www.sitesoptimizer.now)にログインします。
+1. AEM Sites IMS組織IDを使用して[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)にログインします。
 2. ページビュー、読み込み時間、エンゲージメント率などの主要指標と、効果ごとに優先順位が付けられた上位の最適化機会を表示できます。
 3. 利用できる3つの商談タイプについて説明します。[壊れたバックリンク &#x200B;](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
 4. 各機会について、特定された3つまでの問題を確認します。 AIが生成したレコメンデーションを使用して、AEMに直接最適化をデプロイする準備が整いました。
@@ -56,7 +56,7 @@ AEM Sites Optimizer体験版に関するよくある質問への回答につい�
 +++
 +++体験版にアクセスするにはどうすればよいですか？
 
-[www.sitesoptimizer.now](https://www.sitesoptimizer.now)に移動し、AEM Sites IMS組織IDを使用してログインします。
+[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)に移動し、AEM Sites IMS組織IDを使用してログインします。
 
 +++
 +++裁判には費用がかかりますか。
