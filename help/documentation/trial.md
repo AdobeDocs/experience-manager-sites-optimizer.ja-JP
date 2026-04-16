@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer体験版
 description: 既存のAEM Sitesのお客様向けのAEM Sites Optimizer体験版を開始します。
-source-git-commit: 0c9acea024f436166c467d55a3d3697f3eaf08b6
+source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 15%
@@ -13,7 +13,7 @@ ht-degree: 15%
 
 既存のAEM Sitesのお客様（Edge Delivery Services、Cloud Services、Managed Services）に対するこの体験版を使用して、Sites Optimizerを開始します。 ドメインデータは既にオンボーディングされているため、すぐに最適化を開始できます。 以下のビデオでは、体験版の概要と始め方を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -23,9 +23,9 @@ ht-degree: 15%
 
 体験版を開始するには、次の手順に従います。
 
-1. AEM Sites IMS組織IDを使用して[www.sitesoptimizer.now](https://www.sitesoptimizer.now)にログインします。
+1. AEM Sites IMS組織IDを使用して[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)にログインします。
 2. ページビュー、読み込み時間、エンゲージメント率などの主要指標と、効果ごとに優先順位が付けられた上位の最適化機会を表示できます。
-3. 利用できる3つの商談タイプについて説明します。[壊れたバックリンク &#x200B;](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
+3. 利用できる3つの商談タイプについて説明します。[壊れたバックリンク ](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
 4. 各機会について、特定された3つまでの問題を確認します。 AIが生成したレコメンデーションを使用して、AEMに直接最適化をデプロイする準備が整いました。
 5. いつでもフルライセンスにアップグレードすることで、より多くの機会を獲得できます。
 
@@ -33,7 +33,7 @@ ht-degree: 15%
 
 以下の項目が試験に含まれています。
 
-* 3つの商談タイプ：[壊れたバックリンク &#x200B;](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
+* 3つの商談タイプ：[壊れたバックリンク ](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
 * 毎月最大3つのイシューを割り当てます。
 * 課題ごとの完全なワークフロー：自動識別、自動提案、自動最適化
    * **自動識別** – 複数のデータソースを使用して、サイト全体で問題を検出します。
@@ -56,7 +56,7 @@ AEM Sites Optimizer体験版に関するよくある質問への回答につい�
 +++
 +++体験版にアクセスするにはどうすればよいですか？
 
-[www.sitesoptimizer.now](https://www.sitesoptimizer.now)に移動し、AEM Sites IMS組織IDを使用してログインします。
+[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)に移動し、AEM Sites IMS組織IDを使用してログインします。
 
 +++
 +++裁判には費用がかかりますか。
