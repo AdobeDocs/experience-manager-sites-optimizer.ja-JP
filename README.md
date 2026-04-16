@@ -1,5 +1,5 @@
 ---
-source-git-commit: 26f63911540206e1704a9989267d9981fa10a22f
+source-git-commit: 5a3b06748915066f567d5aa6672a412d4db66e0f
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 4%
@@ -14,4 +14,3 @@ ht-degree: 4%
 * [contributing.md](contributing.md)このドキュメントに貢献する方法の概要を説明します。
 * [guidelines.md](guidelines.md)投稿で期待される内容と、ドキュメントの投稿を作成する方法の概要について説明します。
 * [行動規範.md](code-of-conduct.md)このドキュメントプロジェクトに貢献する際にアドビが期待する行動の標準の概要について説明します。
-

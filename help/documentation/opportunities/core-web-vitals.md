@@ -2,10 +2,10 @@
 title: コア web バイタルの機会ドキュメント
 description: コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。
 badgeSiteHealth: label="サイトの健全性" type="Caution" url="../../opportunity-types/site-health.md" tooltip="サイトの健全性"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 3a5354a8306c8700bdf63858da70f26b5c72e58d
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 10%
+source-wordcount: '550'
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ AEM Sites Optimizerは、これらの問題の影響を受けるページを検�
 
 ![コア web バイタルの自動特定](./assets/core-web-vitals/auto-identify.png){align="center"}
 
-AEM Sites Optimizerは、[運用テレメトリ &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)を使用して、LCP （Largest Contentful Paint）、CLS （Cumulative Layout Shift）、INP （Interaction to Next Paint）などのCore Web Vitals指標のリグレッションを検出し、サイトパフォーマンスを継続的に監視します。 実際の利用者データを利用して、パフォーマンスの回帰を特定し、ユーザーエクスペリエンスへの影響にもとづいて問題の優先順位を付けます。
+AEM Sites Optimizerは、[運用テレメトリ ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)を使用して、LCP （Largest Contentful Paint）、CLS （Cumulative Layout Shift）、INP （Interaction to Next Paint）などのCore Web Vitals指標のリグレッションを検出し、サイトパフォーマンスを継続的に監視します。 実際の利用者データを利用して、パフォーマンスの回帰を特定し、ユーザーエクスペリエンスへの影響にもとづいて問題の優先順位を付けます。
 
 AEM Sites Optimizerには、現在のすべての問題のリストが、モバイルとデスクトップで詳細に表示されます。 **ページ**&#x200B;列は、影響を受けるページのエントリを示し、問題はLCP、INP、CLSによって分類されます。
 
@@ -38,7 +38,7 @@ AEM Sites Optimizerには、現在のすべての問題のリストが、モバ�
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![コア web バイタルの機会の自動最適化](./assets/core-web-vitals/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
 
 レコメンデーションがレビューおよび承認されたら、**最適化をデプロイ**&#x200B;をクリックできます。 AEM Sites Optimizerは、特定された問題に基づいてコードパッチを生成し、バージョン管理プロセスを通じて利用できるようにします。 最適化プロセスには、次の手順が含まれます。
 
