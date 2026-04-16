@@ -38,7 +38,7 @@ AEM Sites Optimizerには、現在のすべての問題のリストが、モバ�
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483372/?captions=jpn&learn=on&enablevpops)
 
 レコメンデーションがレビューおよび承認されたら、**最適化をデプロイ**&#x200B;をクリックできます。 AEM Sites Optimizerは、特定された問題に基づいてコードパッチを生成し、バージョン管理プロセスを通じて利用できるようにします。 最適化プロセスには、次の手順が含まれます。
 

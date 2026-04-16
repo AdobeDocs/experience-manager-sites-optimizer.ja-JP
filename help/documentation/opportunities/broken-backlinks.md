@@ -66,7 +66,7 @@ AI 生成の提案に同意できない場合は、**編集アイコン** を選
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483254/?captions=jpn&learn=on&enablevpops)
 
 提案をレビューして承認したら、**最適化をデプロイ**&#x200B;をクリックできます。 次に、AEM Sites Optimizerは、実装内でのリダイレクトの管理方法に基づいて、オーサリング環境に修正を適用します。 その後、AEM オーサーは、コンテンツ管理システム（CMS）から変更内容を公開できます。
 
