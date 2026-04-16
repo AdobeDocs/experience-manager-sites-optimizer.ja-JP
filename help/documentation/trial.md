@@ -25,7 +25,7 @@ ht-degree: 15%
 
 1. AEM Sites IMS組織IDを使用して[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)にログインします。
 2. ページビュー、読み込み時間、エンゲージメント率などの主要指標と、効果ごとに優先順位が付けられた上位の最適化機会を表示できます。
-3. 利用できる3つの商談タイプについて説明します。[壊れたバックリンク ](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
+3. 利用できる3つの商談タイプについて説明します。[壊れたバックリンク &#x200B;](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
 4. 各機会について、特定された3つまでの問題を確認します。 AIが生成したレコメンデーションを使用して、AEMに直接最適化をデプロイする準備が整いました。
 5. いつでもフルライセンスにアップグレードすることで、より多くの機会を獲得できます。
 
@@ -33,7 +33,7 @@ ht-degree: 15%
 
 以下の項目が試験に含まれています。
 
-* 3つの商談タイプ：[壊れたバックリンク ](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
+* 3つの商談タイプ：[壊れたバックリンク &#x200B;](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
 * 毎月最大3つのイシューを割り当てます。
 * 課題ごとの完全なワークフロー：自動識別、自動提案、自動最適化
    * **自動識別** – 複数のデータソースを使用して、サイト全体で問題を検出します。
