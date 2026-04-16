@@ -13,7 +13,7 @@ ht-degree: 15%
 
 既存のAEM Sitesのお客様（Edge Delivery Services、Cloud Services、Managed Services）に対するこの体験版を使用して、Sites Optimizerを開始します。 ドメインデータは既にオンボーディングされているため、すぐに最適化を開始できます。 以下のビデオでは、体験版の概要と始め方を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
 
 >[!TIP]
 >
