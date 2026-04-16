@@ -2,10 +2,10 @@
 title: コア web バイタルの機会ドキュメント
 description: コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。
 badgeSiteHealth: label="サイトの健全性" type="Caution" url="../../opportunity-types/site-health.md" tooltip="サイトの健全性"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 3a5354a8306c8700bdf63858da70f26b5c72e58d
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 10%
+source-wordcount: '550'
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ AEM Sites Optimizerには、現在のすべての問題のリストが、モバ�
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![コア web バイタルの機会の自動最適化](./assets/core-web-vitals/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483372/?captions=jpn&learn=on&enablevpops)
 
 レコメンデーションがレビューおよび承認されたら、**最適化をデプロイ**&#x200B;をクリックできます。 AEM Sites Optimizerは、特定された問題に基づいてコードパッチを生成し、バージョン管理プロセスを通じて利用できるようにします。 最適化プロセスには、次の手順が含まれます。
 

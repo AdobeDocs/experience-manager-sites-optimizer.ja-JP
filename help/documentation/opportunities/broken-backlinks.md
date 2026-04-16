@@ -2,7 +2,7 @@
 title: 破損したバックリンクの機会ドキュメント
 description: 破損したバックリンクの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。
 badgeTrafficAcquisition: label="トラフィックの獲得" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="トラフィックの獲得"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 643a639a233417b3295b7b66c1a6a12ef37abab0
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 33%
@@ -65,6 +65,8 @@ AI 生成の提案に同意できない場合は、**編集アイコン** を選
 ## 自動最適化
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483254/?captions=jpn&learn=on&enablevpops)
 
 提案をレビューして承認したら、**最適化をデプロイ**&#x200B;をクリックできます。 次に、AEM Sites Optimizerは、実装内でのリダイレクトの管理方法に基づいて、オーサリング環境に修正を適用します。 その後、AEM オーサーは、コンテンツ管理システム（CMS）から変更内容を公開できます。
 

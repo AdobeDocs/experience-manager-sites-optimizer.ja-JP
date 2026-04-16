@@ -2,9 +2,9 @@
 title: 欠落している代替テキストドキュメント
 description: 欠落している代替テキストの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
-source-git-commit: ba3f15903a3f551bd64351a3bb002b43cf5cb2cd
+source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '689'
 ht-degree: 37%
 
 ---
@@ -55,7 +55,7 @@ AI 生成の提案に同意できない場合は、**編集アイコン** を選
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![欠落している代替テキストの自動最適化](./assets/missing-alt-text/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483265/?captions=jpn&learn=on&enablevpops)
 
 提案をレビューして承認したら、**最適化をデプロイ**&#x200B;をクリックできます。 その後、AEM Sites Optimizerは、実装でのalt テキストの管理方法に基づいて、オーサリング環境に修正を適用します。 その後、AEM オーサーは、コンテンツ管理システム（CMS）から変更内容を公開できます。
 
