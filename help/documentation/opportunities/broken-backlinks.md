@@ -22,7 +22,7 @@ ht-degree: 30%
 
 <!--![Auto-identify broken backlinks](./assets/broken-backlinks/auto-identify.png){align="center"}-->
 
-AEM Sites Optimizerは、外部データソースを継続的にスキャンし、サイト上の404 ページ以外のページを指すバックリンクを検出します。 データは、Google Search Console、[Operational Telemetry](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)、サードパーティのSEO プラットフォームなど、複数のソースから集約されます。 自動識別オポチュニティは、壊れたURLにリンクしている外部ドメインを特定し、ドメイン権限や予想されるトラフィックおよびリンクのエクイティ損失などの影響に基づいて優先順位を付けます。
+AEM Sites Optimizerは、外部データソースを継続的にスキャンし、サイト上の404 ページ以外のページを指すバックリンクを検出します。 データは、Google Search Console、[Operational Telemetry](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)、サードパーティのSEO プラットフォームなど、複数のソースから集約されます。 自動識別オポチュニティは、壊れたURLにリンクしている外部ドメインを特定し、ドメイン権限や予想されるトラフィックおよびリンクのエクイティ損失などの影響に基づいて優先順位を付けます。
 
 このオポチュニティには、次の詳細を含む、特定されたすべての問題が一覧表示されます。
 
