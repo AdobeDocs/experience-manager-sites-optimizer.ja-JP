@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer の設定
 description: Sites Optimizer を設定し、他のツールと統合する方法について説明します。
-source-git-commit: 93f802beee074f4de2f2438c85c2880def5aad69
+source-git-commit: b71d5510162864ee76931cf754164ea637cadd92
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '749'
 ht-degree: 12%
 
 ---
@@ -41,8 +41,6 @@ AEM Sites Optimizerで、**Settings → Connect to AEM Sites**&#x200B;に移動�
 
 - **Content Source URL** — EDS サイトをバックアップするSharePoint フォルダーまたはGoogle Drive フォルダーのURL。例：
   `https://drive.google.com/drive/folders/...` か `https://myorg.sharepoint.com/...` のどちらかにする必要があります。
-
-このURLは、EDS サイトの`fstab.yaml`で設定されている内容と一致する必要があります。
 
 Content SourceのURLを入力すると、AEM Sites Optimizerがコンテンツソースの種類を検出し、以下の関連するアクセス手順を表示します。
 
