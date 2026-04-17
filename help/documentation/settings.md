@@ -88,7 +88,7 @@ Content Source URLで組織独自のSharePoint ドメインを使用している
 
 ##### ステップ 2c - クライアントシークレットの作成
 
-![ アプリ登録用のAzure証明書とシークレットのページ ](./assets/settings/create-credentials.png){align="center"}
+![&#x200B; アプリ登録用のAzure証明書とシークレットのページ &#x200B;](./assets/settings/create-credentials.png){align="center"}
 
 1. **証明書と秘密鍵→新しいクライアント秘密鍵**&#x200B;に移動します。
 2. 説明と有効期限を設定し、**追加**&#x200B;をクリックします。
@@ -128,7 +128,7 @@ POST https://graph.microsoft.com/v1.0/sites/{siteId}/permissions
 
 ##### ステップ 2e - AEM Sites Optimizerに資格情報を入力する
 
-![SharePointに接続ダイアログに表示されたAEM Sitesの資格情報フィールド ](./assets/settings/add-sharepoint-credentials.png){align="center"}
+![SharePointに接続ダイアログに表示されたAEM Sitesの資格情報フィールド &#x200B;](./assets/settings/add-sharepoint-credentials.png){align="center"}
 
 **AEM Sitesに接続** ダイアログに戻り、**SharePoint経由のコンテンツリポジトリ接続**&#x200B;に次のように入力します。
 
