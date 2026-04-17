@@ -2,23 +2,25 @@
 title: 欠落している代替テキストドキュメント
 description: 欠落している代替テキストの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
-source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
+source-git-commit: fd992e5f4508ccd4236757167a16c744d98cc6ae
 workflow-type: tm+mt
-source-wordcount: '689'
-ht-degree: 37%
+source-wordcount: '669'
+ht-degree: 35%
 
 ---
 
 
 # 欠落している代替テキストの機会
 
-![欠落している代替テキストの機会](./assets/missing-alt-text/hero.png){align="center"}
+<!--![Missing alt text opportunity](./assets/missing-alt-text/hero.png){align="center"}-->
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483251/?learn=on&enablevpops)
 
 欠落している代替テキストオポチュニティは、Web サイト上の、説明的な代替テキストを持たない画像を識別します。 代替テキストがなければ、スクリーンリーダーを使用しているユーザーはビジュアルコンテンツを解釈できず、アクセシビリティの壁が生じます。 また、検索エンジンが画像を理解してインデックスを作成する方法も制限され、コンテンツの見つけやすさと検索パフォーマンスが低下します。 AEM Sites Optimizerは、欠落しているalt テキストの問題を特定し、特定のAI レコメンデーションを提供し、ワンクリックで修正できるデプロイメントを単一の一元的なビューで実現します。
 
 ## 自動特定
 
-![欠落している代替テキストの自動特定](./assets/missing-alt-text/auto-identify.png){align="center"}
+<!--![Auto-identify missing alt text](./assets/missing-alt-text/auto-identify.png){align="center"}-->
 
 AEM Sites Optimizerは、サイトクロール、リアルユーザートラフィックデータ、AI分析を組み合わせたマルチステップ監査を使用して、web サイトをスキャンし、代替テキストを必要とするものの、定義されていない画像を特定します。 また、ページ上の画像を評価し、代替テキストが必要かどうかを判断します。ただし、web コンテンツアクセシビリティガイドライン（WCAG）に従って、装飾的な画像や有益でない画像は除外されます。 画像は、アクセシビリティとSEOに最も大きな影響を与える修正を優先して、ページ内での役割と関連性に基づいて分析されます。
 
@@ -29,7 +31,7 @@ AEM Sites Optimizerは、サイトクロール、リアルユーザートラフ�
 
 ## 自動提案
 
-![欠落している代替テキストの自動提案](./assets/missing-alt-text/auto-suggest.png){align="center"}
+<!--![Auto-suggest missing alt text](./assets/missing-alt-text/auto-suggest.png){align="center"}-->
 
 特定された各問題について、AEM Sites Optimizerは画像の説明的な代替テキストを提案します。 AI ビジョンモデルを使用して画像を分析し、ページ内での画像のコンテンツと役割を反映した説明を生成します。 レコメンデーションは簡潔で関連性が高く、アクセシビリティのベストプラクティスに沿っています。 各提案は、適用前にレビューおよび編集できます。
 
@@ -37,7 +39,7 @@ AEM Sites Optimizerは、サイトクロール、リアルユーザートラフ�
 
 >[!TAB 欠落している代替テキストの編集]
 
-![欠落している代替テキストの編集](./assets/missing-alt-text/edit-alt-text-value.png){align="center"}
+<!--![Edit missing alt text](./assets/missing-alt-text/edit-alt-text-value.png){align="center"}-->
 
 AI 生成の提案に同意できない場合は、**編集アイコン** を選択して、提案された代替テキストを編集できます。 この機能により、画像に最も適しているテキストを手動で調整できます。 編集ウィンドウには以下が含まれます。
 
@@ -53,9 +55,7 @@ AI 生成の提案に同意できない場合は、**編集アイコン** を選
 
 ## 自動最適化
 
-[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
-
->[!VIDEO](https://video.tv.adobe.com/v/3483265/?captions=jpn&learn=on&enablevpops)
+<!--[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}-->
 
 提案をレビューして承認したら、**最適化をデプロイ**&#x200B;をクリックできます。 その後、AEM Sites Optimizerは、実装でのalt テキストの管理方法に基づいて、オーサリング環境に修正を適用します。 その後、AEM オーサーは、コンテンツ管理システム（CMS）から変更内容を公開できます。
 
