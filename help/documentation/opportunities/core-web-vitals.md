@@ -14,7 +14,7 @@ ht-degree: 6%
 
 <!--![core web vitals opportunity](./assets/core-web-vitals/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483372/?captions=jpn&learn=on&enablevpops)
 
 Core Web Vitalsのオポチュニティは、web サイト上で、ユーザーエクスペリエンスやオーガニック検索のパフォーマンスに対して、パフォーマンスが低いページを特定します。 これらの問題は、カスタムフォント、最適化されていないJavaScriptの依存関係、サードパーティのスクリプトなどの要因から発生する可能性があります。 Core Web Vitalsは、コンテンツの読み込み速度、ページレイアウトの安定性、オーディエンスのインタラクションに対するページのレスポンスを測定します。
 

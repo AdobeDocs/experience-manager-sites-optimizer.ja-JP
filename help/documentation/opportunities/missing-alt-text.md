@@ -14,7 +14,7 @@ ht-degree: 35%
 
 <!--![Missing alt text opportunity](./assets/missing-alt-text/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483251/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483265/?captions=jpn&learn=on&enablevpops)
 
 欠落している代替テキストオポチュニティは、Web サイト上の、説明的な代替テキストを持たない画像を識別します。 代替テキストがなければ、スクリーンリーダーを使用しているユーザーはビジュアルコンテンツを解釈できず、アクセシビリティの壁が生じます。 また、検索エンジンが画像を理解してインデックスを作成する方法も制限され、コンテンツの見つけやすさと検索パフォーマンスが低下します。 AEM Sites Optimizerは、欠落しているalt テキストの問題を特定し、特定のAI レコメンデーションを提供し、ワンクリックで修正できるデプロイメントを単一の一元的なビューで実現します。
 
