@@ -1,34 +1,35 @@
 ---
 solution: Experience Manager
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 product: adobe experience manager
 landing-page-name: experience-manager
 landing-page-breadcrumb-title: AEM
 type: Documentation
 description: AEM Sites Optimizerのドキュメント。
 index: true
-git-repo: https://github.com/AdobeDocs/experience-manager-sites-optimizer.ja-JP
+git-repo: https://github.com/AdobeDocs/experience-manager-sites-optimizer.en
 feature-set: Experience Manager Assets,Experience Manager Sites,Experience Manager, Experience Manager Forms, Experience Manager Cloud Manager
 cloud: Experience Cloud
 recommendations: noDisplay
-source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+source-git-commit: ffd43deb5e5e763bd9a0f2cec87ae0ebd8cbe6c3
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: 85
 ht-degree: 2%
 
 ---
 
 
-# 内部使用のメタデータ
+# 内部使用のためのメタデータ
 
-GitHub オーサリングシステムは、次に示す増加する前例に従って、メタデータを階層的に整理します。
+GitHub オーサリングシステムは、メタデータを階層的に整理し、以下の前例を使用します。
 
 1. metadata.md
-1. から C
+1. ToC
 1. 記事
 
-metadata.md ファイルで定義されたメタデータはリポジトリ全体に適用されますが、目次と記事のレベルで上書きできます。 メタデータの上書きは、できるだけ低いレベルで行う必要があります。
+metadata.md ファイルで定義されたメタデータは、リポジトリ全体に適用されますが、ToC レベルとアーティクルレベルで上書きできます。 メタデータの上書きは、可能な限り低いレベルで行う必要があります。
 
-最低限必要なのは、`experience-manager-cloud-service.en` リポジトリ内のメタデータです。
+`experience-manager-cloud-service.en` リポジトリ内のメタデータは、必要最小限です。
 
 metadata.md
 
@@ -51,5 +52,5 @@ ToCs
 
 * `title`
 * `description`
-* `contentOwner` （`/help/assets` 下のコアアセットコンテンツのみ）
+* `contentOwner` （`/help/assets`以下のコアアセットコンテンツに対してのみ）
 
