@@ -18,7 +18,7 @@ ht-degree: 100%
 
 <!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483254/?captions=jpn&learn=on&enablevpops)
 
 破損したバックリンクの機会は、サイト上の存在しない（404）ページを指している外部リンクを特定します。 これらのリンクは、検索エンジンがバックリンクに依存して関連性と信頼性を評価するので、リファラルトラフィックの損失と SEO 価値の低下につながります。 これらの問題は、URL が変更された場合、コンテンツが削除された場合、適切なリダイレクトがないままページが利用できなくなった場合に発生します。 AEM Sites Optimizer は、すべての破損したバックリンクを特定し、特定のAI レコメンデーションを提供し、ワンクリックで修正できるデプロイメントを単一の一元的なビューで実現します。
 
