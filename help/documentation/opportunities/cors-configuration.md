@@ -2,25 +2,30 @@
 title: CORS 設定の機会ドキュメント
 description: CORS 設定の機会と、サイトのセキュリティの脆弱性を特定して修正する方法について説明します。
 badgeSecurityPosture: label="セキュリティ態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="セキュリティ態勢"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+TQID: https://experienceleague.adobe.com/z-8fvRSLN71AnJ4Y6n9TnHGHoOEAAjt8AbVJY9RG-C0
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
-source-wordcount: '193'
+source-wordcount: 199
 ht-degree: 100%
 
 ---
-
 
 # CORS 設定の機会
 
 ![CORS 設定の機会](./assets/cors-configuration/hero.png){align="center"}
 
-不正なデータアクセスから web アプリケーションを保護するには、クロスオリジンリソース共有（CORS）を適切に設定することが不可欠です。`Access-Control-Allow-Origin` ヘッダーを `*` に設定すると、任意のドメインが応答をリクエストして受信できるので、機密情報が攻撃者に公開される可能性があります。この機能により、信頼できるドメインの制御された許可リストを実装したり、不要な場合は CORS を無効にしたりすることで、セキュリティを強化する機会が提供されます。安全な CORS 設定を確保すると、承認済みユーザーによるシームレスなアクセスを維持しながら、プライベートコンテンツを保護できます。
+不正なデータアクセスから web アプリケーションを保護するには、クロスオリジンリソース共有（CORS）を適切に設定することが不可欠です。 `Access-Control-Allow-Origin` ヘッダーを `*` に設定すると、任意のドメインが応答をリクエストして受信できるので、機密情報が攻撃者に公開される可能性があります。 この機能により、信頼できるドメインの制御された許可リストを実装したり、不要な場合は CORS を無効にしたりすることで、セキュリティを強化する機会が提供されます。 安全な CORS 設定を確保すると、承認済みユーザーによるシームレスなアクセスを維持しながら、プライベートコンテンツを保護できます。
 
 ## 自動特定
 
 ![CORS 設定の機会の自動特定](./assets/cors-configuration/auto-identify.png){align="center"}
 
-自動特定では、web サイトの CORS の誤った設定をスキャンし、不正アクセスの影響を受けやすい URL を検出します。これらの URL は、次の詳細と共に一番上のテーブルに一覧表示されます。
+自動特定では、web サイトの CORS の誤った設定をスキャンし、不正アクセスの影響を受けやすい URL を検出します。 これらの URL は、次の詳細と共に一番上のテーブルに一覧表示されます。
 
 * **ページ接頭辞** - CORS の誤った設定に対して脆弱な URL パス接頭辞。
 * **ページ例** - 不正アクセスの影響を受けやすい URL の例。

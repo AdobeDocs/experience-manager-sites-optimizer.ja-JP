@@ -1,13 +1,15 @@
 ---
 title: AEM Sites Optimizer
 description: Sites Optimizer で web サイトのパフォーマンスを向上 - 速度を改善し、コストを削減し、信頼性を高めてエンゲージメントを向上させます。
-source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
+TQID: https://experienceleague.adobe.com/tep2UnSJ4BsorZ9caKACfbOFyI1qvM2ZCxhjHd3vcSc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 84%
+source-wordcount: 182
+ht-degree: 100%
 
 ---
-
 
 # AEM Sites Optimizer
 
@@ -48,10 +50,10 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" title="機会タイプ">機会タイプ</a>
                     </p>
-                    <p class="is-size-6">使用可能な Site Optimizer の商談と、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。</p>
+                    <p class="is-size-6">使用可能な Site Optimizer の機会と、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -69,12 +71,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" title="プリフライトドキュメント"> プリフライトドキュメント </a>
+                        <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" title="プリフライトドキュメント">プリフライトドキュメント</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizerのプリフライトと、web ページが公開される前に最適化する方法について説明します。</p>
+                    <p class="is-size-6">Sites Optimizer のプリフライトと、web ページを公開する前に最適化する方法について説明します。</p>
                 </div>
                 <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -92,12 +94,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./documentation/overview.md" target="_blank" rel="referrer" title="Sites Optimizer ドキュメント">Sites Optimizer ドキュメント </a>
+                        <a href="./documentation/overview.md" target="_blank" rel="referrer" title="Sites Optimizer ドキュメント">Sites Optimizer ドキュメント</a>
                     </p>
                     <p class="is-size-6">Sites Optimizer のドキュメントでは、そのすべての機能について説明します。</p>
                 </div>
                 <a href="./documentation/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>

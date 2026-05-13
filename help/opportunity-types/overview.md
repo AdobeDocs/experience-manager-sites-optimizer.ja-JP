@@ -1,13 +1,20 @@
 ---
 title: Sites Optimizer 機会タイプ
 description: Sites Optimizer の主な機会タイプと、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+TQID: https://experienceleague.adobe.com/mtma4uEArQQJu4C3kpdWZy0GR9ySS1TIgx0L9GUrlY4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 92%
+source-wordcount: 348
+ht-degree: 100%
 
 ---
-
 
 # 機会タイプ
 
@@ -24,7 +31,7 @@ AEM Sites Optimizer では、web サイトのパフォーマンス、使いや�
 
 各カテゴリでは、サイトを強化する様々な方法がハイライト表示されます。 1 つのカテゴリでは、訪問者のインタラクションが増加する場合があります。 もう 1 つでは、検出性を向上させる場合があります。 セキュリティの強化やサイトの安定性の維持に焦点を当てるものもあります。 プリフライトは、ページを公開する前に分析および最適化するのに役立ちます。
 
-これらの機会を使用することで、ユーザーエクスペリエンスが向上し、適切なオーディエンスを引き付け、サイトの安全性と信頼性が維持されます。 エンゲージメントとトラフィック獲得を強化することでインタラクションと表示が向上し、強力なセキュリティ態勢とサイトの健全性によって信頼性と安定性が確保されます。 プリフライト分析では、コンテンツが公開前に最適化されていることを確認します。 以下のリンクを探索して、カテゴリ別に整理された商談を確認し、サイトを改善する方法を見つけてください。
+これらの機会を使用することで、ユーザーエクスペリエンスが向上し、適切なオーディエンスを引き付け、サイトの安全性と信頼性が維持されます。 エンゲージメントとトラフィック獲得を強化することでインタラクションと表示が向上し、強力なセキュリティ態勢とサイトの健全性によって信頼性と安定性が確保されます。 プリフライト分析により、公開前にコンテンツが最適化されることが確保されます。 以下のリンクを探索して、カテゴリ別に整理された商談を確認し、サイトを改善する方法を見つけてください。
 
 ## 商談タイプ
 
@@ -65,7 +72,7 @@ CARDS
                     <p class="is-size-6">Sites Optimizer を使用してエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./engagement.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -88,7 +95,7 @@ CARDS
                     <p class="is-size-6">Sites Optimizer を使用してサイトのセキュリティ態勢を向上させる方法について説明します。</p>
                 </div>
                 <a href="./security-posture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -111,7 +118,7 @@ CARDS
                     <p class="is-size-6">Sites Optimizer を使用してサイトの健全性を向上させる方法について説明します。</p>
                 </div>
                 <a href="./site-health.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -134,7 +141,7 @@ CARDS
                     <p class="is-size-6">Sites Optimizer を使用してトラフィック獲得を増やす方法について説明します。</p>
                 </div>
                 <a href="./traffic-acquisition.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -157,7 +164,7 @@ CARDS
                     <p class="is-size-6">フォームの最適化を使用してフォームのコンバージョンを向上させる方法について説明します。</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -180,7 +187,7 @@ CARDS
                     <p class="is-size-6">フォームの最適化を使用してフォームのアクセシビリティを向上させる方法について説明します。</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -203,7 +210,7 @@ CARDS
                     <p class="is-size-6">プリフライト分析と、Sites Optimizer でプリフライトの機会を設定する方法について説明します。</p>
                 </div>
                 <a href="../documentation/preflight/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -212,4 +219,4 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<span class="preview"> Formsの最適化およびForms アクセシビリティ機能は、早期アクセスプログラムで利用できます。 早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>
+<span class="preview">フォームの最適化機能とフォームのアクセシビリティ機能は、早期アクセスプログラムで利用できます。 早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>

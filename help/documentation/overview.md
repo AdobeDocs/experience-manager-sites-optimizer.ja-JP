@@ -1,13 +1,18 @@
 ---
 title: Sites Optimizer ドキュメント
 description: Experience Manager Sites Optimizer ドキュメント。
-source-git-commit: 7784534e1d3628ca18da45c1e95fcce613adc7c3
+TQID: https://experienceleague.adobe.com/Thzxo0-DNTCjk9C0MX7OR2yObUKxbUQDQFV3BtD7kmg
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 82%
+source-wordcount: 145
+ht-degree: 100%
 
 ---
-
 
 # Sites Optimizer ドキュメント
 
@@ -54,7 +59,7 @@ CARDS
                     <p class="is-size-6">Sites Optimizer の基本とその操作方法について説明します。</p>
                 </div>
                 <a href="./basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -77,7 +82,7 @@ CARDS
                     <p class="is-size-6">使用可能なすべての Site Optimizer の機会と、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -100,7 +105,7 @@ CARDS
                     <p class="is-size-6">Sites Optimizer を設定し、他のツールと統合する方法について説明します。</p>
                 </div>
                 <a href="./settings.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -120,10 +125,10 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./trial.md" target="_blank" rel="referrer" title="体験版">体験版</a>
                     </p>
-                    <p class="is-size-6">既存のAEM Sites ユーザー向けの手順、制限、FAQなど、Sites Optimizer体験版を開始します。</p>
+                    <p class="is-size-6">既存のAEM Sites ユーザー向けの手順、制限、FAQ など、Sites Optimizer 体験版を開始します。</p>
                 </div>
                 <a href="./trial.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>

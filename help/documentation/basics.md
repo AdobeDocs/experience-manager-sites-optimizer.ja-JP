@@ -1,13 +1,18 @@
 ---
 title: Site Optimizer の基本
 description: Sites Optimizer の基本とその操作方法について説明します。
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+TQID: https://experienceleague.adobe.com/YnwwraMgmwnA7IuSnFdggMovi-PNgfxYN-rEYGh8V7I
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
-source-wordcount: '511'
+source-wordcount: 532
 ht-degree: 100%
 
 ---
-
 
 # Site Optimizer の基本
 
@@ -19,7 +24,7 @@ Sites Optimizer ダッシュボードには、サイトのパフォーマンス�
 
 ![Site Optimizer ドメインマネージャー](./assets/basics/domain-manager.png){align="center"}
 
-ドメインマネージャーのコンテキストメニューを使用すると、評価および最適化する AEM サイトをドメイン別に選択できます。Sites Optimizer は、[Cloud Manager](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site) に登録されているすべての実稼動 AEM サイトのリストを提供します。
+ドメインマネージャーのコンテキストメニューを使用すると、評価および最適化する AEM サイトをドメイン別に選択できます。 Sites Optimizer は、[Cloud Manager](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site) に登録されているすべての実稼動 AEM サイトのリストを提供します。
 
 ## ナビゲーション
 
@@ -35,7 +40,7 @@ Sites Optimizer ダッシュボードには、サイトのパフォーマンス�
 
 ![Site Optimizer サイトの概要](./assets/basics/site-summary.png){align="center"}
 
-「サイトの概要」セクションでは、サイトのパフォーマンスのスナップショット、Sites Optimizer によって時間の経過と共にサイトがどのように改善されたか、および改善の機会が示されます。主要指標は次のとおりです。
+「サイトの概要」セクションでは、サイトのパフォーマンスのスナップショット、Sites Optimizer によって時間の経過と共にサイトがどのように改善されたか、および改善の機会が示されます。 主要指標は次のとおりです。
 
 * **最適化された機会** - 業績を向上させるために改善された、特定された機会の数。
 * **保留中の機会** - 最適化されていない潜在的な改善点の数。ビジネス上の利益につながる領域を表します。
@@ -48,7 +53,7 @@ Sites Optimizer ダッシュボードには、サイトのパフォーマンス�
 
 ![Site Optimizer の最も影響が大きい機会](./assets/basics/high-impact-opportunities.png){align="center"}
 
-「最も影響が大きい機会」セクションでは、サイトのパフォーマンスに与える潜在的な影響に基づいて、最も重要な保留中の改善の機会がハイライト表示されます。これらの機会はタイプ別に整理されているので、最適化の取り組みの優先順位を簡単に設定できます。
+「最も影響が大きい機会」セクションでは、サイトのパフォーマンスに与える潜在的な影響に基づいて、最も重要な保留中の改善の機会がハイライト表示されます。 これらの機会はタイプ別に整理されているので、最適化の取り組みの優先順位を簡単に設定できます。
 
 キーワード、タグ、URL、[機会タイプ](../opportunity-types/overview.md)で機会をフィルタリングし、最も重要な改善領域に焦点を当てます。
 
@@ -57,7 +62,7 @@ Sites Optimizer ダッシュボードには、サイトのパフォーマンス�
 
 ![Site Optimizer の最も影響が大きい機会](./assets/basics/high-impact-opportunity-details.png){align="center"}
 
-各機会には、問題の簡単な説明、サイトへの潜在的な影響、詳細へのリンクが提供されます。また、最適化されたか、まだ保留中かを示すステータスも確認できます。
+各機会には、問題の簡単な説明、サイトへの潜在的な影響、詳細へのリンクが提供されます。 また、最適化されたか、まだ保留中かを示すステータスも確認できます。
 
 * **機会タイトル** - 問題の概要と、サイトのパフォーマンスに対する潜在的な影響。
 * **最終更新日** - Sites Optimizer では、この日付で新しいデータを使用して機会が最後に更新されました。
