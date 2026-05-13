@@ -2,7 +2,8 @@
 title: プリフライト設定
 description: AEM Sites Optimizer のプリフライト拡張機能を設定する方法について説明します。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 source-git-commit: 511e784d7d484b18942ac4b711df1c802debfec9
 workflow-type: tm+mt
 source-wordcount: 587
@@ -33,7 +34,7 @@ AEM Sites Optimizer のプリフライトの機会を特定するには、プリ
    [https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer Preflight**&#x200B;拡張機能を探します。
 1. 組織のシステム管理者は、この拡張機能を有効にする必要があります。
-1. 拡張機能を有効にした後で、**ユニバーサルエディター**でページを開きます。例：
+1. 拡張機能を有効にした後で、**ユニバーサルエディター**&#x200B;でページを開きます。例：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **プリフライト拡張機能**&#x200B;が&#x200B;**サイドパネル**&#x200B;に表示されます。
 1. 現在のページの&#x200B;**プリフライト監査**&#x200B;を開始するには、サイドパネルから&#x200B;**プリフライト拡張機能**&#x200B;を選択します。
