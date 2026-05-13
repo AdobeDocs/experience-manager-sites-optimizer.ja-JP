@@ -1,24 +1,26 @@
 ---
 title: Sites Optimizer を使用したフォームの最適化
 description: Sites Optimizer を使用したフォームの最適化について説明します。
+TQID: https://experienceleague.adobe.com/6YARKCyeKXDlXPs36QQK97WthDcUBdR3FtAqFFGWofQ
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hide: true
-source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
-workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 64%
+source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+workflow-type: ht
+source-wordcount: 219
+ht-degree: 100%
 
 ---
 
-
 # フォームの最適化の機会
 
-<span class="preview"> Formsの最適化機能は、早期アクセス プログラムで利用できます。 早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>
+<span class="preview">フォームの最適化機能は、早期アクセスプログラムで利用できます。 早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
 ![フォームの最適化の機会](./assets/form-optimization/hero.png){align="center"}
 
-Formsの最適化により、利用者とのインタラクションを体系的に改善し、フォームのコンバージョンを向上させることができます。 閲覧数の低さ、コンバージョン率の低さ、ナビゲーション率の低さなどの問題を検出することで、フォームデザイン、配置、コンテンツに関するデータ主導の調整をおこなうことができます。 これらの最適化により、ユーザーエクスペリエンスが効率化され、訪問者がフォームを完了して目的の結果を達成しやすくなります。 Forms Optimizationから得られるインサイトを活用することで、パフォーマンスギャップを継続的に特定して解決し、より効果的なフォームを作成してビジネス成果を向上させることができます。
+フォームの最適化の機会により、組織はユーザーインタラクションを体系的に改善し、フォームのコンバージョンを増やすことができます。 少ない閲覧数、低コンバージョン率、低ナビゲーション率などの問題を検出することで、チームはフォームのデザイン、配置、コンテンツに対してデータ駆動型の調整を行うことができます。 これらの最適化により、ユーザーエクスペリエンスが効率化され、訪問者がフォームを完了して目的の結果を達成しやすくなります。 フォームの最適化からのインサイトを使用することで、パフォーマンスギャップの継続的な特定と解決をサポートし、より効果的なフォームとビジネス成果の向上を実現します。
 
 ## 機会
 
@@ -54,7 +56,7 @@ CARDS
                     <p class="is-size-6">少ない閲覧数の機会と、これを使用して web サイト上のフォームのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -77,7 +79,7 @@ CARDS
                     <p class="is-size-6">低コンバージョンの機会と、これを使用して web サイト上のフォームのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -100,7 +102,7 @@ CARDS
                     <p class="is-size-6">低ナビゲーションの機会と、これを使用してフォームのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>

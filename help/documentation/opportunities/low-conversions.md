@@ -2,18 +2,20 @@
 title: 低コンバージョンの機会ドキュメント
 description: 低コンバージョンの機会と、これを使用して web サイト上のフォームのエンゲージメントを向上させる方法について説明します。
 badgeFormOptimization: label="フォームの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="フォームの最適化"
+TQID: https://experienceleague.adobe.com/ZOHmhaQimnoNTBOm-UU5hoyXDzgQLslpoAo4KEEFvmQ
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 hide: true
-source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
-workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 96%
+source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+workflow-type: ht
+source-wordcount: 332
+ht-degree: 100%
 
 ---
 
-
 # フォームの低コンバージョンの機会
 
-<span class="preview"> Formsの最適化機能は、早期アクセス プログラムで利用できます。 早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>
+<span class="preview">フォームの最適化機能は、早期アクセスプログラムで利用できます。 早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>
 
 ![低コンバージョンの機会](./assets/low-conversions/hero.png){align="center"}
 

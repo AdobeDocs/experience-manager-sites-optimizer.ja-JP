@@ -1,21 +1,22 @@
 ---
 title: プリフライト設定
 description: AEM Sites Optimizer のプリフライト拡張機能を設定する方法について説明します。
-source-git-commit: e39930ebe2213dcca17209934173a7b521b34dbc
-workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 63%
+TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: ht
+source-wordcount: 596
+ht-degree: 100%
 
 ---
 
-
 # プリフライト設定
 
-AEM Sites Optimizerのプリフライトのオポチュニティを特定するには、プリフライト拡張機能のセットアップが必要です。 ユニバーサルエディター、ドキュメントベースのプレビュー、AEM Cloud Service のいずれかで設定できるので、ページを公開する前にプリフライト監査を実行できます。
+AEM Sites Optimizer のプリフライトの機会を特定するには、プリフライト拡張機能を設定する必要があります。 ユニバーサルエディター、ドキュメントベースのプレビュー、または AEM Cloud Service のいずれかで設定できるので、ページを公開する前にプリフライト監査を実行できます。
 
 ## ユーザーアクセスの有効化
 
-Preflight 拡張機能を使用するには、[Adobe Admin Console](https://adminconsole.adobe.com) でユーザーが次のAEM Sites Optimizer製品プロファイルの少なくとも 1 つに割り当てられていることを確認します。
+プリフライト拡張機能を使用するには、[Adobe Admin Console](https://adminconsole.adobe.com) でユーザーが次の AEM Sites Optimizer 製品プロファイルの少なくとも 1 つに割り当てられていることを確認します。
 
 * AEM Sites Optimizer - ユーザーの自動提案
 * AEM Sites Optimizer - ユーザーの自動最適化
@@ -31,10 +32,10 @@ Preflight 拡張機能を使用するには、[Adobe Admin Console](https://admi
 1. 次の場所で **Extension Manager** を開きます。
    [https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer プリフライト拡張機能**&#x200B;を見つけて、有効にするリクエストを送信します。
-1. **Adobe AEM チーム** は、組織の拡張機能をレビューし、有効にします。
-1. 拡張機能を有効にした後で、**ユニバーサルエディター**&#x200B;でページを開きます。例：
+1. **Adobe AEM チーム**&#x200B;が組織の拡張機能を確認し、有効にします。
+1. 拡張機能を有効にした後で、**ユニバーサルエディター**でページを開きます。例：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
-1. **Preflight 拡張機能** が **サイドパネル** に表示されます。
+1. **プリフライト拡張機能**&#x200B;が&#x200B;**サイドパネル**&#x200B;に表示されます。
 1. 現在のページの&#x200B;**プリフライト監査**&#x200B;を開始するには、サイドパネルから&#x200B;**プリフライト拡張機能**&#x200B;を選択します。
 
 >[!TAB ドキュメントベースのオーサリング]
@@ -113,14 +114,14 @@ Preflight 拡張機能を使用するには、[Adobe Admin Console](https://admi
    }
    ```
 
-1. 監査するページのプレビュー URL （`*.aem.page`）を開きます。
+1. 監査するページのプレビュー URL（`*.aem.page`）を開きます。
 1. **Sidekick** で「**プリフライト**」ボタンをクリックして、現在のページの監査を開始します。
 
 >[!TAB AEM Sites ページエディター]
 
-AEM Sites ページエディターでプリフライトを使用するには、web ブラウザーでブックマークレットを作成します。次の手順に従います。
+AEM Sites ページエディターでプリフライトを使用するには、web ブラウザーでブックマークレットを作成します。 次の手順に従います。
 
-1. Web ブラウザーに **ブックマークバー** を表示します。
+1. Web ブラウザーに&#x200B;**ブックマークバー**&#x200B;を表示します。
 
    * **Ctrl + Shift + B** キー（Windows）または **Cmd + Shift + B** キー（Mac）を押します。
 
@@ -134,16 +135,16 @@ AEM Sites ページエディターでプリフライトを使用するには、w
    ```
 
 1. ブックマークに「**プリフライト**」という名前（または任意の名前）を付けます。
-1. `*.aem.page`AEM Sites ページエディター **で、監査するページのプレビュー URL （**）を開きます。
+1. **AEM Sites ページエディター**&#x200B;で、監査するページのプレビュー URL（`*.aem.page`）を開きます。
 1. ブックマークバーの&#x200B;**プリフライト**&#x200B;ブックマークをクリックして、現在のページの監査を開始します。
 
->[!TAB AdobeManaged Services]
+>[!TAB Adobe Managed Services]
 
 >[!IMPORTANT]
 >
->Adobe オーサーの認証にAdobeの ID プロバイダー（IMS）を使用するAEM Managed Services（AMS）環境のみがサポートされます。 組織が AMS 認証に他の ID プロバイダーを使用している場合、プリフライトは機能しません。
+>AEM オーサーでの認証にアドビの ID プロバイダー（IMS）を使用する Adobe Managed Services（AMS）環境のみがサポートされます。 組織が AMS 認証に他の ID プロバイダーを使用している場合、プリフライトは機能しません。
 
-AMS 環境でAEM Sites ページエディターの Preflight を使用するには、次の手順に従って、web ブラウザーでブックマークレットを作成します。
+AMS 環境の AEM Sites ページエディターでプリフライトを使用するには、次の手順に従って、web ブラウザーでブックマークレットを作成します。
 
 1. Web ブラウザーに&#x200B;**ブックマークバー**&#x200B;を表示します。
 
@@ -159,7 +160,7 @@ AMS 環境でAEM Sites ページエディターの Preflight を使用するに�
    ```
 
 1. ブックマークに「**プリフライト**」という名前（または任意の名前）を付けます。
-1. 監査するページを **AEM Sites ページエディター** で開きます。
+1. **AEM Sites ページエディター**&#x200B;で、監査するページを開きます。
 1. ブックマークバーの&#x200B;**プリフライト**&#x200B;ブックマークをクリックして、現在のページの監査を開始します。
 
 >[!ENDTABS]
@@ -170,5 +171,5 @@ AMS 環境でAEM Sites ページエディターの Preflight を使用するに�
 
 * 実稼動環境に公開する前に、必ず&#x200B;**ステージングページまたはプレビューページ**&#x200B;で監査を実行します。
 * リンクの破損、H1 タグの欠落、安全でないリンクなど&#x200B;**影響の大きい問題**&#x200B;の解決を優先します。
-* 監査を実行する前に、保護されたステージング環境で **認証が有効** になっていることを確認してください。
+* 監査を実行する前に、保護されたステージング環境で&#x200B;**認証が有効になっている**&#x200B;ことを確認してください。
 * SEO パフォーマンスを向上させるには、**メタタグのレコメンデーション**&#x200B;を確認して適用します。

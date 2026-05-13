@@ -2,22 +2,24 @@
 title: フォームのアクセシビリティの問題の機会ドキュメント
 description: フォームのアクセシビリティの問題の機会と、これを使用して web サイトのフォームのアクセシビリティとユーザーエクスペリエンスを向上させる方法について説明します。
 badgeFormOptimization: label="フォームの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="フォームの最適化"
+TQID: https://experienceleague.adobe.com/LsxxwR0UUBZEB1AJDXwE8zHbPRJcrOqwn25xdsesPhg
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 hide: true
-source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
-workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 65%
+source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+workflow-type: ht
+source-wordcount: 311
+ht-degree: 100%
 
 ---
 
-
 # フォームのアクセシビリティの問題の機会
 
-<span class="preview"> Formsの最適化機能は、早期アクセス プログラムで利用できます。 早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>
+<span class="preview">フォームの最適化機能は、早期アクセスプログラムで利用できます。 早期アクセスプログラムに参加し、機能へのアクセスをリクエストするには、公式メール ID から aem-forms-ea@adobe.com にメールを送信してください。</span>
 
 ![フォームのアクセシビリティの問題の機会](./assets/forms-accessibility-issues/hero.png){align="center"}
 
-フォームのアクセシビリティの問題の機会では、フォームが障害のある人物のニーズにどの程度適合しているか、また [Web コンテンツアクセシビリティガイドライン（WCAG）](https://www.w3.org/TR/WCAG21/)に準拠しているかどうかを識別します。 フォームがWCAGにどの程度適合しているかを評価することで、包括的なフォーム体験を構築できます。 これにより、視覚的、聴覚的、認知的、および運動障害のある個人が、フォームをナビゲートし、やり取りし、正常に完了することができます。 倫理的な理由だけでなく、法的要件の遵守も促進します。 また、フォームの入力完了率を向上させ、オーディエンスへのリーチを広げ、ユーザーエクスペリエンスとビジネスパフォーマンスの両方を向上させることができます。
+フォームのアクセシビリティの問題の機会では、フォームが障害のある人物のニーズにどの程度適合しているか、また [Web コンテンツアクセシビリティガイドライン（WCAG）](https://www.w3.org/TR/WCAG21/)に準拠しているかどうかを識別します。 フォームが WCAG にどの程度準拠しているかを評価することで、包括的なフォームエクスペリエンスを作成するのに役立ちます。 これにより、視覚、聴覚、認知、運動に障がいのあるユーザーがフォームを移動、操作し、正常に完了できます。 倫理的な理由から不可欠であるだけでなく、法的要件への準拠を促進します。 また、フォームの完了率を改善し、オーディエンスのリーチを拡大して、ユーザーエクスペリエンスと業績の両方を向上できます。
 
 ## 自動特定
 
@@ -35,7 +37,7 @@ ht-degree: 65%
 
 ![フォームのアクセシビリティの問題の自動提案](./assets/forms-accessibility-issues/auto-suggest.png){align="center"}
 
-自動提案は、**提案** フィールドでAIが生成した推奨事項を提供します。このフィールドでは、フォームのアクセシビリティの問題を修正するために何をすべきかについて、規範的なガイダンスを提供します。
+自動提案では、「**提案**」フィールドに AI 生成レコメンデーションが提供され、フォームのアクセシビリティの問題を解決するための実行内容に関する規範的なガイダンスが提供されます。
 
 <!-- 
 
