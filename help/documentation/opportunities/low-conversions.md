@@ -3,8 +3,10 @@ title: 低コンバージョンの機会ドキュメント
 description: 低コンバージョンの機会と、これを使用して web サイト上のフォームのエンゲージメントを向上させる方法について説明します。
 badgeFormOptimization: label="フォームの最適化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="フォームの最適化"
 TQID: https://experienceleague.adobe.com/ZOHmhaQimnoNTBOm-UU5hoyXDzgQLslpoAo4KEEFvmQ
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 hide: true
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: ht
