@@ -3,12 +3,10 @@ title: コア web バイタルの機会ドキュメント
 description: コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。
 badgeSiteHealth: label="サイトの健全性" type="Caution" url="../../opportunity-types/site-health.md" tooltip="サイトの健全性"
 TQID: https://experienceleague.adobe.com/3h-Xas767zUk-Sod7JEr9Lh767r5S3LKpbwJZFZU2kg
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: 533
 ht-degree: 100%
 
@@ -18,7 +16,7 @@ ht-degree: 100%
 
 <!--![core web vitals opportunity](./assets/core-web-vitals/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483372/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
 
 Core Web Vitals の機会は、web サイト上でパフォーマンスが低く、ユーザーエクスペリエンスとオーガニック検索のパフォーマンスに影響を与えているページを特定します。 これらの問題は、カスタムフォント、最適化されていない JavaScript の依存関係、サードパーティのスクリプトなどの要因から発生する場合があります。 Core Web Vitals は、コンテンツの読み込み速度、ページレイアウトの安定性、ユーザーインタラクションに対するページの応答性を測定します。
 

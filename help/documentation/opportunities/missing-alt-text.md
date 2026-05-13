@@ -3,12 +3,10 @@ title: 欠落している代替テキストドキュメント
 description: 欠落している代替テキストの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
 TQID: https://experienceleague.adobe.com/FyAC4UY-RAYtfYsKUkS-fgU3Kgy7ov5WYBtBpQ4ZFzk
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: 669
 ht-degree: 100%
 
@@ -18,7 +16,7 @@ ht-degree: 100%
 
 <!--![Missing alt text opportunity](./assets/missing-alt-text/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483265/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483251/?learn=on&enablevpops)
 
 欠落している代替テキストの機会は、web サイト上の説明的な代替テキストを持たない画像を特定します。 代替テキストがない場合、スクリーンリーダーに依存するユーザーはビジュアルコンテンツを解釈できず、アクセシビリティ上の障壁が生じます。 また、検索エンジンが画像を理解してインデックス作成する方法を制限するので、コンテンツの検出性と検索パフォーマンスが低下します。 AEM Sites Optimizer は、欠落している代替テキストの問題を特定し、特定のAI レコメンデーションを提供し、ワンクリックで修正できるデプロイメントを単一の一元的なビューで実現します。
 
