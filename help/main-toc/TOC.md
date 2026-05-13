@@ -3,9 +3,9 @@ user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: これは、ランディングページに表示されるユーザーガイドの説明です。
 source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -43,14 +43,14 @@ ht-degree: 91%
       + {hide-from-toc}[フォームの低コンバージョン](/help/documentation/opportunities/low-conversions.md)
       + {hide-from-toc}[フォームの少ない閲覧数](/help/documentation/opportunities/low-views.md)
       + {hide-from-toc}[フォームの低ナビゲーション](/help/documentation/opportunities/low-navigation.md)
-      + {hide-from-toc}[Formsのアクセシビリティに関する問題](/help/documentation/opportunities/forms-accessibility-issues.md)
+      + {hide-from-toc}[フォームのアクセシビリティの問題](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [サイトマップの問題](/help/documentation/opportunities/sitemap-issues.md)
       + [Web サイト権限](/help/documentation/opportunities/website-permissions.md)
       + [Web サイトの脆弱性](/help/documentation/opportunities/website-vulnerabilities.md)
    + プリフライト{#preflight}
       + [概要](/help/documentation/preflight/overview.md)
       + [セットアップ](/help/documentation/preflight/setup.md)
-      + [プリフライトにアクセス](/help/documentation/preflight/access-preflight.md)
+      + [プリフライトへのアクセス](/help/documentation/preflight/access-preflight.md)
       + [監査](/help/documentation/preflight/audits.md)
       + [監査結果](/help/documentation/preflight/audit-results.md)
       + 機会{#preflight-opportunities}
