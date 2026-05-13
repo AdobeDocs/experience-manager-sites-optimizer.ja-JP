@@ -2,9 +2,9 @@
 title: プリフライトの読みやすさの機会
 description: Sites Optimizer でのプリフライトの読みやすさの機会について説明します。
 source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Sites Optimizer でのプリフライト（読みやすさ）オポチュニテ�
 * ドイツ語
 * オランダ語
 
-幅広いオーディエンスをまたいでコンテンツの読みやすさを評価し、最適化することができます。
+これにより、チームは様々なオーディエンスをまたいでコンテンツの読みやすさを評価および最適化できます。

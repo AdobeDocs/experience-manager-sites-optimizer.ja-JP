@@ -1,81 +1,81 @@
 ---
-title: Sites Optimizer体験版
-description: 既存のAEM Sitesのお客様向けのAEM Sites Optimizer体験版を開始します。
+title: Sites Optimizer 体験版
+description: 既存の AEM Sites のお客様向けの AEM Sites Optimizer 体験版を開始します。
 source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '541'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
-# Sites Optimizer体験版
+# Sites Optimizer 体験版
 
-既存のAEM Sitesのお客様（Edge Delivery Services、Cloud Services、Managed Services）に対するこの体験版を使用して、Sites Optimizerを開始します。 ドメインデータは既にオンボーディングされているため、すぐに最適化を開始できます。 以下のビデオでは、体験版の概要と始め方を説明します。
+既存の AEM Sites のお客様（Edge Delivery Services、Cloud Services、Managed Services）向けのこの体験版を使用して、Sites Optimizer を開始します。ドメインデータは既にオンボードされているので、すぐに最適化を開始できます。以下のビデオでは、体験版エクスペリエンスと開始方法を順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
-> ご質問やご要望がある場合は、[siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com)にお問い合わせください。
+> ご質問やご要望がある場合は、[siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com) にお問い合わせください。
 
-## 今すぐ体験版を開始しましょう。
+## 今すぐ体験版を開始しましょう
 
 体験版を開始するには、次の手順に従います。
 
-1. AEM Sites IMS組織IDを使用して[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)にログインします。
-2. ページビュー、読み込み時間、エンゲージメント率などの主要指標と、効果ごとに優先順位が付けられた上位の最適化機会を表示できます。
-3. 利用できる3つの商談タイプについて説明します。[壊れたバックリンク &#x200B;](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
-4. 各機会について、特定された3つまでの問題を確認します。 AIが生成したレコメンデーションを使用して、AEMに直接最適化をデプロイする準備が整いました。
+1. AEM Sites IMS 組織 ID を使用して、[www.sitesoptimizer.live](http://www.sitesoptimizer.live/) にログインします。
+2. ページビュー数、読み込み時間、エンゲージメント率などの主要指標を、影響ごとに優先順位が付けられた上位の最適化の機会と共に表示します。
+3. 使用可能な 3 つの機会タイプ（[破損したバックリンク](./opportunities/broken-backlinks.md)、[コア web バイタル](./opportunities/core-web-vitals.md)、[欠落している代替テキスト](./opportunities/missing-alt-text.md)）を探索します。
+4. 各機会について、特定された最大 3 つの問題を確認します。AI が生成した提案を使用し、準備が整い次第、最適化を AEM 環境に直接デプロイします。
 5. いつでもフルライセンスにアップグレードすることで、より多くの機会を獲得できます。
 
-## 体験版で利用できるもの
+## 体験版で使用できる内容
 
-以下の項目が試験に含まれています。
+体験版には、以下が含まれます。
 
-* 3つの商談タイプ：[壊れたバックリンク &#x200B;](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)、[代替テキストがありません](./opportunities/missing-alt-text.md)。
-* 毎月最大3つのイシューを割り当てます。
-* 課題ごとの完全なワークフロー：自動識別、自動提案、自動最適化
-   * **自動識別** – 複数のデータソースを使用して、サイト全体で問題を検出します。
-   * **自動提案** – 各問題に対して、AIが生成した規範的な推奨事項を提供します。
-   * **自動最適化** – 承認後、修正をオーサリング環境に直接デプロイします。 既存のワークフローに従ってアップデートを実施し、AEMでのレビューと公開を可能にします。
+* 3 つの機会タイプ：[破損したバックリンク](./opportunities/broken-backlinks.md)、[コア web バイタル](./opportunities/core-web-vitals.md)、[欠落している代替テキスト](./opportunities/missing-alt-text.md)。
+* 機会ごとに毎月最大 3 つの問題。
+* 問題ごとに完全なワークフロー：自動特定、自動提案、自動最適化。
+   * **自動特定** - 複数のデータソースを使用して、サイト全体で問題を検出します。
+   * **自動提案** - 各問題に対して、AI が生成した規範的なレコメンデーションを提供します。
+   * **自動最適化** - 承認後、修正をオーサリング環境に直接デプロイします。 アップデートは既存のワークフローに従って行われるので、チームは AEM を通じてレビューおよび公開できます。
 
 ## よくある質問
 
-AEM Sites Optimizer体験版に関するよくある質問への回答については、以下をお読みください。
+AEM Sites Optimizer 体験版に関するよくある質問とその回答については、以下を参照してください。
 
-+++AEM Sites Optimizerとは？
++++AEM Sites Optimizer とは何ですか？
 
-[AEM Sites Optimizer](/help/home.md)は、Web サイト全体の問題を特定し、規範的な推奨事項を提供し、トラフィックの獲得、エンゲージメント、コンバージョンを向上させるための修正を支援するAI ファーストのアプリケーションです。
+[AEM Sites Optimizer](/help/home.md) は、web サイト全体の問題を特定し、規範的なレコメンデーションを提供し、トラフィックの獲得、エンゲージメント、コンバージョンを向上させるための修正を支援する AI ファーストのアプリケーションです。
 
 +++
-+++誰がこのトライアルに参加できますか？
++++この体験版に参加できるのは誰ですか？
 
-既存のAEM Sitesのお客様（Edge Delivery Services、Cloud Services、Managed Services）。
+既存の AEM Sites のお客様（Edge Delivery Services、Cloud Services、Managed Services）。
 
 +++
 +++体験版にアクセスするにはどうすればよいですか？
 
-[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)に移動し、AEM Sites IMS組織IDを使用してログインします。
+[www.sitesoptimizer.live](http://www.sitesoptimizer.live/) に移動し、AEM Sites IMS 組織 ID を使用してログインします。
 
 +++
-+++裁判には費用がかかりますか。
++++体験版にはコストがかかりますか？
 
-いいえ。 この体験版は、既存のAEM Sitesをご利用のお客様は無料でご利用いただけます。
+いいえ。 この体験版は、既存の AEM Sites のお客様は無料でご利用いただけます。
 
 +++
 +++有効期限はありますか？
 
-いいえ。 トライアルは時間ベースではありません。 利用可能な商談タイプとイシューの数によって使用状況が制限されます。
+いいえ。 体験版は時間ベースではありません。使用可能な機会タイプと問題の数を通じて使用状況により制限されます。
 +++
 +++すべての問題が修正された後はどうなりますか？
 
-Sites Optimizerは、パフォーマンスに影響を与える課題を継続的に特定します。 無料トライアルでは、問題は毎月追加されます。 継続的な監査と最適化のためにアップグレードします。
+Sites Optimizer は、パフォーマンスに影響を与える問題を継続的に特定します。無料体験版では、問題は毎月のみ追加されます。 継続的な監査と最適化のためにアップグレードします。
 
 +++
-+++どうすればより多くの機会にアクセスできますか？
++++より多くの機会にアクセスするにはどうすればよいですか？
 
-アップグレードを使用するか、製品エクスペリエンスを通じて利用可能なセールス CTAに連絡するか、メール [siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com)を送信します。
+製品エクスペリエンスを通じて利用可能なアップグレード CTA またはセールスにお問い合わせ CTA を使用するか、[siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com) までメールでお問い合わせください。
 
 +++
 
@@ -112,7 +112,7 @@ CARDS
                     <p class="is-size-6">コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -135,7 +135,7 @@ CARDS
                     <p class="is-size-6">欠落している代替テキストの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -158,7 +158,7 @@ CARDS
                     <p class="is-size-6">破損したバックリンクの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>

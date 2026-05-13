@@ -2,7 +2,7 @@
 title: プリフライトの H1 カウントの機会
 description: Sites Optimizer でのプリフライトのアクセシビリティの機会について説明します。
 source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 
