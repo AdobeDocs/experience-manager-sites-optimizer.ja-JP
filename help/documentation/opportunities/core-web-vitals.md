@@ -18,7 +18,7 @@ ht-degree: 100%
 
 <!--![core web vitals opportunity](./assets/core-web-vitals/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483372/?captions=jpn&learn=on&enablevpops)
 
 Core Web Vitals の機会は、web サイト上でパフォーマンスが低く、ユーザーエクスペリエンスとオーガニック検索のパフォーマンスに影響を与えているページを特定します。 これらの問題は、カスタムフォント、最適化されていない JavaScript の依存関係、サードパーティのスクリプトなどの要因から発生する場合があります。 Core Web Vitals は、コンテンツの読み込み速度、ページレイアウトの安定性、ユーザーインタラクションに対するページの応答性を測定します。
 
