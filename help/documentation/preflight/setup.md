@@ -4,10 +4,10 @@ description: AEM Sites Optimizer のプリフライト拡張機能を設定す�
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+source-git-commit: 511e784d7d484b18942ac4b711df1c802debfec9
 workflow-type: tm+mt
-source-wordcount: 596
-ht-degree: 100%
+source-wordcount: 587
+ht-degree: 97%
 
 ---
 
@@ -32,9 +32,9 @@ AEM Sites Optimizer のプリフライトの機会を特定するには、プリ
 
 1. 次の場所で **Extension Manager** を開きます。
    [https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor)
-1. **AEM Sites Optimizer プリフライト拡張機能**&#x200B;を見つけて、有効にするリクエストを送信します。
-1. **Adobe AEM チーム**&#x200B;が組織の拡張機能を確認し、有効にします。
-1. 拡張機能を有効にした後で、**ユニバーサルエディター**でページを開きます。例：
+1. **AEM Sites Optimizer Preflight**&#x200B;拡張機能を探します。
+1. 組織のシステム管理者は、この拡張機能を有効にする必要があります。
+1. 拡張機能を有効にした後で、**ユニバーサルエディター**&#x200B;でページを開きます。例：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **プリフライト拡張機能**&#x200B;が&#x200B;**サイドパネル**&#x200B;に表示されます。
 1. 現在のページの&#x200B;**プリフライト監査**&#x200B;を開始するには、サイドパネルから&#x200B;**プリフライト拡張機能**&#x200B;を選択します。
