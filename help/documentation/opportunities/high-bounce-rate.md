@@ -3,8 +3,10 @@ title: 高バウンス率の機会ドキュメント
 description: 少ない閲覧数の機会と、これを使用して web サイト上のフォームのエンゲージメントを向上させる方法について説明します。
 badgeEngagement: label="エンゲージメント" type="Caution" url="../../opportunity-types/engagement.md" tooltip="エンゲージメント"
 TQID: https://experienceleague.adobe.com/0P8QzHWJHZ21We0T8o3s3Bj60syHXSl2dmfUS85uXoE
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
 source-wordcount: 359

@@ -2,8 +2,10 @@
 title: Sites Optimizer を使用したサイトの健全性の最適化
 description: Sites Optimizer を使用してサイトの健全性を向上させる方法について説明します。
 TQID: https://experienceleague.adobe.com/-zDE6-ycqW-IkPEQA9J024GAHb8SOdfdwR4DCEd0Oyc
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
 source-wordcount: 128
