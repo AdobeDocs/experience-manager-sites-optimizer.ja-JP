@@ -3,12 +3,10 @@ title: 欠落しているまたは無効な構造化データに関するドキ�
 description: 欠落しているまたは無効な構造化データの機会と、それを使用してトラフィックの獲得を向上させる方法について説明します。
 badgeTrafficAcquisition: label="トラフィックの獲得" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="トラフィックの獲得"
 TQID: https://experienceleague.adobe.com/RFJPZlnB2QLXjO7aKfIBFrT1CrtdBD0vAe2MUMjRspU
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: 371
 ht-degree: 100%
 

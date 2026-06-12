@@ -2,8 +2,8 @@
 title: Sites Optimizer 体験版
 description: 既存の AEM Sites のお客様向けの AEM Sites Optimizer 体験版を開始します。
 source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
-workflow-type: ht
-source-wordcount: '541'
+workflow-type: tm+mt
+source-wordcount: '535'
 ht-degree: 100%
 
 ---
@@ -11,9 +11,9 @@ ht-degree: 100%
 
 # Sites Optimizer 体験版
 
-既存の AEM Sites のお客様（Edge Delivery Services、Cloud Services、Managed Services）向けのこの体験版を使用して、Sites Optimizer を開始します。ドメインデータは既にオンボードされているので、すぐに最適化を開始できます。以下のビデオでは、体験版エクスペリエンスと開始方法を順を追って説明します。
+既存の AEM Sites のお客様（Edge Delivery Services、Cloud Services、Managed Services）向けのこの体験版を使用して、Sites Optimizer を開始します。 ドメインデータは既にオンボードされているので、すぐに最適化を開始できます。 以下のビデオでは、体験版エクスペリエンスと開始方法を順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -26,7 +26,7 @@ ht-degree: 100%
 1. AEM Sites IMS 組織 ID を使用して、[www.sitesoptimizer.live](http://www.sitesoptimizer.live/) にログインします。
 2. ページビュー数、読み込み時間、エンゲージメント率などの主要指標を、影響ごとに優先順位が付けられた上位の最適化の機会と共に表示します。
 3. 使用可能な 3 つの機会タイプ（[破損したバックリンク](./opportunities/broken-backlinks.md)、[コア web バイタル](./opportunities/core-web-vitals.md)、[欠落している代替テキスト](./opportunities/missing-alt-text.md)）を探索します。
-4. 各機会について、特定された最大 3 つの問題を確認します。AI が生成した提案を使用し、準備が整い次第、最適化を AEM 環境に直接デプロイします。
+4. 各機会について、特定された最大 3 つの問題を確認します。 AI が生成した提案を使用し、準備が整い次第、最適化を AEM 環境に直接デプロイします。
 5. いつでもフルライセンスにアップグレードすることで、より多くの機会を獲得できます。
 
 ## 体験版で使用できる内容
@@ -66,11 +66,11 @@ AEM Sites Optimizer 体験版に関するよくある質問とその回答につ
 +++
 +++有効期限はありますか？
 
-いいえ。 体験版は時間ベースではありません。使用可能な機会タイプと問題の数を通じて使用状況により制限されます。
+いいえ。 体験版は時間ベースではありません。 使用可能な機会タイプと問題の数を通じて使用状況により制限されます。
 +++
 +++すべての問題が修正された後はどうなりますか？
 
-Sites Optimizer は、パフォーマンスに影響を与える問題を継続的に特定します。無料体験版では、問題は毎月のみ追加されます。 継続的な監査と最適化のためにアップグレードします。
+Sites Optimizer は、パフォーマンスに影響を与える問題を継続的に特定します。 無料体験版では、問題は毎月のみ追加されます。 継続的な監査と最適化のためにアップグレードします。
 
 +++
 +++より多くの機会にアクセスするにはどうすればよいですか？
@@ -112,7 +112,7 @@ CARDS
                     <p class="is-size-6">コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -135,7 +135,7 @@ CARDS
                     <p class="is-size-6">欠落している代替テキストの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -158,7 +158,7 @@ CARDS
                     <p class="is-size-6">破損したバックリンクの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
