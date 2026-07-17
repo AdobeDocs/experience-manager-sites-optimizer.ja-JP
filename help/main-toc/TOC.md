@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: これは、ランディングページに表示されるユーザーガイドの説明です。
-source-git-commit: d17008c39f231c45a9ba41ca7f0aa96b9878f674
+source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 100%
+source-wordcount: '134'
+ht-degree: 96%
 
 ---
 
@@ -53,11 +53,17 @@ ht-degree: 100%
       + [プリフライトへのアクセス](/help/documentation/preflight/access-preflight.md)
       + [監査](/help/documentation/preflight/audits.md)
       + [監査結果](/help/documentation/preflight/audit-results.md)
-      + 機会{#preflight-opportunities}
+      + 監査カテゴリ{#preflight-opportunities}
          + [アクセシビリティ](/help/documentation/preflight/opportunities/accessibility.md)
-         + [H1 カウント](/help/documentation/preflight/opportunities/h1-count.md)
-         + [リンク](/help/documentation/preflight/opportunities/links.md)
-         + [メタデータ](/help/documentation/preflight/opportunities/meta-data.md)
-         + [読みやすさ](/help/documentation/preflight/opportunities/readability.md)
+         + SEO{#preflight-seo}
+            + [概要](/help/documentation/preflight/opportunities/seo.md)
+            + [メタタグ](/help/documentation/preflight/opportunities/seo/metatags.md)
+            + [見出し](/help/documentation/preflight/opportunities/seo/headings.md)
+            + [H1 カウント](/help/documentation/preflight/opportunities/seo/h1-count.md)
+            + [リンク](/help/documentation/preflight/opportunities/seo/links.md)
+            + [読みやすさ](/help/documentation/preflight/opportunities/seo/readability.md)
+            + [正規](/help/documentation/preflight/opportunities/seo/canonical.md)
+            + [ボディサイズ](/help/documentation/preflight/opportunities/seo/body-size.md)
+            + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
    + [設定](/help/documentation/settings.md)
    + [リリースノート](/help/documentation/release-notes.md)

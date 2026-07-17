@@ -1,28 +1,28 @@
 ---
 title: プリフライト設定
-description: AEM Sites Optimizer のプリフライト拡張機能を設定する方法について説明します。
+description: AEM Sites Optimizerにプリフライトを設定する方法を説明します。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: 511e784d7d484b18942ac4b711df1c802debfec9
-workflow-type: ht
-source-wordcount: 587
-ht-degree: 100%
+source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+workflow-type: tm+mt
+source-wordcount: 577
+ht-degree: 72%
 
 ---
 
 # プリフライト設定
 
-AEM Sites Optimizer のプリフライトの機会を特定するには、プリフライト拡張機能を設定する必要があります。 ユニバーサルエディター、ドキュメントベースのプレビュー、または AEM Cloud Service のいずれかで設定できるので、ページを公開する前にプリフライト監査を実行できます。
+プリフライトを実行するには、オーサリング環境で設定する必要があります。 ユニバーサルエディター、ドキュメントベースのオーサリング、AEM Sites ページエディター、Adobe Managed Services用にプリフライトを設定することで、ページが公開される前にプリフライト監査を実行できます。
 
 ## ユーザーアクセスの有効化
 
-プリフライト拡張機能を使用するには、[Adobe Admin Console](https://adminconsole.adobe.com) でユーザーが次の AEM Sites Optimizer 製品プロファイルの少なくとも 1 つに割り当てられていることを確認します。
+プリフライトを使用するには、[Adobe Admin Console](https://adminconsole.adobe.com)で次のAEM Sites Optimizer製品プロファイルの少なくとも1つにユーザーが割り当てられていることを確認します。
 
 * AEM Sites Optimizer - ユーザーの自動提案
 * AEM Sites Optimizer - ユーザーの自動最適化
 
-## プリフライト拡張機能の有効化
+## プリフライトを有効にする
 
 >[!BEGINTABS]
 
@@ -31,13 +31,13 @@ AEM Sites Optimizer のプリフライトの機会を特定するには、プリ
 ユニバーサルエディターでプリフライトを設定するには、次の手順に従います。
 
 1. 次の場所で **Extension Manager** を開きます。
-   [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
+   [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer プリフライト**&#x200B;拡張機能を見つけます。
 1. 組織のシステム管理者は、この拡張機能を有効にする必要があります。
-1. 拡張機能を有効にした後で、**ユニバーサルエディター**でページを開きます。例：
+1. 拡張機能を有効にした後で、**ユニバーサルエディター**&#x200B;でページを開きます。例：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **プリフライト拡張機能**&#x200B;が&#x200B;**サイドパネル**&#x200B;に表示されます。
-1. 現在のページの&#x200B;**プリフライト監査**&#x200B;を開始するには、サイドパネルから&#x200B;**プリフライト拡張機能**&#x200B;を選択します。
+1. サイドレールから&#x200B;**プリフライト拡張機能**&#x200B;を選択し、現在のページのプリフライトを開きます。
 
 >[!TAB ドキュメントベースのオーサリング]
 
@@ -116,7 +116,7 @@ AEM Sites Optimizer のプリフライトの機会を特定するには、プリ
    ```
 
 1. 監査するページのプレビュー URL（`*.aem.page`）を開きます。
-1. **Sidekick** で「**プリフライト**」ボタンをクリックして、現在のページの監査を開始します。
+1. **Sidekick**&#x200B;で、**プリフライト** ボタンをクリックして、現在のページのプリフライトを開きます。
 
 >[!TAB AEM Sites ページエディター]
 
@@ -137,7 +137,7 @@ AEM Sites ページエディターでプリフライトを使用するには、w
 
 1. ブックマークに「**プリフライト**」という名前（または任意の名前）を付けます。
 1. **AEM Sites ページエディター**&#x200B;で、監査するページのプレビュー URL（`*.aem.page`）を開きます。
-1. ブックマークバーの&#x200B;**プリフライト**&#x200B;ブックマークをクリックして、現在のページの監査を開始します。
+1. ブックマークバーの&#x200B;**プリフライト** ブックマークをクリックして、現在のページのプリフライトを開きます。
 
 >[!TAB Adobe Managed Services]
 
@@ -145,7 +145,7 @@ AEM Sites ページエディターでプリフライトを使用するには、w
 >
 >AEM オーサーでの認証にアドビの ID プロバイダー（IMS）を使用する Adobe Managed Services（AMS）環境のみがサポートされます。 組織が AMS 認証に他の ID プロバイダーを使用している場合、プリフライトは機能しません。
 
-AMS 環境の AEM Sites ページエディターでプリフライトを使用するには、次の手順に従って、web ブラウザーでブックマークレットを作成します。
+AMS環境のAEM Sites ページエディターでプリフライトを使用するには、次の手順に従ってweb ブラウザーでブックマークレットを作成します。
 
 1. Web ブラウザーに&#x200B;**ブックマークバー**&#x200B;を表示します。
 
@@ -162,7 +162,7 @@ AMS 環境の AEM Sites ページエディターでプリフライトを使用�
 
 1. ブックマークに「**プリフライト**」という名前（または任意の名前）を付けます。
 1. **AEM Sites ページエディター**&#x200B;で、監査するページを開きます。
-1. ブックマークバーの&#x200B;**プリフライト**&#x200B;ブックマークをクリックして、現在のページの監査を開始します。
+1. ブックマークバーの&#x200B;**プリフライト** ブックマークをクリックして、現在のページのプリフライトを開きます。
 
 >[!ENDTABS]
 
