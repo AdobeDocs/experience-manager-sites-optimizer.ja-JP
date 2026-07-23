@@ -2,11 +2,9 @@
 title: Sites Optimizer の設定
 description: Sites Optimizer を設定し、他のツールと統合する方法について説明します。
 TQID: https://experienceleague.adobe.com/eznjSHZgAmCh-ek-XE-lLtuoGJxC0yY4UVrmPjc0KYo
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 89291cb72c3cb56fcf43564cb04461750d748219
 workflow-type: tm+mt
 source-wordcount: 749
 ht-degree: 100%
@@ -148,7 +146,7 @@ POST https://graph.microsoft.com/v1.0/sites/{siteId}/permissions
 
 1. Google Drive で、EDS サイトをバックアップするフォルダーを右クリックし、「**共有**」を選択します。
 2. 「**ユーザーやグループを追加**」フィールドに、**AEM Sites に接続** ダイアログに表示されるサービスアカウントのメールを入力します。
-   `experience-success-studio@helix-225321.iam.gserviceaccount.com`
+   `aem-sites-optimizer@adbe-gcp0843.iam.gserviceaccount.com`
 3. 権限レベルを&#x200B;**編集者**&#x200B;に設定します。
 4. 「**ユーザーに通知する**」をオフにし、「**共有**」をクリックします。
 
