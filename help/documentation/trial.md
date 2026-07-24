@@ -17,7 +17,7 @@ ht-degree: 92%
 >
 >AEM Sites Optimizer体験版は現在、ヘッドレスサイトをサポートしていません。 体験版を使用するには、AEM Sites フロントエンド配信を使用するweb サイトをオンボーディングします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
 
 >[!TIP]
 >
