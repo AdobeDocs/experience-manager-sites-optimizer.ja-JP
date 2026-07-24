@@ -1,19 +1,23 @@
 ---
 title: Sites Optimizer 体験版
 description: 既存の AEM Sites のお客様向けの AEM Sites Optimizer 体験版を開始します。
-source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
+source-git-commit: 225f039d88627a88b8c3989f963d5602cbaaab57
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 100%
+source-wordcount: '558'
+ht-degree: 92%
 
 ---
 
 
 # Sites Optimizer 体験版
 
-既存の AEM Sites のお客様（Edge Delivery Services、Cloud Services、Managed Services）向けのこの体験版を使用して、Sites Optimizer を開始します。 ドメインデータは既にオンボードされているので、すぐに最適化を開始できます。 以下のビデオでは、体験版エクスペリエンスと開始方法を順を追って説明します。
+既存の&#x200B;**AEM Sitesのお客様（Edge Delivery Services、Cloud Services、Managed Services）**&#x200B;向けに、この体験版を使用してSites Optimizerを開始します。 ドメインデータは既にオンボードされているので、すぐに最適化を開始できます。 以下のビデオでは、体験版エクスペリエンスと開始方法を順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
+>[!NOTE]
+>
+>AEM Sites Optimizer体験版は現在、ヘッドレスサイトをサポートしていません。 体験版を使用するには、AEM Sites フロントエンド配信を使用するweb サイトをオンボーディングします。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -36,9 +40,9 @@ ht-degree: 100%
 * 3 つの機会タイプ：[破損したバックリンク](./opportunities/broken-backlinks.md)、[コア web バイタル](./opportunities/core-web-vitals.md)、[欠落している代替テキスト](./opportunities/missing-alt-text.md)。
 * 機会ごとに毎月最大 3 つの問題。
 * 問題ごとに完全なワークフロー：自動特定、自動提案、自動最適化。
-   * **自動特定** - 複数のデータソースを使用して、サイト全体で問題を検出します。
-   * **自動提案** - 各問題に対して、AI が生成した規範的なレコメンデーションを提供します。
-   * **自動最適化** - 承認後、修正をオーサリング環境に直接デプロイします。 アップデートは既存のワークフローに従って行われるので、チームは AEM を通じてレビューおよび公開できます。
+  * **自動特定** - 複数のデータソースを使用して、サイト全体で問題を検出します。
+  * **自動提案** - 各問題に対して、AI が生成した規範的なレコメンデーションを提供します。
+  * **自動最適化** - 承認後、修正をオーサリング環境に直接デプロイします。 アップデートは既存のワークフローに従って行われるので、チームは AEM を通じてレビューおよび公開できます。
 
 ## よくある質問
 
