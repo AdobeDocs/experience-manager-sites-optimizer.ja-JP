@@ -41,6 +41,7 @@ Experience League ビデオは、このリポジトリではホストされま�
      }
    }
    ```
+
 2. `.mcp.json`を`.gitignore`に追加します（個人用ツール、共有なし）。
 3. `.claude/settings.local.json`で、`"enableAllProjectMcpServers": true`と`"enabledMcpjsonServers": ["chrome-devtools"]`を追加します。
 4. Claude Codeを再起動するようユーザーに指示します（または`/mcp`を実行） — MCP サーバーは起動時にのみ読み込まれます。これはセッション中に実行することはできません。

@@ -156,17 +156,19 @@ badgePremium: label="Premium" type="Positive" url="https://www.premium-product.c
 
 フェンス：
 
-````markdown
+&grave;&grave;&grave;&grave;markdown
+
 ```javascript
 var x = 1;
 ```
-````
+
+&grave;&grave;&grave;&grave;
 
 - 構文の強調表示に使用する言語を必ず指定し、「コピー」ボタンを押します。
 - フェンスで囲まれたブロックの上下に必要な空白行。
-- 行番号：`` ```html {line-numbers="true"} ``
-- 別の場所で番号を付けます：`` ```html {line-numbers="true" start-line="7"} ``
-- ハイライト行：`` ```html {line-numbers="true" start-line="7" highlight="11-13, 16"} ``
+- 行番号：`` ``&#x200B;`html {line-numbers="true"} `&#x200B;&grave;
+- 別の場所で番号を付けます：`` ``&#x200B;`html {line-numbers="true" start-line="7"} `&#x200B;&grave;
+- ハイライト行：`` ``&#x200B;`html {line-numbers="true" start-line="7" highlight="11-13, 16"} `&#x200B;&grave;
 - コードブロックコンテンツはローカライズされません（ただし、公開時に削除される`!UICONTROL`/`!DNL` タグを除きます）。
 - コードブロック内でマークダウン/HTMLのフォーマット（`<i>`など）が機能しません。プレースホルダーには、角括弧またはプレーンテキストを使用します。
 

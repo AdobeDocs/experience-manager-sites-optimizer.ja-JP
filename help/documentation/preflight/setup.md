@@ -2,7 +2,8 @@
 title: プリフライト設定
 description: AEM Sites Optimizerにプリフライトを設定する方法を説明します。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
 source-wordcount: 785
@@ -33,7 +34,7 @@ ht-degree: 52%
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/ja_JP/#/@org/aem/extension-manager/universal-editor)
 1. **AEM Sites Optimizer プリフライト**&#x200B;拡張機能を見つけます。
 1. 組織のシステム管理者は、この拡張機能を有効にする必要があります。
-1. 拡張機能を有効にした後で、**ユニバーサルエディター**でページを開きます。例：
+1. 拡張機能を有効にした後で、**ユニバーサルエディター**&#x200B;でページを開きます。例：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **プリフライト拡張機能**&#x200B;が&#x200B;**サイドパネル**&#x200B;に表示されます。
 1. サイドレールから&#x200B;**プリフライト拡張機能**&#x200B;を選択し、現在のページのプリフライトを開きます。
@@ -119,12 +120,12 @@ ht-degree: 52%
 
 >[!TAB AEM Sites ページエディター]
 
-オーサー環境で[AEM 2026.7.0 （リリース 27083） ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)以降を実行している場合、プリフライトはAEM Sites ページエディターに組み込まれており、ブックマークレットは必要ありません。 次の手順に従います。
+オーサー環境で[AEM 2026.7.0 （リリース 27083） &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)以降を実行している場合、プリフライトはAEM Sites ページエディターに組み込まれており、ブックマークレットは必要ありません。 次の手順に従います。
 
 1. **AEM Sites ページエディター**&#x200B;で、監査するページを開きます。
 1. エディターツールバーで、**プリフライト** アイコン（下に強調表示された再生ボタン）を選択して、現在のページのプリフライトパネルを開きます。
 
-   ![AEM Sites ページエディターのツールバーのプリフライトアイコン ](./assets/setup/toolbar-preflight-button.png){align="center"}
+   ![AEM Sites ページエディターのツールバーのプリフライトアイコン &#x200B;](./assets/setup/toolbar-preflight-button.png){align="center"}
 
 >[!NOTE]
 >
@@ -133,7 +134,7 @@ ht-degree: 52%
 >* **サポートされているリリース** – 統合ボタンには、AEM 2026.7.0 （リリース 27083）以降が必要です。 以前のリリースでは、以下のbookmarklet メソッドを使用します。
 >* **ロールアウト** – 統合ボタンは段階的に組織に対して有効になっているので、サポートされているリリースであっても、組織にまだ到達していない可能性があります。 それまでは、以下のブックマークレット方式を使用するか、Adobeまたは管理者に連絡してください。
 >* **ページアクセス** — ボタンは、ページへの編集アクセス権がある場合にのみ表示されます。
->* **ユーザーアクセス** — ユーザーに&#x200B;**AEM Sites Optimizer - Auto-Suggest User**&#x200B;または&#x200B;**AEM Sites Optimizer - Auto-Optimize User** プロファイルが割り当てられていることを確認します。 [ ユーザーアクセスの有効化](#enable-user-access)を参照してください。
+>* **ユーザーアクセス** — ユーザーに&#x200B;**AEM Sites Optimizer - Auto-Suggest User**&#x200B;または&#x200B;**AEM Sites Optimizer - Auto-Optimize User** プロファイルが割り当てられていることを確認します。 [&#x200B; ユーザーアクセスの有効化](#enable-user-access)を参照してください。
 
 以前のAEM リリースのAEM Sites ページエディターでプリフライトを使用するには、web ブラウザーでブックマークレットを作成します。 次の手順に従います。
 

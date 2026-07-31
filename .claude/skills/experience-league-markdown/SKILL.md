@@ -37,7 +37,7 @@ Source of truth: https://experienceleague.adobe.com/en/docs/authoring-guide/usin
 | 箇条書きリスト | `* item` （`*`/`-`/`+`のいずれかを選択し、一貫性を維持） | リストの前後に空白行が表示されます。混合マーカー=検証エラー |
 | 番号付きリスト | `1. item` （1行ごとに`1.`を繰り返します） | GitHubは実際の数値を |
 | コード （インライン） | `` `code` `` | ファイル名、コマンド、値、未検証のサンプル URL |
-| コード （フェンス付き） | ` ```language ` ... ` ``` ` | 常に言語を指定してください。前後に空白行があります。`{line-numbers="true" start-line="n" highlight="n-m"}` オプション |
+| コード （フェンス付き） | ` `&#x200B;``language ` ... ` ``&#x200B;` ` | 常に言語を指定してください。前後に空白行があります。`{line-numbers="true" start-line="n" highlight="n-m"}` オプション |
 | バッジ （インライン） | `[!BADGE Beta]{type=Informative url="..." tooltip="..."}` | `type`：有益/肯定的/否定的/中立的/注意 |
 | 折りたたみ可能 | `+++Summary` ... `+++` | ネストされた折りたたみ可能はありません。内側のリスト/コードの周りに空白行があります |
 | 空白線ハック | `<br>&nbsp;`を自分の行に設定 | プレーンな余分な空白行は、レンダラーによって折りたたまれるか無視されます |
