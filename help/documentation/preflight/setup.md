@@ -120,7 +120,7 @@ ht-degree: 52%
 
 >[!TAB AEM Sites ページエディター]
 
-オーサー環境で[AEM 2026.7.0 （リリース 27083） &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)以降を実行している場合、プリフライトはAEM Sites ページエディターに組み込まれており、ブックマークレットは必要ありません。 次の手順に従います。
+オーサー環境で[AEM 2026.7.0 （リリース 27083） &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)以降を実行している場合、プリフライトはAEM Sites ページエディターに組み込まれており、ブックマークレットは必要ありません。 次の手順に従います。
 
 1. **AEM Sites ページエディター**&#x200B;で、監査するページを開きます。
 1. エディターツールバーで、**プリフライト** アイコン（下に強調表示された再生ボタン）を選択して、現在のページのプリフライトパネルを開きます。
