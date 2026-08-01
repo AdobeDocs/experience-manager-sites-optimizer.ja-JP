@@ -1,10 +1,10 @@
 ---
 title: プリフライトでの監査の実行
 description: ページでプリフライト監査を開始する方法について説明します。
-source-git-commit: 9989144c429da97e3ea303c0c8caf5a9b38e2634
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 21%
+source-wordcount: '366'
+ht-degree: 17%
 
 ---
 
@@ -22,6 +22,12 @@ ht-degree: 21%
 1. 「**ページを分析**」を選択します。 Preflightは、現在のページですべての監査を実行し、準備状況ダッシュボードを開きます。このダッシュボードには、準備状況スコアと見つかった機会がカテゴリ別にグループ化されて表示されます。
 
 プレビュー結果を理解し、最適化の機会を特定するには、[&#x200B; プリフライトでの監査結果](./audit-results.md)を参照してください。
+
+## 統合されたプリフライトボタンの使用
+
+オーサー環境で[AEM 2026.7.0 （リリース 27083） &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)以降を実行している場合、プリフライトはAEM Sites ページエディターツールバーに組み込まれます。 「**プリフライト**」アイコン（再生ボタン）を選択して現在のページのパネルを開き、「**ページを分析**」を選択して監査を実行します。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
 
 ## 前のセッションを続行
 

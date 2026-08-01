@@ -4,10 +4,10 @@ description: AEM Sites Optimizerにプリフライトを設定する方法を説
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: 577
-ht-degree: 72%
+source-wordcount: 785
+ht-degree: 52%
 
 ---
 
@@ -120,7 +120,23 @@ ht-degree: 72%
 
 >[!TAB AEM Sites ページエディター]
 
-AEM Sites ページエディターでプリフライトを使用するには、web ブラウザーでブックマークレットを作成します。 次の手順に従います。
+オーサー環境で[AEM 2026.7.0 （リリース 27083） &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)以降を実行している場合、プリフライトはAEM Sites ページエディターに組み込まれており、ブックマークレットは必要ありません。 次の手順に従います。
+
+1. **AEM Sites ページエディター**&#x200B;で、監査するページを開きます。
+1. エディターツールバーで、**プリフライト** アイコン（下に強調表示された再生ボタン）を選択して、現在のページのプリフライトパネルを開きます。
+
+   ![AEM Sites ページエディターのツールバーのプリフライトアイコン &#x200B;](./assets/setup/toolbar-preflight-button.png){align="center"}
+
+>[!NOTE]
+>
+>ツールバーに&#x200B;**プリフライト** アイコンが表示されませんか？ 次の項目を確認します。
+>
+>* **サポートされているリリース** – 統合ボタンには、AEM 2026.7.0 （リリース 27083）以降が必要です。 以前のリリースでは、以下のbookmarklet メソッドを使用します。
+>* **ロールアウト** – 統合ボタンは段階的に組織に対して有効になっているので、サポートされているリリースであっても、組織にまだ到達していない可能性があります。 それまでは、以下のブックマークレット方式を使用するか、Adobeまたは管理者に連絡してください。
+>* **ページアクセス** — ボタンは、ページへの編集アクセス権がある場合にのみ表示されます。
+>* **ユーザーアクセス** — ユーザーに&#x200B;**AEM Sites Optimizer - Auto-Suggest User**&#x200B;または&#x200B;**AEM Sites Optimizer - Auto-Optimize User** プロファイルが割り当てられていることを確認します。 [&#x200B; ユーザーアクセスの有効化](#enable-user-access)を参照してください。
+
+以前のAEM リリースのAEM Sites ページエディターでプリフライトを使用するには、web ブラウザーでブックマークレットを作成します。 次の手順に従います。
 
 1. Web ブラウザーに&#x200B;**ブックマークバー**&#x200B;を表示します。
 
