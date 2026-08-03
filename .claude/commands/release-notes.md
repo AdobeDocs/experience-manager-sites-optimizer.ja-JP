@@ -1,8 +1,8 @@
 ---
 description: 内部ASO スプリントリリースノートをお客様向けのExperience League形式に変換し、リリースノート ページに追加します。
-source-git-commit: d17008c39f231c45a9ba41ca7f0aa96b9878f674
+source-git-commit: 5f400c37283d1a3d8285b4d2ac5246761a7275e6
 workflow-type: tm+mt
-source-wordcount: '960'
+source-wordcount: '1029'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,8 @@ ht-degree: 0%
 
 5. **正確な範囲。** 顧客が製品UIやエクスペリエンスで見ることのできる変更のみをワークフローに含めます。 インフラストラクチャ、ツール、開発者エクスペリエンスの変更は除外されます。
 
+6. **早期アクセス機能にフラグを付ける。** デフォルトでオフになっている機能フラグの背後に機能が搭載されている場合（例：LaunchDarkly `FeatureGate`/`isEnabledByDefault={false}`）、太字の機能名に`(Early Access)`を追加します。これは、段階的機能に使用される既存の`(General Availability)`規則を反映しています。 不明な場合は、すべての顧客に対してデフォルトで機能がオンになっているかどうかを確認します。オンになっていない場合は、早期アクセスです。 コードのデフォルトの機能フラグに照らし合わせて検証します。推測しないでください。
+
 ### ページ構造テンプレート
 
 各リリースエントリは、次の構造に従います。
@@ -54,7 +56,7 @@ ht-degree: 0%
 
 ### New Features
 
-- **[Feature Name]** — [One-sentence benefit statement. One sentence of business context if needed.]
+- **[Feature Name]** — [One-sentence benefit statement. One sentence of business context if needed.] (append `(Early Access)` or `(General Availability)` to the feature name when the feature's availability status is notable)
 
 ### Enhancements
 
