@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: これは、ランディングページに表示されるユーザーガイドの説明です。
-source-git-commit: a86d83ee226055e6401b13fd421b40d449b96fa8
+source-git-commit: 7224badecd83652a0971f669e23ff325b26892f3
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 95%
 
 ---
@@ -53,19 +53,20 @@ ht-degree: 95%
     + [概要](/help/documentation/preflight/overview.md)
     + [セットアップ](/help/documentation/preflight/setup.md)
     + [プリフライトへのアクセス](/help/documentation/preflight/access-preflight.md)
-    + [監査](/help/documentation/preflight/audits.md)
-    + [監査結果](/help/documentation/preflight/audit-results.md)
-    + 監査カテゴリ{#preflight-opportunities}
-      + [アクセシビリティ](/help/documentation/preflight/opportunities/accessibility.md)
-      + SEO{#preflight-seo}
-        + [概要](/help/documentation/preflight/opportunities/seo.md)
-        + [メタタグ](/help/documentation/preflight/opportunities/seo/metatags.md)
-        + [見出し](/help/documentation/preflight/opportunities/seo/headings.md)
-        + [H1 カウント](/help/documentation/preflight/opportunities/seo/h1-count.md)
-        + [リンク](/help/documentation/preflight/opportunities/seo/links.md)
-        + [読みやすさ](/help/documentation/preflight/opportunities/seo/readability.md)
-        + [正規](/help/documentation/preflight/opportunities/seo/canonical.md)
-        + [本文サイズ](/help/documentation/preflight/opportunities/seo/body-size.md)
-        + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
+    + 監査{#preflight-audits}
+      + [概要](/help/documentation/preflight/audits.md)
+      + [監査結果](/help/documentation/preflight/audit-results.md)
+      + 監査カテゴリ{#preflight-opportunities}
+        + [アクセシビリティ](/help/documentation/preflight/opportunities/accessibility.md)
+        + SEO{#preflight-seo}
+          + [概要](/help/documentation/preflight/opportunities/seo.md)
+          + [メタタグ](/help/documentation/preflight/opportunities/seo/metatags.md)
+          + [見出し](/help/documentation/preflight/opportunities/seo/headings.md)
+          + [H1 カウント](/help/documentation/preflight/opportunities/seo/h1-count.md)
+          + [リンク](/help/documentation/preflight/opportunities/seo/links.md)
+          + [読みやすさ](/help/documentation/preflight/opportunities/seo/readability.md)
+          + [正規](/help/documentation/preflight/opportunities/seo/canonical.md)
+          + [本文サイズ](/help/documentation/preflight/opportunities/seo/body-size.md)
+          + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
   + [設定](/help/documentation/settings.md)
   + [リリースノート](/help/documentation/release-notes.md)
