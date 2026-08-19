@@ -25,7 +25,7 @@ ht-degree: 14%
 
 ## 統合されたプリフライトボタンの使用
 
-オーサー環境で[AEM 2026.7.0 （リリース 27083） &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)以降を実行している場合、プリフライトはAEM Sites ページエディターツールバーに組み込まれます。 「**プリフライト**」アイコン（再生ボタン）を選択して現在のページのパネルを開き、「**ページを分析**」を選択して監査を実行します。
+オーサー環境で[AEM 2026.7.0 （リリース 27083） &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)以降を実行している場合、プリフライトはAEM Sites ページエディターツールバーに組み込まれます。 「**プリフライト**」アイコン（再生ボタン）を選択して現在のページのパネルを開き、「**ページを分析**」を選択して監査を実行します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
 
