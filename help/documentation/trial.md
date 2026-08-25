@@ -22,7 +22,7 @@ ht-degree: 89%
 >* これは一般にアクセス可能であり、ログインの背後にはありません。
 >* AEM Sitesのフロントエンド配信を使用します。 ヘッドレス配信は現在サポートされていません。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
 
 >[!TIP]
 >
