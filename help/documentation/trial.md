@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 体験版
 description: 既存の AEM Sites のお客様向けの AEM Sites Optimizer 体験版を開始します。
-source-git-commit: 225f039d88627a88b8c3989f963d5602cbaaab57
+source-git-commit: da39fb8ccf51e24f5f5eb1bac33e51ecd959874a
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 92%
+source-wordcount: '728'
+ht-degree: 89%
 
 ---
 
@@ -13,9 +13,14 @@ ht-degree: 92%
 
 既存の&#x200B;**AEM Sitesのお客様（Edge Delivery Services、Cloud Services、Managed Services）**&#x200B;向けに、この体験版を使用してSites Optimizerを開始します。 ドメインデータは既にオンボードされているので、すぐに最適化を開始できます。 以下のビデオでは、体験版エクスペリエンスと開始方法を順を追って説明します。
 
->[!NOTE]
+>[!IMPORTANT]
 >
->AEM Sites Optimizer体験版は現在、ヘッドレスサイトをサポートしていません。 体験版を使用するには、AEM Sites フロントエンド配信を使用するweb サイトをオンボーディングします。
+>まず、自社サイトが次の要件を満たしていることを確認しましょう。
+>
+>* AEM Sites（Edge Delivery Services、Cloud Service、Managed Services）上に構築されています。
+>* 本番サイトであり、開発、QA、ステージング、オーサー、プレビュー環境ではありません。
+>* これは一般にアクセス可能であり、ログインの背後にはありません。
+>* AEM Sitesのフロントエンド配信を使用します。 ヘッドレス配信は現在サポートされていません。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
 
@@ -116,7 +121,7 @@ CARDS
                     <p class="is-size-6">コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -139,7 +144,7 @@ CARDS
                     <p class="is-size-6">欠落している代替テキストの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -162,7 +167,7 @@ CARDS
                     <p class="is-size-6">破損したバックリンクの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
