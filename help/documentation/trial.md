@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 体験版
 description: 既存の AEM Sites のお客様向けの AEM Sites Optimizer 体験版を開始します。
-source-git-commit: da39fb8ccf51e24f5f5eb1bac33e51ecd959874a
+source-git-commit: 5bd55dcc380f0721fb9818413207c22e21e8299b
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 89%
+source-wordcount: '1102'
+ht-degree: 59%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 89%
 >* これは一般にアクセス可能であり、ログインの背後にはありません。
 >* AEM Sitesのフロントエンド配信を使用します。 ヘッドレス配信は現在サポートされていません。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -48,6 +48,40 @@ ht-degree: 89%
   * **自動特定** - 複数のデータソースを使用して、サイト全体で問題を検出します。
   * **自動提案** - 各問題に対して、AI が生成した規範的なレコメンデーションを提供します。
   * **自動最適化** - 承認後、修正をオーサリング環境に直接デプロイします。 アップデートは既存のワークフローに従って行われるので、チームは AEM を通じてレビューおよび公開できます。
+
+## Edge Delivery体験版サイトの自動修正を有効にする
+
+トライアル版のお客様が、Google DriveまたはSharePointで作成されたEdge Delivery Services（EDS）サイトに対する自動修正の提案を行うために、**作成者にデプロイ** アクションを有効にする方法について説明します。
+
+>[!NOTE]
+>
+>この要件は、Google DriveまたはSharePointでサイトを作成している体験版の組織にのみ適用されます。 有料のお客様、およびCrosswalkまたはDark Alleyで作成されたサイトは、影響を受けません。
+
+体験版のお客様は、**ASO-EDS-Autofix-Users** IMS グループに属している必要があります。 グループが存在しない場合は、組織の管理者がグループを作成して追加できます。
+
+1. [Adobe Admin Console](https://adminconsole.adobe.com/)にログインします。
+1. **ユーザー**/**ユーザーグループ**&#x200B;を選択します。
+1. 「**ユーザーグループを追加**」を選択します。
+1. **ユーザーグループ名**&#x200B;に対して、次のように正確に入力します。
+
+   ```
+   ASO-EDS-Autofix-Users
+   ```
+
+   >[!IMPORTANT]
+   >
+   > グループ名は、大文字と小文字を含めて正確に一致する必要があります。 大文字と小文字を区別して一致するので、異なるスペルや大文字と小文字の区別（例：`ASO-EDS-Autofix-users`）は機能しません。 作成後にグループの名前を変更しないでください。
+
+1. 「**保存**」を選択します。
+
+   ![Adobe Admin Consoleで新しいユーザーグループダイアログを作成し、「ユーザーグループ名」フィールドをASO-EDS-Autofix-Users](./assets/trial/create-user-group.png){align="center"}に設定します
+
+1. 新しいグループを開き、**ユーザーを追加**&#x200B;を選択します。
+1. 自動修正をデプロイできるユーザーの電子メールアドレスまたはユーザー名を入力し、**保存**&#x200B;を選択します。
+
+   ![Adobe Admin Console](./assets/trial/add-users-to-group.png){align="center"}でこのユーザーグループにユーザーを追加ダイアログ
+
+グループのメンバーの場合、「**作成者にデプロイ**」ボタンが有効になります。 まだメンバーでない場合は、**作成者へのデプロイ**&#x200B;は無効になり、管理者に連絡してグループに追加するように求めるツールチップが表示されます。 管理者がグループにユーザーを追加したら、ログアウトしてSites Optimizerに再度ログインし、セッションで新しいグループメンバーシップを選択します。
 
 ## よくある質問
 
@@ -85,6 +119,16 @@ Sites Optimizer は、パフォーマンスに影響を与える問題を継続�
 +++より多くの機会にアクセスするにはどうすればよいですか？
 
 製品エクスペリエンスを通じて利用可能なアップグレード CTA またはセールスにお問い合わせ CTA を使用するか、[siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com) までメールでお問い合わせください。
+
++++
++++ASO-EDS-Autofix-Users グループに属していますが、オーサーへのデプロイはまだ無効です。 何を確認すればよいですか？
+
+ログアウトして再度ログインすると、グループメンバーシップはログイン時に読み取られます。 また、グループ名のスペルと大文字が正確に`ASO-EDS-Autofix-Users`であること、およびサイトが属するのと同じ組織で作成されていることを確認します。
+
++++
++++ASO-EDS-Autofix-Users グループ要件は、すべてのEdge Delivery Services サイトに適用されますか？
+
+いいえ。 これは、**SharePoint ドライブ**&#x200B;または&#x200B;**Google**&#x200B;で作成された体験版サイトにのみ適用されます。 **Crosswalk**&#x200B;または&#x200B;**Dark Alley**&#x200B;で作成されたサイト、およびすべての&#x200B;**有料** サイトは影響を受けません。
 
 +++
 
