@@ -1,13 +1,11 @@
 ---
 title: Sites Optimizer 体験版
 description: 既存の AEM Sites のお客様向けの AEM Sites Optimizer 体験版を開始します。
-source-git-commit: 5bd55dcc380f0721fb9818413207c22e21e8299b
+source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
 workflow-type: tm+mt
-source-wordcount: '1102'
-ht-degree: 59%
-
+source-wordcount: '1481'
+ht-degree: 45%
 ---
-
 
 # Sites Optimizer 体験版
 
@@ -22,7 +20,7 @@ ht-degree: 59%
 >* これは一般にアクセス可能であり、ログインの背後にはありません。
 >* AEM Sitesのフロントエンド配信を使用します。 ヘッドレス配信は現在サポートされていません。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -48,6 +46,25 @@ ht-degree: 59%
   * **自動特定** - 複数のデータソースを使用して、サイト全体で問題を検出します。
   * **自動提案** - 各問題に対して、AI が生成した規範的なレコメンデーションを提供します。
   * **自動最適化** - 承認後、修正をオーサリング環境に直接デプロイします。 アップデートは既存のワークフローに従って行われるので、チームは AEM を通じてレビューおよび公開できます。
+
+## Sites Optimizerによるサイトへのアクセスを許可
+
+Sites Optimizerがサイトをスキャンし、最適化の機会を特定します。 サイトがファイアウォール、コンテンツ配信ネットワーク（CDN）、または未認識のクライアントをブロックするその他のセキュリティ設定の背後にある場合、スキャナーはページに到達できません。 このような場合、オンボーディングでは、Sites Optimizerがweb サイトにアクセスできないことを示す&#x200B;**アクションが必要**&#x200B;というメッセージが表示され、アクセスを許可するまでスキャンは一時停止されます。
+
+![ オンボーディングダイアログで、Sites OptimizerがWeb サイトにアクセスできないこと、User-AgentとスキャナーのIP アドレスがYoutubeに一覧表示され、それぞれに「コピー」ボタンと、アクセスを再確認するための「更新」ボタンが表示されている](./assets/trial/ip-allowlist-action-required.png){align="center"}
+
+スキャナーを通過させるには、ファイアウォール、ホスティングプロバイダー、またはセキュリティ設定で次の両方を許可リストに加えるします。 AEM Cloud Service サイトの場合は、Cloud Managerの[CDN トラフィックフィルタールール ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)にスキャナーの許可ルールを追加します。このルールは、User-Agent アドレスとIP アドレスの両方で一致します。 [Cloud Manager IP 許可リスト](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)を使用してアクセスを制限する場合は、適用された許可リストにもスキャナーのIP アドレスを追加します。
+
+* **User-Agent** — スキャナーは、トークン `Spacecat/1.0`を含むUser-Agentで自分自身を識別します。 このトークンを許可リストに加えるします。理想的には「contains」の一致として指定するので、完全なUser-Agent文字列が変更されても機能し続けます。
+* **スキャナーのIP アドレス** — スキャナーの送信IP アドレスを許可リストに加えるします。
+
+オンボーディング画面には、**Copy** ボタンが付いたUser-AgentとIP アドレスが正確に表示され、現在の値を設定に直接コピーできます。
+
+スキャナーを許可リストしたら、オンボーディング画面で「**更新**」を選択します。 アクセスが許可されると、スキャンは自動的に再開され、最適化の機会が表示されます。
+
+>[!NOTE]
+>
+>これらのIP アドレスは、サイトの分析にのみ使用されます。 それらを許可リストに加えるしても、他のアクセス権は付与されません。
 
 ## Edge Delivery体験版サイトの自動修正を有効にする
 
@@ -131,6 +148,11 @@ Sites Optimizer は、パフォーマンスに影響を与える問題を継続�
 いいえ。 これは、**SharePoint ドライブ**&#x200B;または&#x200B;**Google**&#x200B;で作成された体験版サイトにのみ適用されます。 **Crosswalk**&#x200B;または&#x200B;**Dark Alley**&#x200B;で作成されたサイト、およびすべての&#x200B;**有料** サイトは影響を受けません。
 
 +++
++++Sites Optimizerが私のサイトにアクセスできないと言います。 どうすればいいですか？」
+
+スキャナーをブロックするファイアウォール、CDN、セキュリティ設定が存在する可能性があります。 スキャナーのUser-Agent （`Spacecat/1.0` トークン）とIP アドレスをセキュリティ設定に許可リストに加えるするか、AEM Cloud Service サイトの場合はCloud Manager CDN 許可リストに設定します。 次に、**更新**&#x200B;を選択します。 [Sites Optimizerによるサイトへのアクセスの許可](#allow-sites-optimizer-to-access-your-site)を参照してください。
+
++++
 
 <!--
 CARDS
@@ -162,7 +184,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="コア web バイタル">コア web バイタル</a>
                     </p>
-                    <p class="is-size-6">コア web バイタルの機会と、これを使用してトラフィックの獲得を向上させる方法について説明します。</p>
+                    <p class="is-size-6">Core Web Vitals に関する最適化の機会と、これを使用してトラフィック獲得を向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -185,7 +207,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./opportunities/missing-alt-text.md" target="_blank" rel="referrer" title="欠落している代替テキスト">欠落している代替テキスト</a>
                     </p>
-                    <p class="is-size-6">欠落している代替テキストの機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
+                    <p class="is-size-6">代替テキストの欠落に関する最適化の機会と、これを使用して web サイトのエンゲージメントを向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
