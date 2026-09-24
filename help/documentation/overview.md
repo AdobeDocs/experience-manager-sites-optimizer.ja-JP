@@ -4,25 +4,26 @@ description: Experience Manager Sites Optimizer ドキュメント。
 TQID: https://experienceleague.adobe.com/Thzxo0-DNTCjk9C0MX7OR2yObUKxbUQDQFV3BtD7kmg
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+    internal-label: Insights
+source-git-commit: 192371b0c731dc7b27b6296d9ef0fcc753b059fe
 workflow-type: tm+mt
-source-wordcount: 137
-ht-degree: 100%
-
+source-wordcount: '307'
+ht-degree: 94%
 ---
-
 # Sites Optimizer ドキュメント
 
 ![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
-このたびは、Sites Optimizer ドキュメントをご利用いただき、誠にありがとうございます。 ここでは、Sites Optimizer を使用して AEM Sites を最適化する方法について説明します。
+このたびは、Sites Optimizer ドキュメントをご利用いただき、誠にありがとうございます。 Sites Optimizerを使用してAEM サイトを最適化する方法について説明します。
 
 ## Site Optimizer の基本
 
-AEM Sites Optimizer のドキュメントを探索して、ホームダッシュボード、設定、最適化のインサイトを得るための機会リストなど、主要な UI コンポーネントについて説明します。
+AEM Sites Optimizer のドキュメントを参照して、ホームダッシュボード、設定、最適化のインサイトを得るための機会リストなど、主要な UI コンポーネントについて学びます。
 
 <!--
 CARDS 
@@ -59,7 +60,7 @@ CARDS
                     <p class="is-size-6">Sites Optimizer の基本とその操作方法について説明します。</p>
                 </div>
                 <a href="./basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -82,7 +83,7 @@ CARDS
                     <p class="is-size-6">使用可能なすべての Site Optimizer の機会と、これらを使用してサイトのパフォーマンスを向上させる方法について説明します。</p>
                 </div>
                 <a href="./opportunities/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -105,7 +106,7 @@ CARDS
                     <p class="is-size-6">Sites Optimizer を設定し、他のツールと統合する方法について説明します。</p>
                 </div>
                 <a href="./settings.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -128,7 +129,7 @@ CARDS
                     <p class="is-size-6">既存のAEM Sites ユーザー向けの手順、制限、FAQ など、Sites Optimizer 体験版を開始します。</p>
                 </div>
                 <a href="./trial.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
