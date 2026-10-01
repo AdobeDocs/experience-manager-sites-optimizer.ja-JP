@@ -1,13 +1,11 @@
 ---
 title: SEO監査のプリフライト
 description: AEM Sites Optimizerのページでプリフライトが実行されるSEO監査について説明します。
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+source-git-commit: d87b607248efdeecf1ba29ede03bf1628d1dff30
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '208'
 ht-degree: 0%
-
 ---
-
 # SEO監査
 
 ![&#x200B; プリフライト準備状況ダッシュボードでのSEO監査](./assets/seo/hero.png){align="center"}
@@ -21,7 +19,7 @@ SEO カテゴリには、次の監査が含まれます。
 * [&#x200B; メタタグ &#x200B;](./seo/metatags.md) - ページタイトルとメタディスクリプション タグを確認します。
 * [見出し](./seo/headings.md) - ページの見出し構造と順序を確認します。
 * [H1 count](./seo/h1-count.md) - ページのH1見出しの数を確認します。
-* [&#x200B; リンク &#x200B;](./seo/links.md) - ページ上のリンクを確認します。
+* [内部リンク &#x200B;](./seo/internal-links.md) – 自分のサイトを示すページ上のリンクを確認します。
 * [読みやすさ](./seo/readability.md) - ページコンテンツを簡単に読み取れることを確認します。
 * [正規](./seo/canonical.md) - ページの正規リンクを確認します。
 * [&#x200B; ボディサイズ &#x200B;](./seo/body-size.md) - ページ上のボディコンテンツの量を確認します。
