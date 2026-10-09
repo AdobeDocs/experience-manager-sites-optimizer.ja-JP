@@ -1,7 +1,10 @@
 ---
 title: Sites Optimizer 体験版
 description: 既存の AEM Sites のお客様向けの AEM Sites Optimizer 体験版を開始します。
-source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '1481'
 ht-degree: 45%
@@ -20,7 +23,7 @@ ht-degree: 45%
 >* これは一般にアクセス可能であり、ログインの背後にはありません。
 >* AEM Sitesのフロントエンド配信を使用します。 ヘッドレス配信は現在サポートされていません。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483288/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -51,9 +54,9 @@ ht-degree: 45%
 
 Sites Optimizerがサイトをスキャンし、最適化の機会を特定します。 サイトがファイアウォール、コンテンツ配信ネットワーク（CDN）、または未認識のクライアントをブロックするその他のセキュリティ設定の背後にある場合、スキャナーはページに到達できません。 このような場合、オンボーディングでは、Sites Optimizerがweb サイトにアクセスできないことを示す&#x200B;**アクションが必要**&#x200B;というメッセージが表示され、アクセスを許可するまでスキャンは一時停止されます。
 
-![&#x200B; オンボーディングダイアログで、Sites OptimizerがWeb サイトにアクセスできないこと、User-AgentとスキャナーのIP アドレスがYoutubeに一覧表示され、それぞれに「コピー」ボタンと、アクセスを再確認するための「更新」ボタンが表示されている](./assets/trial/ip-allowlist-action-required.png){align="center"}
+![ オンボーディングダイアログで、Sites OptimizerがWeb サイトにアクセスできないこと、User-AgentとスキャナーのIP アドレスがYoutubeに一覧表示され、それぞれに「コピー」ボタンと、アクセスを再確認するための「更新」ボタンが表示されている](./assets/trial/ip-allowlist-action-required.png){align="center"}
 
-スキャナーを通過させるには、ファイアウォール、ホスティングプロバイダー、またはセキュリティ設定で次の両方を許可リストに加えるします。 AEM Cloud Service サイトの場合は、Cloud Managerの[CDN トラフィックフィルタールール &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)にスキャナーの許可ルールを追加します。このルールは、User-Agent アドレスとIP アドレスの両方で一致します。 [Cloud Manager IP 許可リスト](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)を使用してアクセスを制限する場合は、適用された許可リストにもスキャナーのIP アドレスを追加します。
+スキャナーを通過させるには、ファイアウォール、ホスティングプロバイダー、またはセキュリティ設定で次の両方を許可リストに加えるします。 AEM Cloud Service サイトの場合は、Cloud Managerの[CDN トラフィックフィルタールール ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)にスキャナーの許可ルールを追加します。このルールは、User-Agent アドレスとIP アドレスの両方で一致します。 [Cloud Manager IP 許可リスト](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)を使用してアクセスを制限する場合は、適用された許可リストにもスキャナーのIP アドレスを追加します。
 
 * **User-Agent** — スキャナーは、トークン `Spacecat/1.0`を含むUser-Agentで自分自身を識別します。 このトークンを許可リストに加えるします。理想的には「contains」の一致として指定するので、完全なUser-Agent文字列が変更されても機能し続けます。
 * **スキャナーのIP アドレス** — スキャナーの送信IP アドレスを許可リストに加えるします。
