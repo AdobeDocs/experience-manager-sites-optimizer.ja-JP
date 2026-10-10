@@ -1,13 +1,14 @@
 ---
 title: メタタグ監査のプリフライト
 description: AEM Sites Optimizerのプリフライトでのメタタグ監査について説明します。
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
-
 ---
-
 # メタタグ監査
 
 **メタタグ**&#x200B;監査では、ページタイトルやメタディスクリプションなど、ページ上のメタデータタグがレビューされます。 検索エンジンは、適切なメタデータを活用することで、コンテンツを把握し、検索結果におけるページの見た目を改善できます。 監査では、タグが見つからないか、重複しているか、推奨される長さの範囲外であるタグにフラグが付けられます。
