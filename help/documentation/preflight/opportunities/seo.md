@@ -4,9 +4,9 @@ description: AEM Sites Optimizerのページでプリフライトが実行され
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 0%
 ---
 # SEO監査
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 SEO カテゴリには、次の監査が含まれます。
 
-* [&#x200B; メタタグ &#x200B;](./seo/metatags.md) - ページタイトルとメタディスクリプション タグを確認します。
+* [&#x200B; メタタグ &#x200B;](./seo/metatags.md) - ページタイトル、メタディスクリプション、およびH1見出しを確認します。
 * [見出し](./seo/headings.md) - ページの見出し構造と順序を確認します。
 * [内部リンク &#x200B;](./seo/internal-links.md) – 自分のサイトを示すページ上のリンクを確認します。
 * [外部リンク &#x200B;](./seo/external-links.md) – 他のサイトを指すページ上のリンクを確認します。
