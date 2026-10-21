@@ -17,11 +17,11 @@ ht-degree: 48%
 ---
 # AEM Sites Optimizer プリフライト
 
-![ プリフライトの準備状況ダッシュボード ](./assets/overview/hero.png){align="center"}
+![&#x200B; プリフライトの準備状況ダッシュボード &#x200B;](./assets/overview/hero.png){align="center"}
 
 >[!NOTE]
 >
->[AEM 2026.7.0 （リリース 27083） ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)以降、プリフライトはAEM Sites ページエディターツールバーに組み込まれています。 詳しくは、[ プリフライト設定](./setup.md)を参照してください。
+>[AEM 2026.7.0 （リリース 27083） &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)以降、プリフライトはAEM Sites ページエディターツールバーに組み込まれています。 詳しくは、[&#x200B; プリフライト設定](./setup.md)を参照してください。
 
 AEM Sites Optimizerのプリフライト機能は、コンテンツや構造を分析し、実用的なレコメンデーションを提示することで、公開前にページを検証および最適化するのに役立ちます。 手戻りを減らしながらページの品質、パフォーマンス、公開の準備を整えたいと考えている作成者、マーケター、開発者向けに設計されています。
 
