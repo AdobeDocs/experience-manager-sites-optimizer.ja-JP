@@ -4,16 +4,17 @@ description: 公開前にページを評価するために実行されるプリ�
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+    internal-label: Accessibility
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: 300
-ht-degree: 28%
-
+source-wordcount: '389'
+ht-degree: 48%
 ---
-
 # AEM Sites Optimizer プリフライト
 
 ![&#x200B; プリフライトの準備状況ダッシュボード &#x200B;](./assets/overview/hero.png){align="center"}
@@ -24,7 +25,7 @@ ht-degree: 28%
 
 AEM Sites Optimizerのプリフライト機能は、コンテンツや構造を分析し、実用的なレコメンデーションを提示することで、公開前にページを検証および最適化するのに役立ちます。 手戻りを減らしながらページの品質、パフォーマンス、公開の準備を整えたいと考えている作成者、マーケター、開発者向けに設計されています。
 
-オーサリング環境からプリフライトを開始し、**ページを分析**&#x200B;を選択して監査を実行します。 監査では、メタデータや見出し構造など、ページの1つの側面を評価し、関連する監査を&#x200B;**SEO**&#x200B;や&#x200B;**アクセシビリティ**&#x200B;などのカテゴリにグループ化します。 次に、Preflightは、ページの準備状況スコアと機会（改善可能な具体的なもの）を報告し、実用的な推奨事項を提示します。
+オーサリング環境からプリフライトを開始し、**ページを分析**&#x200B;を選択して監査を実行します。 監査では、メタデータや見出し構造など、ページの1つの側面を評価し、関連する監査を&#x200B;**SEO**&#x200B;や&#x200B;**アクセシビリティ**&#x200B;などのカテゴリにグループ化します。 次に、Preflightは、ページに合格した監査の割合と、発見した機会（改善可能な具体的なもの）を報告し、それぞれに実用的な推奨事項を提示します。
 
 ## プリフライトの基本を学ぶ
 
@@ -63,7 +64,7 @@ CARDS
                     <p class="is-size-6">Sites Optimizerのプリフライトアクセシビリティ監査について説明します。</p>
                 </div>
                 <a href="./opportunities/accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -86,7 +87,7 @@ CARDS
                     <p class="is-size-6">Sites Optimizerのプリフライト SEO監査について説明します。</p>
                 </div>
                 <a href="./opportunities/seo.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
