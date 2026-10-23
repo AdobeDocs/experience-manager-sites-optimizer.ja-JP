@@ -4,9 +4,9 @@ description: AEM Sites Optimizerのプリフライトでのメタタグ監査に
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '801'
 ht-degree: 1%
 ---
 # メタタグ監査
@@ -34,12 +34,6 @@ ht-degree: 1%
 | H1見出し | 最大70文字 | 71～75文字 | 75文字以上 |
 
 これらの範囲は、検索エンジンの要件ではなく、推奨されるガイドラインです。 Preflightは、それらを使用して商談を報告するタイミングを決定します。
-
-各商談は、次の3つの影響レベルのいずれかに報告されます。
-
-* **高：**&#x200B;がタグがないか、空です。
-* **中：** ページのタイトルまたはメタディスクリプションが短すぎる、メタディスクリプションまたはH1が長すぎる、または複数のH1を持つページ。
-* **低：**&#x200B;は、60文字を超えるページタイトルを含む、理想的な長さを超えているが長すぎない値です。
 
 ## 値の読み取り方法
 

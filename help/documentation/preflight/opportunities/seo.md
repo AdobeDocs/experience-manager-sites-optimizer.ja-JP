@@ -4,18 +4,18 @@ description: AEM Sites Optimizerのページでプリフライトが実行され
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 ---
 # SEO監査
 
-![&#x200B; プリフライト準備状況ダッシュボードでのSEO監査](./assets/seo/hero.png){align="center"}
+プリフライト結果ダッシュボードの![SEO監査](./assets/seo/hero.png){align="center"}
 
 プリフライトの&#x200B;**SEO** カテゴリは、ページが検索エンジン向けに最適化されているかどうかを評価する監査をグループ化します。 プリフライト監査を実行すると、これらの監査により、ページのメタデータ、見出し構造、リンク、コンテンツが評価され、公開前にレビューして解決できる機会が表示されます。
 
-準備状況ダッシュボードで、**SEO** カテゴリを展開して、各監査が合格したかどうか、見つかった商談数を確認します。 監査を選択して詳細ページを開き、商談を処理します。 結果を解釈して機会を解決する方法については、[&#x200B; プリフライトでの結果の監査](../audit-results.md)を参照してください。
+結果ダッシュボードで、**SEO** カテゴリを展開して、各監査が合格したかどうか、見つかった商談数を確認します。 監査を選択して詳細ページを開き、商談を処理します。 結果を解釈して機会を解決する方法については、[&#x200B; プリフライトでの結果の監査](../audit-results.md)を参照してください。
 
 SEO カテゴリには、次の監査が含まれます。
 
