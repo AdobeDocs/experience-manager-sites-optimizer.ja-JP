@@ -5,23 +5,18 @@ TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
+source-git-commit: 00dbc1a9033cf327da68df99c9604b50f45b43ee
 workflow-type: tm+mt
-source-wordcount: 896
-ht-degree: 47%
-
+source-wordcount: '877'
+ht-degree: 49%
 ---
-
 # プリフライト設定
 
 プリフライトを実行するには、オーサリング環境で設定する必要があります。 ユニバーサルエディター、ドキュメントベースのオーサリング、AEM Sites ページエディター、Adobe Managed Services用にプリフライトを設定することで、ページが公開される前にプリフライト監査を実行できます。
 
 ## ユーザーアクセスの有効化
 
-プリフライトを使用するには、[Adobe Admin Console](https://adminconsole.adobe.com)で次のAEM Sites Optimizer製品プロファイルの少なくとも1つにユーザーが割り当てられていることを確認します。
-
-* AEM Sites Optimizer - ユーザーの自動提案
-* AEM Sites Optimizer - ユーザーの自動最適化
+Preflightを使用するには、[Adobe Admin Console](https://adminconsole.adobe.com)で&#x200B;**Adobe Experience Manager Sites Optimizer**&#x200B;商品を割り当てる必要があります。
 
 ## プリフライトを有効にする
 
