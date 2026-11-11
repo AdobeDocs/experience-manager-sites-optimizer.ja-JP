@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
+source-git-commit: b17260f7dbb82fd26120fd90c1d21a22d33949b1
 workflow-type: tm+mt
-source-wordcount: '3999'
+source-wordcount: '4035'
 ht-degree: 1%
 ---
 
@@ -18,6 +18,12 @@ ht-degree: 1%
 このページでは、Adobe Experience Manager Sites Optimizerの最新のアップデート、新機能、機能強化について説明します。
 
 **（早期アクセス）**&#x200B;とマークされた機能は、リクエストに応じて利用できます。アカウントチームまたはカスタマーサクセスエンジニアにお問い合わせください。
+
+## 2026年11月11日（PT） {#november-11-2026}
+
+### 機能強化
+
+- **プリフライト要素パネル** — **要素** セクションに、可能な場合はCSS セレクターの代わりに画像のサムネールまたは読みやすいテキストが表示され、要素のテキストまたはCSS セレクターをコピーできるようになりました。
 
 ## 2026年10月26日～11月1日 {#october-26-november-1-2026}
 
