@@ -1,15 +1,16 @@
 ---
 title: Lorem Ipsum監査のプリフライト
 description: Preflight for AEM Sites OptimizerのLorem ipsum監査について説明します。
+badgePreflightSEO: label="プリフライト - SEO" type="Caution" url="../seo.md" tooltip="プリフライト - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '375'
 ht-degree: 1%
 ---
-# Lorem ipsum audit
+# プリフライト - Lorem ipsum audit
 
 **Lorem ipsum**&#x200B;監査は、ページコンテンツに残っているプレースホルダーテキストを検出します。
 
@@ -45,4 +46,4 @@ ht-degree: 1%
 
 使用可能な場合は、ページ **で** ハイライトを使用します。 非表示の要素は、他の画面サイズ、メニューまたはダイアログに表示される場合があります。
 
-プレースホルダーテキストを置き換えるか削除します。 代替テキストとアクセシビリティラベルの場合は、画像またはコントロールを記述します。 詳しいガイダンスについては、[&#x200B; プリフライトでの監査結果](../../audit-results.md)を参照してください。
+プレースホルダーテキストを置き換えるか削除します。 代替テキストとアクセシビリティラベルの場合は、画像またはコントロールを記述します。 詳しいガイダンスについては、[ プリフライトでの監査結果](../../audit-results.md)を参照してください。

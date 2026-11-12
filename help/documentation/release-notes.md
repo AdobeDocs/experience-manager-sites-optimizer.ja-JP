@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: b17260f7dbb82fd26120fd90c1d21a22d33949b1
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '4035'
+source-wordcount: '4063'
 ht-degree: 1%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 1%
 ### 機能強化
 
 - **プリフライト要素パネル** — **要素** セクションに、可能な場合はCSS セレクターの代わりに画像のサムネールまたは読みやすいテキストが表示され、要素のテキストまたはCSS セレクターをコピーできるようになりました。
+- **標準HTTPS チェック**&#x200B;のプリフライト – 標準の監査では、ページのプロトコルと異なる標準URLをフラグ付けする代わりに、`https://`ではなく`http://`を使用する標準URLをフラグ付けするようになりました。
 
 ## 2026年10月26日～11月1日 {#october-26-november-1-2026}
 
