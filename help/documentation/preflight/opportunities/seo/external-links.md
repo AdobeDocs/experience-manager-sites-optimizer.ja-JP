@@ -1,15 +1,16 @@
 ---
 title: 外部リンクのプリフライト監査
 description: AEM Sites Optimizer用プリフライトの外部リンク監査について説明します。
+badgePreflightSEO: label="プリフライト - SEO" type="Caution" url="../seo.md" tooltip="プリフライト - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1117'
 ht-degree: 0%
 ---
-# 外部リンクの監査
+# プリフライト – 外部リンクの監査
 
 **外部リンク**&#x200B;監査では、他のサイトを指すページ上のリンクを確認します。 監査では、編集中のページの各外部リンクを確認し、壊れている、安全でない、または自動的に確認できなかったリンクにフラグを付けます。
 

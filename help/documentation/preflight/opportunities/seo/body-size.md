@@ -1,15 +1,16 @@
 ---
 title: プリフライトボディサイズの監査
 description: AEM Sites Optimizer用プリフライトのボディサイズ監査について説明します。
+badgePreflightSEO: label="プリフライト - SEO" type="Caution" url="../seo.md" tooltip="プリフライト - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '697'
 ht-degree: 0%
 ---
-# ボディサイズ監査
+# プリフライト – ボディサイズの監査
 
 **ボディサイズ**&#x200B;監査では、ページ上のボディコンテンツの量がレビューされます。 コンテンツが非常に少ないページは、読者にとって有用でないことがあり、検索結果でランクが低くなる可能性があります。 監査では、テキストが少なすぎるように見えるページにフラグが付けられます。
 

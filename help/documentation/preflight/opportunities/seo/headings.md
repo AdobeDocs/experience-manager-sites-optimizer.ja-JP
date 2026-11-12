@@ -1,15 +1,16 @@
 ---
 title: プリフライト見出しの監査
 description: AEM Sites Optimizerのプリフライトでの見出しの監査について説明します。
+badgePreflightSEO: label="プリフライト - SEO" type="Caution" url="../seo.md" tooltip="プリフライト - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '654'
 ht-degree: 0%
 ---
-# 見出しの監査
+# プリフライト – 見出しの監査
 
 **見出し**&#x200B;監査では、ページの小見出し（H2 ～ H6）がレビューされます。 H2にH4が続くなど、テキストのない見出しとレベルをスキップする見出しにフラグを付けます。
 
