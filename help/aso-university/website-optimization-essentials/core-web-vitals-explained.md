@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * 読み込み速度、応答性、視覚的な安定性など、web サイト体験にとって読み込み速度が重要である理由を把握しましょう。
 
-![ ビデオ近日公開予定：Core Web Vitalsの説明](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：Core Web Vitalsの説明](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

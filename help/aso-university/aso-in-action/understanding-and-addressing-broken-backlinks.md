@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * 壊れたバックリンクとは何か、なぜ重要なのか、また推奨されるアクションを確認する方法について説明します。
 
-![ ビデオ近日公開予定：壊れたバックリンクの理解と対処](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：壊れたバックリンクの理解と対処](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

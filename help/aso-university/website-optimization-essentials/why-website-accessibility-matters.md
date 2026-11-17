@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * 一般的なアクセシビリティの課題と、より多くの人がweb サイトを利用するために、アクセシビリティの高いコンテンツがどのように役立つのかをご確認ください。
 
-![ ビデオ近日公開予定：Web サイトのアクセシビリティが重要な理由](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：Web サイトのアクセシビリティが重要な理由](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * 従来型の検索とAIを活用した検索がどのように相互作用するか、またコンテンツを最適化する際に考慮すべき点について説明します。
 
-![ ビデオ近日公開予定：SEOとAI 検索: Web サイト所有者が知っておくべきこと](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：SEOとAI 検索: Web サイト所有者が知っておくべきこと](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

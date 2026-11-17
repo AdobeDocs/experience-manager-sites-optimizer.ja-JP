@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * 代替テキストの目的と、より有用な画像説明の提案を確認する方法について説明します。
 
-![ ビデオ近日公開予定：画像の代替テキストを改善](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：画像の代替テキストを改善](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

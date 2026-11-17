@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * ASOの有料レポートを確認し、その結果を解釈し、実用的なweb サイト最適化の優先事項を特定します。
 
-![ ビデオ近日公開予定：有料レポートについて](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：有料レポートについて](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

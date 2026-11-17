@@ -12,7 +12,7 @@ ht-degree: 4%
 Sites Optimizer大学は、Sites Optimizerの学習機会を把握し、自信を持って活用するのに役立つ学習ハブです。 web サイトの最適化とSEOの背後にある概念を学び、製品のレコメンデーションに対して自分のペースで取り組む方法を確認します。 以下のトピックで参照してください。
 
 >[!NOTE]
->学習コンテンツは近日リリース予定です。 完全なドキュメントについては、[Sites Optimizer ドキュメント ](../documentation/overview.md)を参照してください。
+>学習コンテンツは近日リリース予定です。 完全なドキュメントについては、[Sites Optimizer ドキュメント &#x200B;](../documentation/overview.md)を参照してください。
 
 
 ## ニュースとインサイト {#news-and-insights}
@@ -21,7 +21,7 @@ Sites Optimizer大学は、Sites Optimizerの学習機会を把握し、自信�
 
 ::::landing-cards-container
 :::card
-![ パーソナル AI エージェントとは何ですか？](/help/aso-university/assets/coming-soon.png)
+![&#x200B; パーソナル AI エージェントとは何ですか？](/help/aso-university/assets/coming-soon.png)
 
 パーソナル AI エージェントとは何ですか？
 
@@ -134,7 +134,7 @@ H1見出しとMeta タグの最適化
 [近日リリース予定](aso-in-action/optimizing-h1-headings-and-meta-tags.md)
 :::
 :::card
-![ コンテンツの鮮度：ページを更新するタイミングと理由](/help/aso-university/assets/coming-soon.png)
+![&#x200B; コンテンツの鮮度：ページを更新するタイミングと理由](/help/aso-university/assets/coming-soon.png)
 
 コンテンツの鮮度：ページを更新するタイミングと理由
 
@@ -150,7 +150,7 @@ H1見出しとMeta タグの最適化
 
 ::::landing-cards-container
 :::card
-![ キーワードクラスターの影響の追跡](/help/aso-university/assets/coming-soon.png)
+![&#x200B; キーワードクラスターの影響の追跡](/help/aso-university/assets/coming-soon.png)
 
 キーワードクラスターの影響追跡
 

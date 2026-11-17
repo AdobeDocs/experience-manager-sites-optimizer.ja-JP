@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * H1見出しとメタタグの役割を学び、ASOの推奨事項を確認します。
 
-![ ビデオ近日公開予定：H1 ヘッダーとMeta タグの最適化](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：H1 ヘッダーとMeta タグの最適化](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

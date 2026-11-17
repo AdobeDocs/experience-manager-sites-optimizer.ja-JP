@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * 古くなったコンテンツの原因と、注意が必要なページを特定するためにASOがどのように役立つかをご紹介します。
 
-![ ビデオ近日公開予定：コンテンツの鮮度：ページを更新するタイミングと理由](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：コンテンツの鮮度：ページを更新するタイミングと理由](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

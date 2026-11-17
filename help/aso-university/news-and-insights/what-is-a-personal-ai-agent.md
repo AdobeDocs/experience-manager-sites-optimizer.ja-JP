@@ -28,4 +28,4 @@ ht-degree: 2%
 
 ![近日公開予定のビデオ：個人AI エージェントとは何ですか？](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

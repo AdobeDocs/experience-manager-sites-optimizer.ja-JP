@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * 関連キーワードのグループ間でパフォーマンスの変更を追跡し、その影響を解釈する方法について説明します。
 
-![ ビデオ近日公開予定：キーワードクラスターの影響追跡](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：キーワードクラスターの影響追跡](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

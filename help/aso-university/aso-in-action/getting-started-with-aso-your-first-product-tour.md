@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * 製品インターフェイスをツアーし、最適化の機会を確認する場所を確認します。
 
-![ ビデオ近日公開予定：ASOの概要：最初の製品ツアー](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：ASOの概要：最初の製品ツアー](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

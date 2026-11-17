@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * ソースでの修正の意味を説明し、サポート対象の商談の修正を確認して適用する方法を説明します。
 
-![ ビデオ近日公開予定：Sourceでの自動修正：Web サイトのSource コンテンツの問題をASOが修正する方法](../assets/coming-soon.png)
+![&#x200B; ビデオ近日公開予定：Sourceでの自動修正：Web サイトのSource コンテンツの問題をASOが修正する方法](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。

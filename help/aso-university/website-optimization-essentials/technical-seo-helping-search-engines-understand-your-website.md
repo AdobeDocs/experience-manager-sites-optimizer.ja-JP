@@ -26,6 +26,6 @@ ht-degree: 2%
 
 * クロールや索引付け、検索エンジンがコンテンツを見つけて理解するのに役立つ技術的な基礎について説明します。
 
-![ ビデオは近日公開予定：技術的なSEO：検索エンジンがWeb サイトを理解するのに役立つ](../assets/coming-soon.png)
+![&#x200B; ビデオは近日公開予定：技術的なSEO：検索エンジンがWeb サイトを理解するのに役立つ](../assets/coming-soon.png)
 
-詳細な手順と要件については、[Sites Optimizer ドキュメント ](../../documentation/overview.md)を参照してください。
+詳細な手順と要件については、[Sites Optimizer ドキュメント &#x200B;](../../documentation/overview.md)を参照してください。
