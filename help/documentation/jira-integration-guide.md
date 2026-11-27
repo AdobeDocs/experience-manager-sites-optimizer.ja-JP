@@ -35,9 +35,9 @@ AEM Sites Optimizerから直接、商談の問題をJiraのチケットに変換
 
 | ステージ | 誰が行うのか | ここで、 |
 |---|---|---|
-| [ アカウントの準備](#prerequisites) | Jira サイト管理者とAdobe組織管理者 | Atlassian AdministrationとAdobe Admin Console |
+| [&#x200B; アカウントの準備](#prerequisites) | Jira サイト管理者とAdobe組織管理者 | Atlassian AdministrationとAdobe Admin Console |
 | [Jiraを接続して既定値を設定](#configure-jira) | 接続を許可するSites Optimizer ユーザー | Sites Optimizerの&#x200B;**Settings** |
-| [ チケットを作成](#create-tickets) | 商談に取り組む人全員 | 商談ページ |
+| [&#x200B; チケットを作成](#create-tickets) | 商談に取り組む人全員 | 商談ページ |
 
 組織の最初の2つのステージは1回で完了します。 その後、アクセス権があれば、誰でもサポートされている機会からチケットを作成できます。
 
@@ -53,7 +53,7 @@ Sites Optimizerは、接続を許可するアカウントの代わりにJira チ
 
 1. [admin.atlassian.com](https://admin.atlassian.com)に移動し、組織を選択して、**ユーザーを招待**&#x200B;を選択します。
 
-   ![ ユーザーの招待クイックアクションを含むアトラシアン管理の概要ページ ](./assets/jira-integration/atlassian-invite-users.png){align="center"}
+   ![&#x200B; ユーザーの招待クイックアクションを含むアトラシアン管理の概要ページ &#x200B;](./assets/jira-integration/atlassian-invite-users.png){align="center"}
 
 1. アカウントのメールアドレスを入力します。
 1. **アプリ** リストで、**Jira**&#x200B;を見つけ、**役割**&#x200B;を&#x200B;**ユーザー**&#x200B;に設定します。 割り当てられた1つのスペースのみにアクセスできる&#x200B;**ゲスト**&#x200B;は使用しないでください。
@@ -62,7 +62,7 @@ Sites Optimizerは、接続を許可するアカウントの代わりにJira チ
 
 1. デフォルトのJira グループである&#x200B;**グループメンバーシップ**&#x200B;を`jira-users-<site>`に設定します。 これにより、製品アクセスと組み込みの&#x200B;**メンバー** プロジェクトの役割が付与されます。
 
-   ![ デフォルトのjira-users グループがハイライト表示されたグループメンバーシップリスト ](./assets/jira-integration/atlassian-invite-group-membership.png){align="center"}
+   ![&#x200B; デフォルトのjira-users グループがハイライト表示されたグループメンバーシップリスト &#x200B;](./assets/jira-integration/atlassian-invite-group-membership.png){align="center"}
 
 1. 役割が&#x200B;**ユーザー**&#x200B;で、グループが`jira-users-<site>`であることを確認し、**招待を送信**&#x200B;を選択します。
 
@@ -89,7 +89,7 @@ Jira接続を許可するアカウントは、組織のSites Optimizerにログ�
 
 1. 「**ユーザー**」タブを選択し、「**ユーザーを追加**」を選択し、アカウントの電子メールアドレスを入力して、**保存**」を選択します。
 
-製品のプロファイルと役割について詳しくは、[ ユーザー権限の管理](/help/documentation/manage-permissions.md)を参照してください。
+製品のプロファイルと役割について詳しくは、[&#x200B; ユーザー権限の管理](/help/documentation/manage-permissions.md)を参照してください。
 
 >[!TAB 体験版のお客様]
 
@@ -123,7 +123,7 @@ Sites Optimizer体験版には、Admin ConsoleにSites Optimizer製品プロフ�
 1. 準備したアカウントでSites Optimizerにログインします。
 1. **設定**&#x200B;を選択し、**Jira Cloudに接続** セクションに移動します。 新しい接続にステータス **未接続**&#x200B;が表示されます。
 
-   ![ ステータスが「未接続」の「Jira Cloudに接続」セクションを表示する設定ページ ](./assets/jira-integration/settings-jira-not-connected.png){align="center"}
+   ![&#x200B; ステータスが「未接続」の「Jira Cloudに接続」セクションを表示する設定ページ &#x200B;](./assets/jira-integration/settings-jira-not-connected.png){align="center"}
 
 1. 「**Jira Cloudに接続**」を選択します。
 1. Atlassian ページで、接続を認証し、プロンプトが表示されたらJira サイトを選択します。
@@ -140,7 +140,7 @@ Sites Optimizerに戻ると、ステータスは&#x200B;**Connected**&#x200B;に
 
 接続したら、Sites Optimizerが各チケットに適用するデフォルトを設定します。
 
-![接続済みステータス、接続済みJira サイト、およびチケット作成のデフォルト フォーム ](./assets/jira-integration/settings-ticket-defaults.png){align="center"}を示す「Jira Cloudに接続」セクション
+![接続済みステータス、接続済みJira サイト、およびチケット作成のデフォルト フォーム &#x200B;](./assets/jira-integration/settings-ticket-defaults.png){align="center"}を示す「Jira Cloudに接続」セクション
 
 | フィールド | 必須 | 説明 |
 |---|---|---|
@@ -179,7 +179,7 @@ Sites Optimizerに戻ると、ステータスは&#x200B;**Connected**&#x200B;に
 
 | メッセージ | 実行内容 |
 |---|---|
-| あなたはこの組織のメンバーではありません。 Jiraを接続する前に、管理者に追加を依頼してください。 | アカウントをAdobeの組織および製品プロファイルに追加します。 「[ アカウントにSites Optimizerへのアクセス権を付与する](#grant-aso-access)」を参照してください。 |
+| あなたはこの組織のメンバーではありません。 Jiraを接続する前に、管理者に追加を依頼してください。 | アカウントをAdobeの組織および製品プロファイルに追加します。 「[&#x200B; アカウントにSites Optimizerへのアクセス権を付与する](#grant-aso-access)」を参照してください。 |
 | 別のJira サイトを選択しました。 まず現在の接続を切断してから、新しいサイトを接続します。 | 「**切断**」を選択し、目的のJira サイトを接続します。 |
 | この Jira サイトへの接続は組織に対して既に存在します。 | サイトは既に接続されています。 **設定**&#x200B;を開いて、接続を確認します。 |
 | Jira認証が拒否されました。 もう一度試して、プロンプトが表示されたらアクセス権を付与してください。 | 「**Jira Cloudに接続**」を再度選択し、アトラシアンページでのアクセスを許可します。 |
@@ -193,7 +193,7 @@ Sites Optimizerに戻ると、ステータスは&#x200B;**Connected**&#x200B;に
 * [破損したバックリンク](/help/documentation/opportunities/broken-backlinks.md)
 * [破損した内部リンク](/help/documentation/opportunities/broken-internal-links.md)
 * [コア web バイタル](/help/documentation/opportunities/core-web-vitals.md)
-* [ アクセシビリティの問題](/help/documentation/opportunities/accessibility-issues.md) （ARIA ラベルの修正）
+* [&#x200B; アクセシビリティの問題](/help/documentation/opportunities/accessibility-issues.md) （ARIA ラベルの修正）
 * カラーコントラスト
 * [フォームのアクセシビリティの問題](/help/documentation/opportunities/forms-accessibility-issues.md)
 
@@ -253,7 +253,7 @@ Sites Optimizerがチケットを作成し、「Jira チケットが作成され
 1. **Jira チケットを作成** ダイアログで、`[ASO] Missing alt text – found on https://www.adobe.com/products/photoshop/generative-fill.html`などの&#x200B;**チケット名**&#x200B;を事前入力したままにするか、編集します。
 1. **問題名**&#x200B;と&#x200B;**問題説明**&#x200B;を確認してください。 説明には、**ページ URL**、**画像URL**、**推奨の代替テキスト**&#x200B;が一覧表示されます。
 
-   ![ チケット名、プロジェクト、イシュータイプ、1つのイシューブロックを示す欠落している代替テキストのJira チケットダイアログを作成](./assets/jira-integration/alt-text-dialog.png){align="center"}
+   ![&#x200B; チケット名、プロジェクト、イシュータイプ、1つのイシューブロックを示す欠落している代替テキストのJira チケットダイアログを作成](./assets/jira-integration/alt-text-dialog.png){align="center"}
 
 1. 「**作成**」を選択します。
 
@@ -274,7 +274,7 @@ Jira チケットには、影響を受けるページが一覧表示され、そ
 **Suggested alt text:** Photoshop Generate Similar displays three variations of a red-and-green tomato on a plate.
 ```
 
-![影響を受けるページ、画像URL、および提案された代替テキストを示す1つの欠落している代替テキスト問題から作成されたJira チケット ](./assets/jira-integration/alt-text-jira-ticket.png){align="center"}
+![影響を受けるページ、画像URL、および提案された代替テキストを示す1つの欠落している代替テキスト問題から作成されたJira チケット &#x200B;](./assets/jira-integration/alt-text-jira-ticket.png){align="center"}
 
 ### 例：複数の問題に1つのチケットを作成する {#example-multiple-issues}
 
@@ -318,7 +318,7 @@ Sites Optimizerはチケットを1枚作成します。 参照ページが一覧
 
 両方のバックリンクは、グループ化された1つのチケットに属しているため、**チケットリンク**&#x200B;列に同じJira キーが表示されるようになりました。
 
-![ チケット内の2つのバックリンクの「チケットリンク」列に表示されている同じJira チケットキーを持つバックリンクの問題リストが壊れています](./assets/jira-integration/broken-backlinks-ticket-links.png){align="center"}
+![&#x200B; チケット内の2つのバックリンクの「チケットリンク」列に表示されている同じJira チケットキーを持つバックリンクの問題リストが壊れています](./assets/jira-integration/broken-backlinks-ticket-links.png){align="center"}
 
 ### 例：コードパッチ添付ファイルを含むチケット {#example-core-web-vitals}
 
@@ -343,13 +343,13 @@ Sites Optimizerが選択した問題に対するコードパッチを提案す�
 >
 >選択範囲のコードパッチの合計が3 MBを超える場合、チケットを作成できません。 ページを少なくして、チケットを再度作成します。
 
-添付ファイル セクション ](./assets/jira-integration/cwv-jira-ticket-attachment.png){align="center"}の結合されたコード パッチ ファイルを使用して、Core Web Vitalsから作成された![Jira チケット
+添付ファイル セクション ![&#128279;](./assets/jira-integration/cwv-jira-ticket-attachment.png){align="center"}の結合されたコード パッチ ファイルを使用して、Core Web Vitalsから作成されたJira チケット
 
 Jira チケットから`.diff` ファイルをダウンロードし、例えば`git apply`を使用してコードリポジトリに適用します。 ファイルには、選択した各ページのパッチが含まれています。
 
-![選択した2つのページごとに1つの変更を示す結合コードパッチファイル ](./assets/jira-integration/cwv-diff-file.png){align="center"}
+![選択した2つのページごとに1つの変更を示す結合コードパッチファイル &#x200B;](./assets/jira-integration/cwv-diff-file.png){align="center"}
 
-結合する前に変更内容を確認します。 詳しくは、[ コードパッチの準備](/help/documentation/opportunities/preparing-code-patches.md)を参照してください。
+結合する前に変更内容を確認します。 詳しくは、[&#x200B; コードパッチの準備](/help/documentation/opportunities/preparing-code-patches.md)を参照してください。
 
 ## 各チケットに含まれるもの {#ticket-contents}
 
