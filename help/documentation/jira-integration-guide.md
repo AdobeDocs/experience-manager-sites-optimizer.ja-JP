@@ -250,7 +250,7 @@ Sites Optimizerがチケットを作成し、「Jira チケットが作成され
    ![1つの画像が選択され、チケットの作成アクションが使用可能な代替テキスト商談がありません](./assets/jira-integration/alt-text-select-issue.png){align="center"}
 
 1. 「**チケットを作成**」を選択します。
-1. **Jira チケットを作成** ダイアログで、`[ASO] Missing alt text – found on https://www.adobe.com/products/photoshop/generative-fill.html`などの&#x200B;**チケット名**&#x200B;を事前入力したままにするか、編集します。
+1. **Jira チケットを作成** ダイアログで、`[ASO] Missing alt text – found on https://www.adobe.com/jp/products/photoshop/generative-fill.html`などの&#x200B;**チケット名**&#x200B;を事前入力したままにするか、編集します。
 1. **問題名**&#x200B;と&#x200B;**問題説明**&#x200B;を確認してください。 説明には、**ページ URL**、**画像URL**、**推奨の代替テキスト**&#x200B;が一覧表示されます。
 
    ![&#x200B; チケット名、プロジェクト、イシュータイプ、1つのイシューブロックを示す欠落している代替テキストのJira チケットダイアログを作成](./assets/jira-integration/alt-text-dialog.png){align="center"}
@@ -261,15 +261,15 @@ Jira チケットには、影響を受けるページが一覧表示され、そ
 
 ```markdown
 **Affected pages:**
-- https://www.adobe.com/products/photoshop/generative-fill.html
+- https://www.adobe.com/jp/products/photoshop/generative-fill.html
 
 ---
 
-**[ASO] Missing alt text – found on https://www.adobe.com/products/photoshop/generative-fill.html**
+**[ASO] Missing alt text – found on https://www.adobe.com/jp/products/photoshop/generative-fill.html**
 
-**Page URL:** https://www.adobe.com/products/photoshop/generative-fill.html
+**Page URL:** https://www.adobe.com/jp/products/photoshop/generative-fill.html
 
-**Image URL:** https://www.adobe.com/cc-shared/fragments/products/photoshop/generative-fill/personalization/media_1986ceaab1420f3df0c4ff92b962e01bd402c0d53.jpg?width=750&format=jpg&optimize=medium
+**Image URL:** https://www.adobe.com/jp/cc-shared/fragments/products/photoshop/generative-fill/personalization/media_1986ceaab1420f3df0c4ff92b962e01bd402c0d53.jpg?width=750&format=jpg&optimize=medium
 
 **Suggested alt text:** Photoshop Generate Similar displays three variations of a red-and-green tomato on a plate.
 ```
@@ -303,7 +303,7 @@ Sites Optimizerはチケットを1枚作成します。 参照ページが一覧
 
 **Broken target URL:** https://www.adobe.com/support/flash/how/subjects/jpdemo/
 
-**Suggested redirect:** https://www.adobe.com/support/flash/
+**Suggested redirect:** https://www.adobe.com/jp/support/flash/
 
 ---
 
@@ -311,7 +311,7 @@ Sites Optimizerはチケットを1枚作成します。 参照ページが一覧
 
 **Broken target URL:** https://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&P5_Language=English
 
-**Suggested redirect:** https://www.adobe.com/shockwave/download/
+**Suggested redirect:** https://www.adobe.com/jp/shockwave/download/
 ```
 
 ![2つの壊れたバックリンクから作成されたJira チケット。参照ページと各バックリンクのセクションが表示されている](./assets/jira-integration/broken-backlinks-jira-ticket.png){align="center"}
